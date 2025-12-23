@@ -1,0 +1,202 @@
+Ad_Type,Platform,Target_Age,Budget,Posting_Time,Caption,Category,Followers,Engagement,Image_File
+Image,Instagram,25,5000,Morning,"Discover our new summer collection! ☀️ #fashion #summerstyle #newarrivals",Clothing,10k,2500,image_1.jpg
+Video,Facebook,35,10000,Evening,"Our biggest sale of the year is here! 50% off everything. Link in bio! 💻 #sale #deal #tech",Electronic,50k,12000,image_2.jpg
+Carousel,Instagram,22,7000,Afternoon,"Swipe to see the magic. Our new foundation gives you a flawless finish. ✨ #makeup #beauty #cosmetic",Cosmetic,50k,7500,image_3.jpg
+Image,Facebook,30,4000,Morning,"Start your day right with our organic coffee. ☕️ #coffee #morningroutine #organic",Food,5k,1500,image_4.jpg
+Video,Instagram,28,12000,Evening,"Behind the scenes of our latest photoshoot. What do you think of this look? 👀 #model #fashion #bts",Clothing,100k,15000,image_5.jpg
+Carousel,Facebook,26,8000,Afternoon,"Which one is your favorite? Let us know in the comments! 📚 #books #reading #newrelease",Books,10k,9000,image_6.jpg
+Image,Facebook,38,6000,Morning,"Healthy, delicious, and delivered to your door. Order your meal prep today! 🥗 #healthyfood #mealprep #food",Food,1k,4000,image_7.jpg
+Video,Facebook,31,9000,Evening,"Unboxing our new smartphone! This camera is a game-changer. 📱 #unboxing #tech #smartphone",Electronic,500k,8500,image_8.jpg
+Image,Instagram,24,6500,Afternoon,"Sweater weather is better together. Tag who you'd share this with! 🍂 #fallfashion #cozy #clothing",Clothing,50k,5500,image_9.jpg
+Video,Facebook,33,11000,Night,"Struggling to sleep? Our new pillow is scientifically designed for better rest. 😴 #sleep #wellness #health",Electronic,10k,11500,image_10.jpg
+Carousel,Instagram,21,7500,Morning,"Our top 3 skincare secrets revealed. Your skin will thank you! 💧 #skincare #beautyhacks #cosmetic",Cosmetic,100k,8200,image_11.jpg
+Image,Facebook,40,5500,Afternoon,"A story for the ages. Get your signed copy today. 🖊️ #author #booklover #fiction",Books,5k,3800,image_12.jpg
+Video,Instagram,27,15000,Evening,"Giveaway alert! Win a $500 wardrobe. To enter: Like, Follow, and Tag 3 friends. 🎁 #giveaway #contest #fashion",Clothing,500k,35000,image_13.jpg
+Image,Facebook,32,4800,Morning,"The perfect gift for the foodie in your life. 🍔 #giftideas #foodie #gourmet",Food,1k,2200,image_14.jpg
+Carousel,Instagram,29,9500,Night,"From our kitchen to yours. Try our new pasta sauces! 🍝 #italianfood #recipe #delicious",Food,10k,10500,image_15.jpg
+Image,Instagram,23,5800,Afternoon,"Find your shade. Our new lipstick comes in 20 vibrant colors. 💄 #lipstick #makeup #cosmetic",Cosmetic,50k,4800,image_16.jpg
+Video,Facebook,36,13000,Evening,"Tired of slow laptops? It's time for an upgrade. See the difference. ⚡️ #laptop #technology #fast",Electronic,100k,14000,image_17.jpg
+Image,Facebook,45,4200,Morning,"Escape into another world. Our latest fantasy novel is out now. 🐉 #fantasy #bookworm #newbook",Books,1k,1800,image_18.jpg
+Carousel,Instagram,26,8800,Afternoon,"How to style our classic white tee. 5 looks, 1 shirt. Which is your favorite? #styletips #fashionhacks #ootd",Clothing,50k,9500,image_19.jpg
+Video,Instagram,30,18000,Night,"The future of sound is here. Experience our new wireless earbuds. 🎧 #audio #music #tech",Electronic,1M+,45000,image_20.jpg
+Image,Instagram,22,6200,Morning,"Morning glow essentials. ✨ #skincareroutine #goodmorning #cosmetic",Cosmetic,10k,3200,image_21.jpg
+Video,Facebook,34,9500,Evening,"What's for dinner? We've got you covered. 🍕 #pizza #takeout #fooddelivery",Food,50k,10000,image_22.jpg
+Carousel,Instagram,28,8200,Afternoon,"From page to screen. The book behind the hit movie is a must-read. 🎬 #bookrecommendation #movietiein #books",Books,10k,8800,image_23.jpg
+Image,Facebook,31,5300,Morning,"Dress for success. Our new line of business wear is here. 👔 #workwear #professional #fashion",Clothing,5k,2800,image_24.jpg
+Video,Instagram,25,14000,Evening,"Don't just watch movies, live them. Our new 4K TV is unbelievably immersive. 📺 #hometheater #tv #electronics",Electronic,100k,22000,image_25.jpg
+Carousel,Facebook,27,7800,Afternoon,"The perfect weekend getaway outfits. Pack your bags! ✈️ #travelstyle #vacation #clothing",Clothing,10k,8500,image_26.jpg
+Image,Facebook,39,4500,Morning,"A thriller that will keep you on the edge of your seat. 😱 #thriller #book #reading",Books,1k,2000,image_27.jpg
+Video,Facebook,33,10500,Evening,"Our new gaming mouse gives you the competitive edge. 🖱️ #gaming #esports #tech",Electronic,500k,11000,image_28.jpg
+Image,Instagram,24,6800,Afternoon,"Treat yourself. Our new line of bath bombs are pure bliss. 🛁 #selfcare #relax #cosmetic",Cosmetic,50k,6000,image_29.jpg
+Video,Facebook,37,12500,Night,"The secret ingredient to our famous cookies? Watch to find out! 🍪 #baking #recipe #food",Food,50k,13500,image_30.jpg
+Carousel,Instagram,21,7200,Morning,"Accessorize your life. Our new collection of handbags is here. 👜 #handbags #style #fashion",Clothing,100k,8000,image_31.jpg
+Image,Facebook,42,4800,Afternoon,"The biography of a legend. Inspiring and unforgettable. 🌟 #biography #nonfiction #books",Books,5k,3000,image_32.jpg
+Video,Instagram,29,16000,Evening,"Transform your skin in 30 days. The results are real. Join the challenge! 💪 #skinchallenge #beforeandafter #cosmetic",Cosmetic,500k,38000,image_33.jpg
+Image,Facebook,34,5000,Morning,"Artisanal cheese, delivered fresh. What's not to love? 🧀 #cheese #gourmet #food",Food,1k,2500,image_34.jpg
+Carousel,Instagram,25,9200,Night,"Date night outfit ideas. Look and feel your best. ❤️ #datenight #outfitinspo #clothing",Clothing,50k,10000,image_35.jpg
+Image,Instagram,23,6000,Afternoon,"Our new eyeshadow palette has all the colors of the sunset. 🌅 #eyeshadow #makeup #cosmetic",Cosmetic,50k,5200,image_36.jpg
+Video,Facebook,35,14500,Evening,"This drone footage is epic! See the world from a new perspective. 🚁 #drone #tech #videography",Electronic,100k,25000,image_37.jpg
+Image,Facebook,41,4000,Morning,"A historical novel that brings the past to life. 📖 #historicalfiction #books #history",Books,1k,1700,image_38.jpg
+Carousel,Instagram,27,8500,Afternoon,"Street style inspiration. Get the look. 👟 #streetstyle #urbanfashion #clothing",Clothing,100k,9200,image_39.jpg
+Video,Instagram,31,20000,Night,"Our smart home system makes your life easier. Welcome to the future. 💡 #smarthome #iot #tech",Electronic,1M+,55000,image_40.jpg
+Image,Instagram,22,6400,Morning,"Flawless coverage, breathable feel. Our new CC cream is a must-have. #cccream #beauty #cosmetic",Cosmetic,10k,3500,image_41.jpg
+Video,Facebook,36,9800,Evening,"Farm-to-table freshness. See how we source our ingredients. 🍅 #organic #farmfresh #food",Food,50k,10500,image_42.jpg
+Carousel,Instagram,29,8000,Afternoon,"Beach reads are here! What's in your bag? 🏖️ #beachread #summerreading #books",Books,10k,8600,image_43.jpg
+Image,Facebook,32,5500,Morning,"The perfect suit for the modern professional. Sharp and stylish. #mensfashion #suit #style",Clothing,5k,3000,image_44.jpg
+Video,Instagram,26,15000,Evening,"Power up your workout. Our new pre-workout formula is here. 💪 #fitness #gym #supplements",Food,100k,24000,image_45.jpg
+Carousel,Facebook,28,7500,Afternoon,"Activewear that works as hard as you do. #activewear #gymwear #clothing",Clothing,50k,8300,image_46.jpg
+Image,Facebook,40,4300,Morning,"A self-help book that will actually change your life. #selfhelp #motivation #books",Books,1k,1900,image_47.jpg
+Video,Facebook,34,11500,Evening,"Capture your memories in stunning detail with our new camera. 📸 #camera #photography #tech",Electronic,500k,12000,image_48.jpg
+Image,Instagram,25,7000,Afternoon,"Sun-kissed skin without the damage. Try our new self-tanner. ☀️ #selftanner #bronze #cosmetic",Cosmetic,50k,6500,image_49.jpg
+Video,Facebook,38,13500,Night,"The ultimate comfort food. Our mac and cheese recipe is legendary. 🧀 #comfortfood #macandcheese #recipe",Food,100k,15000,image_50.jpg
+Image,Instagram,23,5600,Morning,"The denim jacket. A timeless classic. #denim #fashion #style",Clothing,50k,4500,image_51.jpg
+Video,Facebook,33,10000,Evening,"Why our customers love our new smartwatch. See the reviews! ⭐ #smartwatch #wearabletech #reviews",Electronic,100k,11000,image_52.jpg
+Carousel,Instagram,27,8400,Afternoon,"The best poetry of the year, all in one collection. #poetry #bookstagram #reading",Books,10k,8900,image_53.jpg
+Image,Facebook,30,5800,Morning,"Sustainable fashion that looks good and does good. ♻️ #sustainablefashion #ecofriendly #clothing",Clothing,5k,3200,image_54.jpg
+Video,Instagram,26,16000,Evening,"Our new VR headset is a whole new reality. You have to see it to believe it. #vr #virtualreality #tech",Electronic,500k,30000,image_55.jpg
+Carousel,Facebook,28,7900,Afternoon,"Skincare for sensitive skin. Gentle, effective, and calming. #sensitiveskin #skincare #cosmetic",Cosmetic,50k,8500,image_56.jpg
+Image,Facebook,39,4600,Morning,"The ultimate guide to baking bread. From starter to loaf. 🍞 #baking #sourdough #food",Food,1k,2100,image_57.jpg
+Video,Facebook,35,12000,Evening,"Our new tablet is perfect for work and play. The possibilities are endless. #tablet #productivity #tech",Electronic,500k,13000,image_58.jpg
+Image,Instagram,24,6600,Afternoon,"Bold brows are in. Our new brow gel gives you the perfect shape. #brows #eyebrows #makeup",Cosmetic,50k,5800,image_59.jpg
+Video,Facebook,37,14000,Night,"This is not your average chocolate. It's an experience. 🍫 #chocolate #gourmet #food",Food,100k,16000,image_60.jpg
+Carousel,Instagram,22,7400,Morning,"Our new sneaker drop is live! Limited stock. Don't miss out. 👟 #sneakers #streetwear #fashion",Clothing,100k,8200,image_61.jpg
+Image,Facebook,43,4900,Afternoon,"A gripping mystery that will have you guessing until the very end. 🕵️ #mystery #book #crimefiction",Books,5k,3100,image_62.jpg
+Video,Instagram,30,17000,Evening,"Get the perfect winged eyeliner every time. Our new liner stamp makes it easy. #eyeliner #makeuphack #cosmetic",Cosmetic,500k,40000,image_63.jpg
+Image,Facebook,36,5100,Morning,"Freshly squeezed juice, delivered to your door. The best way to start your day. 🍊 #juice #healthy #wellness",Food,1k,2600,image_64.jpg
+Carousel,Instagram,26,9400,Night,"Cozy PJs for the perfect night in. Sweet dreams! 😴 #pajamas #loungewear #clothing",Clothing,50k,10200,image_65.jpg
+Image,Instagram,24,6100,Afternoon,"Shine bright. Our new highlighter will have you glowing. ✨ #highlighter #glow #makeup",Cosmetic,50k,5300,image_66.jpg
+Video,Facebook,34,15000,Evening,"This portable speaker has some serious bass. Bring the party anywhere. 🎶 #speaker #music #tech",Electronic,100k,27000,image_67.jpg
+Image,Facebook,44,4100,Morning,"Learn a new skill. Our latest non-fiction release is packed with knowledge. 🧠 #nonfiction #learning #books",Books,1k,1800,image_68.jpg
+Carousel,Instagram,28,8700,Afternoon,"Swimwear for every body. Feel confident this summer. 👙 #swimwear #summer #bodypositive",Clothing,100k,9400,image_69.jpg
+Video,Instagram,32,22000,Night,"This electric scooter is the future of city commuting. Zip through traffic. 🛴 #escooter #electricvehicle #tech",Electronic,1M+,60000,image_70.jpg
+Image,Instagram,23,6300,Morning,"The secret to luscious lashes. Our new mascara is a game-changer. #mascara #lashes #makeup",Cosmetic,10k,3400,image_71.jpg
+Video,Facebook,35,10200,Evening,"Healthy snacks that actually taste good. Fuel your day the right way. 🍎 #healthysnacks #nutrition #food",Food,50k,11000,image_72.jpg
+Carousel,Instagram,29,8100,Afternoon,"The complete works of a master storyteller. A must-have for any library. #classicliterature #books #reading",Books,10k,8700,image_73.jpg
+Image,Facebook,31,5700,Morning,"A little black dress is always a good idea. #lbd #fashion #style",Clothing,5k,3100,image_74.jpg
+Video,Instagram,27,15500,Evening,"Our new action camera is built for adventure. Where will you take it? 🏔️ #actioncamera #adventure #tech",Electronic,100k,26000,image_75.jpg
+Carousel,Facebook,27,7600,Afternoon,"Workout clothes that make you want to move. #fitnessfashion #gymstyle #clothing",Clothing,50k,8400,image_76.jpg
+Image,Facebook,41,4400,Morning,"A cookbook that will make you a star in the kitchen. 🍳 #cookbook #recipe #cooking",Books,1k,2000,image_77.jpg
+Video,Facebook,33,11800,Evening,"This new software will revolutionize your workflow. Work smarter, not harder. #software #productivity #tech",Electronic,500k,12500,image_78.jpg
+Image,Instagram,25,7100,Afternoon,"Say goodbye to dry skin. Our new moisturizer provides 24-hour hydration. #moisturizer #skincare #cosmetic",Cosmetic,50k,6600,image_79.jpg
+Video,Facebook,39,13800,Night,"The perfect wine pairing for your next dinner party. Cheers! 🍷 #wine #foodpairing #gourmet",Food,100k,15500,image_80.jpg
+Image,Instagram,22,5900,Morning,"The perfect pair of jeans. Comfortable, stylish, and built to last. #jeans #denim #fashion",Clothing,50k,4700,image_81.jpg
+Video,Facebook,32,10800,Evening,"Our new noise-cancelling headphones create your own private oasis. 🎧 #headphones #music #tech",Electronic,100k,11500,image_82.jpg
+Carousel,Instagram,26,8600,Afternoon,"The best graphic novels of the year. Art and story combined. #graphicnovel #comics #books",Books,10k,9100,image_83.jpg
+Image,Facebook,30,5900,Morning,"A statement coat to elevate any outfit. #winterfashion #coat #style",Clothing,5k,3300,image_84.jpg
+Video,Instagram,28,16500,Evening,"This robot vacuum does the cleaning so you don't have to. Sit back and relax. #robotvacuum #smarthome #tech",Electronic,500k,32000,image_85.jpg
+Carousel,Facebook,29,7700,Afternoon,"Our new line of organic teas is here. Find your perfect blend. 🍵 #tea #organic #wellness",Food,50k,8600,image_86.jpg
+Image,Facebook,40,4700,Morning,"A memoir that reads like a novel. Powerful and moving. #memoir #nonfiction #books",Books,1k,2200,image_87.jpg
+Video,Facebook,36,12200,Evening,"Our new app makes managing your finances easy. Download it today! 📱 #app #finance #fintech",Electronic,500k,13500,image_88.jpg
+Image,Instagram,24,6700,Afternoon,"Plump up your pout with our new lip gloss. 💋 #lipgloss #makeup #cosmetic",Cosmetic,50k,5900,image_89.jpg
+Video,Facebook,38,14200,Night,"The art of sushi making, revealed. Watch our master chef at work. 🍣 #sushi #japanesefood #recipe",Food,100k,16500,image_90.jpg
+Carousel,Instagram,23,7300,Morning,"The essential t-shirts every wardrobe needs. #basics #style #fashion",Clothing,100k,8100,image_91.jpg
+Image,Facebook,42,5000,Afternoon,"A sci-fi epic that will transport you to another galaxy. 🚀 #scifi #book #sciencefiction",Books,5k,3200,image_92.jpg
+Video,Instagram,31,17500,Evening,"Our new face mask will give you an instant glow-up. Perfect for a pamper night. #facemask #skincare #cosmetic",Cosmetic,500k,42000,image_93.jpg
+Image,Facebook,37,5200,Morning,"Gourmet spices to elevate your cooking. Taste the difference. 🌶️ #spices #cooking #food",Food,1k,2700,image_94.jpg
+Carousel,Instagram,27,9600,Night,"Wedding guest dress ideas. Be the best-dressed guest. 💃 #weddingguest #dress #fashion",Clothing,50k,10500,image_95.jpg
+Image,Instagram,25,6200,Afternoon,"Set it and forget it. Our new setting spray keeps your makeup in place all day. #settingspray #makeup #cosmetic",Cosmetic,50k,5400,image_96.jpg
+Video,Facebook,35,15500,Evening,"This new gaming console is a beast. The graphics are insane. 🎮 #gaming #console #tech",Electronic,100k,28000,image_97.jpg
+Image,Facebook,45,4200,Morning,"A travel guide that goes off the beaten path. Explore like a local. 🗺️ #travel #adventure #books",Books,1k,1900,image_98.jpg
+Carousel,Instagram,28,8900,Afternoon,"The ultimate guide to layering your necklaces. #jewelry #styletips #fashion",Clothing,100k,9600,image_99.jpg
+Video,Instagram,33,25000,Night,"Our new electric car is silent, powerful, and changes everything. The future is electric. 🚗 #electriccar #ev #tech",Electronic,1M+,70000,image_100.jpg
+Image,Instagram,24,6500,Morning,"Natural deodorant that actually works. Stay fresh all day. #naturaldeodorant #cleanbeauty #cosmetic",Cosmetic,10k,3600,image_101.jpg
+Video,Facebook,34,10500,Evening,"Learn to make pasta from scratch with our step-by-step guide. 🍝 #pasta #cookingclass #food",Food,50k,11500,image_102.jpg
+Carousel,Instagram,30,8300,Afternoon,"The best thrillers to read this fall. 🍂 #thrillerbooks #readinglist #books",Books,10k,8800,image_103.jpg
+Image,Facebook,32,5600,Morning,"A classic trench coat is a wardrobe staple. #trenchcoat #fashion #style",Clothing,5k,3100,image_104.jpg
+Video,Instagram,27,15800,Evening,"Our new blender can handle anything. From smoothies to soups. #blender #kitchengadgets #tech",Electronic,100k,27000,image_105.jpg
+Carousel,Facebook,26,7800,Afternoon,"Athleisure looks for your busiest days. Comfort and style combined. #athleisure #casualstyle #clothing",Clothing,50k,8500,image_106.jpg
+Image,Facebook,41,4500,Morning,"A history book that reads like an adventure story. #history #nonfiction #books",Books,1k,2100,image_107.jpg
+Video,Facebook,35,11900,Evening,"Our new project management tool will keep your team on track. #projectmanagement #software #business",Electronic,500k,12800,image_108.jpg
+Image,Instagram,25,7200,Afternoon,"Hydrating lip balm with a hint of color. Your everyday essential. #lipbalm #makeup #cosmetic",Cosmetic,50k,6700,image_109.jpg
+Video,Facebook,39,13900,Night,"The perfect steak, every time. Our new smart grill takes out the guesswork. 🥩 #grilling #bbq #food",Food,100k,15800,image_110.jpg
+Image,Instagram,23,5700,Morning,"The oversized hoodie. Your new best friend. #hoodie #loungewear #fashion",Clothing,50k,4600,image_111.jpg
+Video,Facebook,33,11000,Evening,"Our new security camera gives you peace of mind. Keep an eye on your home from anywhere. 👁️ #securitycamera #smarthome #tech",Electronic,100k,11800,image_112.jpg
+Carousel,Instagram,27,8700,Afternoon,"The best fantasy series since Game of Thrones. You won't be able to put it down. #fantasybooks #bookworm #reading",Books,10k,9200,image_113.jpg
+Image,Facebook,30,6000,Morning,"A timeless leather jacket. The definition of cool. #leatherjacket #fashion #style",Clothing,5k,3400,image_114.jpg
+Video,Instagram,28,16800,Evening,"Our new air fryer makes your favorite foods healthier and crispier. #airfryer #kitchenhacks #food",Food,500k,33000,image_115.jpg
+Carousel,Facebook,29,7900,Afternoon,"The ultimate guide to skincare ingredients. Know what you're putting on your face. #skincareeducation #beautytips #cosmetic",Cosmetic,50k,8700,image_116.jpg
+Image,Facebook,40,4800,Morning,"A heartwarming story about friendship and second chances. #feelgoodbooks #fiction #reading",Books,1k,2300,image_117.jpg
+Video,Facebook,36,12400,Evening,"Our new coding bootcamp will land you a job in tech. Guaranteed. #coding #bootcamp #tech",Electronic,500k,13800,image_118.jpg
+Image,Instagram,24,6800,Afternoon,"A pop of color for your cheeks. Our new cream blush is a dream. #blush #makeup #cosmetic",Cosmetic,50k,6000,image_119.jpg
+Video,Facebook,38,14400,Night,"Learn the art of cocktail making with our master mixologist. 🍸 #cocktails #mixology #recipe",Food,100k,16800,image_120.jpg
+Carousel,Instagram,22,7500,Morning,"The perfect white sneakers to go with everything. #whitesneakers #style #fashion",Clothing,100k,8300,image_121.jpg
+Image,Facebook,43,4900,Afternoon,"A true crime story that will shock you. Stranger than fiction. #truecrime #book #nonfiction",Books,5k,3200,image_122.jpg
+Video,Instagram,31,17800,Evening,"Our new hair serum fights frizz and adds shine. Hello, good hair day! #haircare #serum #beauty",Cosmetic,500k,43000,image_123.jpg
+Image,Facebook,37,5300,Morning,"Artisanal chocolate truffles. A little box of happiness. 🍫 #chocolatetruffles #gourmet #food",Food,1k,2800,image_124.jpg
+Carousel,Instagram,27,9700,Night,"Holiday party outfits that will turn heads. ✨ #holidayfashion #partydress #fashion",Clothing,50k,10600,image_125.jpg
+Image,Instagram,25,6300,Afternoon,"Our new concealer erases dark circles and blemishes instantly. #concealer #makeup #cosmetic",Cosmetic,50k,5500,image_126.jpg
+Video,Facebook,35,15800,Evening,"This new 3D printer can create anything you can imagine. #3dprinting #tech #innovation",Electronic,100k,29000,image_127.jpg
+Image,Facebook,45,4300,Morning,"A collection of short stories from a master of the form. #shortstories #fiction #books",Books,1k,2000,image_128.jpg
+Carousel,Instagram,28,9000,Afternoon,"The ultimate guide to building a capsule wardrobe. #capsulewardrobe #minimalistfashion #style",Clothing,100k,9700,image_129.jpg
+Video,Instagram,33,26000,Night,"Our new smart mirror is your personal fitness trainer. Workout from home. #smartmirror #homegym #tech",Electronic,1M+,75000,image_130.jpg
+Image,Instagram,24,6600,Morning,"A gentle cleanser that removes makeup without stripping your skin. #cleanser #skincare #cosmetic",Cosmetic,10k,3700,image_131.jpg
+Video,Facebook,34,10700,Evening,"The perfect vegan burger recipe. You won't believe it's not meat. 🍔 #vegan #recipe #plantbased",Food,50k,11700,image_132.jpg
+Carousel,Instagram,30,8400,Afternoon,"The best sci-fi novels of all time. Have you read them all? #scifibooks #readinglist #books",Books,10k,8900,image_133.jpg
+Image,Facebook,32,5700,Morning,"A classic peacoat for timeless style. #peacoat #winterfashion #mensstyle",Clothing,5k,3200,image_134.jpg
+Video,Instagram,27,16000,Evening,"Our new food processor is a kitchen workhorse. Chop, slice, and dice with ease. #foodprocessor #kitchengadgets #tech",Electronic,100k,28000,image_135.jpg
+Carousel,Facebook,26,7900,Afternoon,"Sustainable activewear for your eco-conscious workout. ♻️ #sustainablefashion #activewear #clothing",Clothing,50k,8600,image_136.jpg
+Image,Facebook,41,4600,Morning,"A business book that will change the way you think. #business #entrepreneurship #books",Books,1k,2200,image_137.jpg
+Video,Facebook,35,12100,Evening,"Our new AI writing assistant will help you write better, faster. #ai #writing #software",Electronic,500k,13000,image_138.jpg
+Image,Instagram,25,7300,Afternoon,"A vitamin C serum for brighter, more radiant skin. #vitaminc #serum #skincare",Cosmetic,50k,6800,image_139.jpg
+Video,Facebook,39,14100,Night,"The ultimate guide to meal prepping for the week. Save time and eat healthy. 🥗 #mealprep #healthyhabits #food",Food,100k,16000,image_140.jpg
+Image,Instagram,23,5800,Morning,"The perfect sunglasses to complete your look. #sunglasses #accessories #fashion",Clothing,50k,4700,image_141.jpg
+Video,Facebook,33,11200,Evening,"Our new smart thermostat saves you money and energy. It's a win-win. 🌡️ #smartthermostat #smarthome #tech",Electronic,100k,12000,image_142.jpg
+Carousel,Instagram,27,8800,Afternoon,"The best horror novels to read with the lights on. 👻 #horrorbooks #bookworm #reading",Books,10k,9300,image_143.jpg
+Image,Facebook,30,6100,Morning,"A cozy flannel shirt for chilly days. #flannel #fallfashion #style",Clothing,5k,3500,image_144.jpg
+Video,Instagram,28,17000,Evening,"Our new coffee machine makes barista-quality coffee at home. ☕ #coffee #espresso #tech",Food,500k,34000,image_145.jpg
+Carousel,Facebook,29,8000,Afternoon,"The ultimate guide to Korean beauty. Get that glass skin look. #kbeauty #skincareroutine #cosmetic",Cosmetic,50k,8800,image_146.jpg
+Image,Facebook,40,4900,Morning,"An inspiring memoir about overcoming adversity. #memoir #inspirational #books",Books,1k,2400,image_147.jpg
+Video,Facebook,36,12600,Evening,"Our new graphic design software is intuitive and powerful. Create stunning visuals. #graphicdesign #software #creativity",Electronic,500k,14000,image_148.jpg
+Image,Instagram,24,6900,Afternoon,"A waterproof mascara that won't smudge or flake. #waterproofmascara #makeup #cosmetic",Cosmetic,50k,6100,image_149.jpg
+Video,Facebook,38,14600,Night,"Learn to make fresh pasta with a real Italian nonna. 🍝 #pastamaking #italianfood #recipe",Food,100k,17000,image_150.jpg
+Carousel,Instagram,22,7600,Morning,"The combat boot. Edgy, stylish, and surprisingly versatile. #combatboots #style #fashion",Clothing,100k,8400,image_151.jpg
+Image,Facebook,43,5000,Afternoon,"A historical epic that spans generations. #historicalfiction #book #reading",Books,5k,3300,image_152.jpg
+Video,Instagram,31,18000,Evening,"Our new retinol serum reduces wrinkles and fine lines. Turn back the clock. #retinol #antiaging #skincare",Cosmetic,500k,44000,image_153.jpg
+Image,Facebook,37,5400,Morning,"Artisanal jams and preserves, made with love. 🍓 #jam #gourmet #food",Food,1k,2900,image_154.jpg
+Carousel,Instagram,27,9800,Night,"Black tie event? We've got the perfect gown for you. #blacktie #eveninggown #fashion",Clothing,50k,10800,image_155.jpg
+Image,Instagram,25,6400,Afternoon,"Our new foundation stick is perfect for on-the-go touch-ups. #foundationstick #makeup #cosmetic",Cosmetic,50k,5600,image_156.jpg
+Video,Facebook,35,16000,Evening,"This new smart lock gives you keyless entry and peace of mind. #smartlock #smarthome #tech",Electronic,100k,30000,image_157.jpg
+Image,Facebook,45,4400,Morning,"A collection of essays from a brilliant mind. Thought-provoking and insightful. #essays #nonfiction #books",Books,1k,2100,image_158.jpg
+Carousel,Instagram,28,9100,Afternoon,"How to style a silk scarf. So many possibilities! #silkscarf #styletips #fashion",Clothing,100k,9800,image_159.jpg
+Video,Instagram,33,28000,Night,"Our new massage gun relieves sore muscles and speeds up recovery. #massagegun #recovery #fitness",Electronic,1M+,80000,image_160.jpg
+Image,Instagram,24,6700,Morning,"A clay mask that detoxifies your pores and leaves your skin feeling refreshed. #claymask #skincare #cosmetic",Cosmetic,10k,3800,image_161.jpg
+Video,Facebook,34,10900,Evening,"The perfect smoothie recipe for a quick and healthy breakfast. 🍓🍌 #smoothie #recipe #healthybreakfast",Food,50k,11900,image_162.jpg
+Carousel,Instagram,30,8500,Afternoon,"The best biographies to read this year. Learn from the greats. #biography #readinglist #books",Books,10k,9000,image_163.jpg
+Image,Facebook,32,5800,Morning,"A versatile bomber jacket for a cool, casual look. #bomberjacket #fashion #style",Clothing,5k,3300,image_164.jpg
+Video,Instagram,27,16200,Evening,"Our new air purifier removes 99.9% of allergens from the air. Breathe easy. #airpurifier #healthyliving #tech",Electronic,100k,29000,image_165.jpg
+Carousel,Facebook,26,8000,Afternoon,"The perfect loungewear set for a lazy Sunday. #loungewear #cozy #clothing",Clothing,50k,8700,image_166.jpg
+Image,Facebook,41,4700,Morning,"A book about the science of happiness. Fascinating and practical. #psychology #nonfiction #books",Books,1k,2300,image_167.jpg
+Video,Facebook,35,12300,Evening,"Our new video editing software is powerful yet easy to use. Create amazing videos. #videoediting #software #creativity",Electronic,500k,13200,image_168.jpg
+Image,Instagram,25,7400,Afternoon,"A hydrating toner that preps your skin for the rest of your routine. #toner #skincare #cosmetic",Cosmetic,50k,6900,image_169.jpg
+Video,Facebook,39,14300,Night,"The ultimate guide to making your own sourdough starter. It's alive! 🍞 #sourdoughstarter #baking #food",Food,100k,16200,image_170.jpg
+Image,Instagram,23,5900,Morning,"The classic trench coat. A must-have for any wardrobe. #trenchcoat #fashion #style",Clothing,50k,4800,image_171.jpg
+Video,Facebook,33,11400,Evening,"Our new smart scale tracks more than just your weight. Get a complete picture of your health. #smartscale #fitness #tech",Electronic,100k,12200,image_172.jpg
+Carousel,Instagram,27,8900,Afternoon,"The best poetry collections for beginners. A great place to start. #poetry #bookrecommendations #reading",Books,10k,9400,image_173.jpg
+Image,Facebook,30,6200,Morning,"A stylish and practical backpack for your daily commute. #backpack #workstyle #fashion",Clothing,5k,3600,image_174.jpg
+Video,Instagram,28,17200,Evening,"Our new immersion blender is a kitchen game-changer. So versatile! #immersionblender #kitchengadgets #food",Food,500k,35000,image_175.jpg
+Carousel,Facebook,29,8100,Afternoon,"The ultimate guide to natural and organic makeup. #cleanbeauty #organicmakeup #cosmetic",Cosmetic,50k,8900,image_176.jpg
+Image,Facebook,40,5000,Morning,"A powerful novel about family, loss, and resilience. #fiction #bookclub #reading",Books,1k,2500,image_177.jpg
+Video,Facebook,36,12800,Evening,"Our new password manager keeps all your accounts secure. #cybersecurity #passwordmanager #tech",Electronic,500k,14200,image_178.jpg
+Image,Instagram,24,7000,Afternoon,"A setting powder that blurs pores and controls shine. #settingpowder #makeup #cosmetic",Cosmetic,50k,6200,image_179.jpg
+Video,Facebook,38,14800,Night,"Learn how to make authentic ramen from a master chef. 🍜 #ramen #japanesecooking #recipe",Food,100k,17200,image_180.jpg
+Carousel,Instagram,22,7700,Morning,"The Chelsea boot. A timeless and versatile choice. #chelseaboots #style #fashion",Clothing,100k,8500,image_181.jpg
+Image,Facebook,43,5100,Afternoon,"A mind-bending psychological thriller. You won't see the ending coming. #psychologicalthriller #book #suspense",Books,5k,3400,image_182.jpg
+Video,Instagram,31,18200,Evening,"Our new anti-aging eye cream targets dark circles and puffiness. #eyecream #antiaging #skincare",Cosmetic,500k,45000,image_183.jpg
+Image,Facebook,37,5500,Morning,"Gourmet olive oil, straight from Italy. Taste the sunshine. ☀️ #oliveoil #gourmet #food",Food,1k,3000,image_184.jpg
+Carousel,Instagram,27,9900,Night,"What to wear to a summer wedding. Look cool, feel comfortable. #weddingattire #summerfashion #style",Clothing,50k,11000,image_185.jpg
+Image,Instagram,25,6500,Afternoon,"Our new liquid eyeliner is ultra-precise and jet black. #liquideyeliner #makeup #cosmetic",Cosmetic,50k,5700,image_186.jpg
+Video,Facebook,35,16200,Evening,"This new projector turns any wall into a movie screen. Movie night just got an upgrade. 🍿 #projector #hometheater #tech",Electronic,100k,31000,image_187.jpg
+Image,Facebook,45,4500,Morning,"A collection of heartwarming animal stories. Guaranteed to make you smile. 🐾 #animalstories #feelgood #books",Books,1k,2200,image_188.jpg
+Carousel,Instagram,28,9200,Afternoon,"How to accessorize with hats. A hat for every occasion. 🎩 #hats #styletips #fashion",Clothing,100k,9900,image_189.jpg
+Video,Instagram,33,30000,Night,"Our new smart garden grows fresh herbs and vegetables indoors. No green thumb required. 🌱 #smartgarden #indoorgardening #tech",Electronic,1M+,85000,image_190.jpg
+Image,Instagram,24,6800,Morning,"A refreshing face mist to hydrate and revive your skin throughout the day. #facemist #skincare #cosmetic",Cosmetic,10k,3900,image_191.jpg
+Video,Facebook,34,11100,Evening,"The ultimate guide to making your own pizza dough. It's easier than you think. 🍕 #pizzadough #recipe #cooking",Food,50k,12100,image_192.jpg
+Carousel,Instagram,30,8600,Afternoon,"The best historical fiction of the decade. Journey back in time. #historicalfiction #readinglist #books",Books,10k,9100,image_193.jpg
+Image,Facebook,32,5900,Morning,"A classic wool sweater for warmth and style. #woolsweater #winterfashion #style",Clothing,5k,3400,image_194.jpg
+Video,Instagram,27,16400,Evening,"Our new electric toothbrush gives you a dentist-clean feeling every day. #electrictoothbrush #oralcare #tech",Electronic,100k,30000,image_195.jpg
+Carousel,Facebook,26,8100,Afternoon,"The ultimate guide to vintage shopping. Find hidden gems. #vintageshopping #thrifting #fashion",Clothing,50k,8800,image_196.jpg
+Image,Facebook,41,4800,Morning,"A motivational book to help you achieve your goals. #motivation #selfimprovement #books",Books,1k,2400,image_197.jpg
+Video,Facebook,35,12500,Evening,"Our new language learning app makes learning a new language fun and easy. #languagelearning #app #education",Electronic,500k,13500,image_198.jpg
+Image,Instagram,25,7500,Afternoon,"A body scrub that exfoliates and moisturizes for silky smooth skin. #bodyscrub #skincare #cosmetic",Cosmetic,50k,7000,image_199.jpg
+Video,Facebook,39,14500,Night,"The secret to the perfect paella, revealed by a Spanish chef. 🇪🇸 #paella #spanishfood #recipe",Food,100k,16800,image_200.jpg
+
