@@ -1,0 +1,1001 @@
+campaign_id,product_type,campaign_type,location,audience_size,budget,ad_text,hashtags,image_brightness,image_colorfulness,cta_strength,expected_engagement_rate,actual_leads,currency
+FIN01002,Finance,Engagement,Thoothukudi,221949,528,Discover amazing finance deals! Download App now!,#Launch #Marketing #BrandDeal,0.585010446498045,0.8911576023060208,0.6818145878000573,1.0,620,INR
+TEC01934,Technology,Brand Awareness,Tiruchirappalli,601152,1236,Discover amazing technology deals! Get Offer now!,#Sale #BrandDeal,0.5480701979676119,0.3419487618178909,0.1892426189263787,1.0,756,INR
+BEA01481,Beauty,Traffic,Kanchipuram,499888,529,Discover amazing beauty deals! Learn More now!,#Viral #BestChoice,0.5558327576320456,0.7284309942525928,0.6847992545397502,1.0,327,INR
+TEC01992,Technology,Leads,Kanniyakumari,125543,605,Discover amazing technology deals! Sign Up now!,#InstaAd #Viral #Promo #NewProduct,0.4472183504301857,0.708699884340415,0.4395580789098173,1.0,335,INR
+TEC01771,Technology,Brand Awareness,Thanjavur,258319,115,Discover amazing technology deals! Try Free now!,#NewProduct #Trending #Promo #Discount,0.377525902195101,1.0,0.6248897119962279,1.0,75,INR
+FIN01090,Finance,Traffic,Vellore,392193,188,Discover amazing finance deals! Learn More now!,#Trending #InstaAd #Promo #Discount,0.5442965284445827,0.6036134889683362,1.0,1.0,256,INR
+FAS01576,Fashion,Engagement,Kanchipuram,236187,482,Discover amazing fashion deals! Get Offer now!,#Trending #Viral #BestChoice #Launch,0.4576570758346983,0.5186194250555878,0.1123860368439096,1.0,245,INR
+FOO01202,Food,Engagement,Salem,438311,1355,Discover amazing food deals! Learn More now!,#Marketing #Discount,0.5586569079227175,0.6610189542626855,0.3987771884697785,1.0,979,INR
+FIN01113,Finance,Conversions,Thoothukudi,476633,691,Discover amazing finance deals! Join Today now!,#LimitedOffer #Sale,0.6579042522530715,0.6293402546790775,0.8261125816647041,1.0,624,INR
+FAS01439,Fashion,Brand Awareness,Dindigul,396009,932,Discover amazing fashion deals! Download App now!,#Promo #Marketing #InstaAd,0.1673768346356498,0.7168402016678743,1.0,1.0,491,INR
+FIT01250,Fitness,Traffic,Madurai,689089,320,Discover amazing fitness deals! Shop Now now!,#InstaAd #Viral #Promo,0.4893250203423763,0.863867606079114,0.6427117160248114,1.0,375,INR
+FIN02237,Finance,Conversions,Thoothukudi,261877,169,Discover amazing finance deals! Get Offer now!,#BestChoice #Sale,0.6143098236567557,0.549113027714255,1.0,1.0,139,INR
+FOO01272,Food,Conversions,Thanjavur,324197,1175,Discover amazing food deals! Learn More now!,#Viral #Ad #Marketing,0.8123374392044295,0.4459809325696594,0.8089656564240358,1.0,834,INR
+FOO01653,Food,Traffic,Thanjavur,199922,824,Discover amazing food deals! Shop Now now!,#Promo #Trending,0.6279337723329173,0.8307308530933728,0.664087457589713,1.0,922,INR
+TEC01249,Technology,Engagement,Vellore,394074,156,Discover amazing technology deals! Shop Now now!,#NewProduct #Discount,0.5115275202631748,0.745001457336989,1.0,1.0,151,INR
+FOO02033,Food,Brand Awareness,Salem,463121,324,Discover amazing food deals! Get Offer now!,#LimitedOffer #Ad,0.4962781093039732,0.427592515415106,0.1897521077949783,1.0,201,INR
+FAS01582,Fashion,Conversions,Tiruchirappalli,437131,1520,Discover amazing fashion deals! Learn More now!,#Marketing #InstaAd #Viral #Sale,0.6070130529071578,0.9796003062406524,0.0050732785511157,1.0,482,INR
+AUT02180,Automobile,Brand Awareness,Vellore,415765,1047,Discover amazing automobile deals! Learn More now!,#Ad #Marketing #InstaAd #Launch,0.8248225641869583,0.753141630517191,0.4576974868866322,1.0,1073,INR
+FIN01801,Finance,Leads,Vellore,406884,1606,Discover amazing finance deals! Try Free now!,#Trending #Launch #Discount #Promo,0.617513015990246,0.4371396929033533,1.0,1.0,1552,INR
+EDU01658,Education,Engagement,Madurai,625917,240,Discover amazing education deals! Shop Now now!,#LimitedOffer #Trending #BestChoice,0.5333387972537372,0.8923147778584434,0.5442172475319303,1.0,170,INR
+AUT02146,Automobile,Leads,Tirunelveli,486429,1187,Discover amazing automobile deals! Join Today now!,#Ad #NewProduct #Discount,0.5369232641215677,0.6414330013489628,0.4249034068430032,1.0,735,INR
+BEA01999,Beauty,Leads,Salem,599770,1103,Discover amazing beauty deals! Shop Now now!,#Marketing #Launch,0.4809411616064486,0.7885794590019148,0.7466556857719832,1.0,905,INR
+TEC01890,Technology,Conversions,Coimbatore,1698168,1633,Discover amazing technology deals! Shop Now now!,#LimitedOffer #Ad,0.505432013602801,1.0,0.8762244849811369,1.0,1626,INR
+AUT01735,Automobile,Leads,Vellore,581342,750,Discover amazing automobile deals! Get Offer now!,#LimitedOffer #NewProduct #Sale,0.9760155205619508,0.6507561346072283,0.7813038493531885,1.0,1251,INR
+TEC02197,Technology,Engagement,Nagercoil,250830,600,Discover amazing technology deals! Join Today now!,#Sale #BestChoice #Trending #Launch,0.5046016240302892,0.793101128307908,1.0,1.0,750,INR
+AUT02170,Automobile,Leads,Tirupur,215254,1876,Discover amazing automobile deals! Get Offer now!,#Launch #Ad #BestChoice #LimitedOffer,0.7507097238622458,0.5213463514488018,0.8013533998663394,1.0,1900,INR
+BEA01713,Beauty,Traffic,Tirunelveli,244238,1994,Discover amazing beauty deals! Learn More now!,#InstaAd #NewProduct,0.7298062455894847,0.5826611837574683,0.8694416415452009,1.0,1350,INR
+EDU01743,Education,Leads,Coimbatore,1001252,406,Discover amazing education deals! Shop Now now!,#Launch #Trending #LimitedOffer #NewProduct,0.7191648234082009,0.5300030057870728,0.963799823816938,1.0,456,INR
+FIN01340,Finance,Brand Awareness,Nagercoil,139764,1961,Discover amazing finance deals! Learn More now!,#BestChoice #Ad,0.6080894173182247,0.2711568597885404,0.761323683062636,1.0,2744,INR
+AUT01097,Automobile,Brand Awareness,Salem,639853,518,Discover amazing automobile deals! Sign Up now!,#BrandDeal #Launch,0.8620761195519087,1.0,0.4436509414937413,1.0,662,INR
+FAS01321,Fashion,Engagement,Chennai,9534026,922,Discover amazing fashion deals! Shop Now now!,#NewProduct #Sale,0.5066808244114929,0.5892624515940672,0.9253878141436912,1.0,852,INR
+FIT01178,Fitness,Traffic,Nagercoil,153682,1571,Discover amazing fitness deals! Get Offer now!,#Marketing #NewProduct #Discount #Trending,0.5703570957655175,0.6394369557620091,0.9646221581225872,1.0,1493,INR
+TEC01875,Technology,Engagement,Dindigul,209494,503,Discover amazing technology deals! Shop Now now!,#Launch #LimitedOffer,0.3521194216983522,0.6421125209035656,0.8947235279618355,1.0,643,INR
+TEC02199,Technology,Brand Awareness,Tirunelveli,281317,1111,Discover amazing technology deals! Try Free now!,#Viral #LimitedOffer,0.7297199235472133,0.6900740854088899,0.7051569025951324,1.0,1403,INR
+EDU01828,Education,Engagement,Kanchipuram,278587,1875,Discover amazing education deals! Join Today now!,#Viral #BestChoice #Ad #Promo,0.7083991332118832,1.0,0.2380229690799865,1.0,1818,INR
+FIT01837,Fitness,Brand Awareness,Nagercoil,336257,181,Discover amazing fitness deals! Sign Up now!,#LimitedOffer #Viral #NewProduct,0.7525933152365343,0.3951243745714428,0.6150523886058238,1.0,139,INR
+FOO01589,Food,Brand Awareness,Erode,206949,950,Discover amazing food deals! Learn More now!,#Launch #InstaAd #BrandDeal,0.6594437811047392,0.7762446521006479,0.8120527948854986,1.0,680,INR
+FAS01251,Fashion,Traffic,Chennai,10860337,851,Discover amazing fashion deals! Join Today now!,#Discount #Launch #BestChoice #Promo,0.4457855388267104,0.6805763597849714,0.7372275189615929,1.0,560,INR
+TEC01223,Technology,Engagement,Thanjavur,205393,763,Discover amazing technology deals! Download App now!,#InstaAd #NewProduct #LimitedOffer #Ad,0.5678030369328552,0.8686286704624995,0.8580622204817753,1.0,1148,INR
+FIN01380,Finance,Brand Awareness,Thanjavur,354625,785,Discover amazing finance deals! Get Offer now!,#LimitedOffer #Sale,0.8008999516257922,0.9233391912500888,0.7981148450749704,1.0,1031,INR
+FOO01547,Food,Leads,Kanniyakumari,86941,318,Discover amazing food deals! Shop Now now!,#InstaAd #Sale #Ad #NewProduct,0.6124442349156118,0.5413927743378802,0.7641455580670027,1.0,330,INR
+FAS01035,Fashion,Conversions,Dindigul,175934,520,Discover amazing fashion deals! Learn More now!,#NewProduct #Discount #Marketing #Viral,0.6172292202320843,1.0,0.7424932257268271,1.0,431,INR
+EDU01862,Education,Engagement,Nagercoil,254458,801,Discover amazing education deals! Join Today now!,#BrandDeal #InstaAd,0.6342620613445147,1.0,0.6298316145417506,1.0,766,INR
+BEA01263,Beauty,Traffic,Nagercoil,292958,1520,Discover amazing beauty deals! Sign Up now!,#Sale #Trending #Launch,0.61481951812195,0.587729298417466,0.5056995239879395,1.0,1191,INR
+AUT01567,Automobile,Engagement,Kanniyakumari,155745,1577,Discover amazing automobile deals! Sign Up now!,#Promo #Discount #Viral #NewProduct,0.7476499176279764,0.5812003012007746,1.0,1.0,1802,INR
+FAS01039,Fashion,Brand Awareness,Tirupur,414323,223,Discover amazing fashion deals! Sign Up now!,#Trending #InstaAd #NewProduct,0.6771883486035809,0.940927014515165,0.9128385661501276,1.0,188,INR
+TEC02069,Technology,Conversions,Tirupur,294456,674,Discover amazing technology deals! Try Free now!,#Ad #LimitedOffer #BestChoice,0.5639670392318533,0.6295548791321711,0.8711296786901022,1.0,701,INR
+FIT01965,Fitness,Engagement,Kanniyakumari,133413,729,Discover amazing fitness deals! Learn More now!,#Launch #BestChoice,0.6583356981848738,1.0,0.4854874673398688,1.0,537,INR
+BEA01510,Beauty,Leads,Tirupur,387872,260,Discover amazing beauty deals! Get Offer now!,#Viral #Launch #Trending,0.8937280136886736,0.8793592721810594,0.6620081264900997,1.0,199,INR
+BEA02054,Beauty,Brand Awareness,Madurai,804462,804,Discover amazing beauty deals! Learn More now!,#BestChoice #Viral #Ad,0.7402364375449865,0.6596737919562821,1.0,1.0,628,INR
+FIT02223,Fitness,Engagement,Nagercoil,301245,1269,Discover amazing fitness deals! Learn More now!,#Trending #LimitedOffer,0.8275072865658828,0.7820530017032213,0.8538467618891786,1.0,1357,INR
+EDU01784,Education,Engagement,Thoothukudi,270390,114,Discover amazing education deals! Try Free now!,#BestChoice #LimitedOffer #InstaAd,0.4024832410511756,0.9599962554432232,0.749408197626768,1.0,85,INR
+TEC02243,Technology,Engagement,Tiruchirappalli,583401,1759,Discover amazing technology deals! Learn More now!,#Sale #Viral #Trending #BestChoice,0.4891648470109732,0.7912400681995376,0.5581311602885453,1.0,1839,INR
+EDU01627,Education,Brand Awareness,Erode,453490,1260,Discover amazing education deals! Try Free now!,#BrandDeal #Launch,0.3222435909588089,0.6811311013910483,0.4509631442318574,1.0,1408,INR
+FIT01532,Fitness,Brand Awareness,Madurai,1067376,589,Discover amazing fitness deals! Shop Now now!,#Ad #Marketing,0.5930907718096305,0.5756683227880663,0.6537075858229594,1.0,404,INR
+EDU01438,Education,Conversions,Salem,547940,878,Discover amazing education deals! Shop Now now!,#BestChoice #Ad #Discount #Trending,0.6515489046779372,0.8308461363124158,0.6956460560081127,1.0,843,INR
+FIT01539,Fitness,Traffic,Madurai,865340,887,Discover amazing fitness deals! Download App now!,#BrandDeal #BestChoice #LimitedOffer,0.5531701543796217,0.7328797959106463,0.4358106387408439,1.0,813,INR
+AUT01905,Automobile,Leads,Thoothukudi,416464,1755,Discover amazing automobile deals! Try Free now!,#Discount #BestChoice #Trending #LimitedOffer,0.7292365638177661,0.4110240644307907,0.9240370389969532,1.0,1819,INR
+FIT01045,Fitness,Conversions,Salem,518441,1628,Discover amazing fitness deals! Learn More now!,#Viral #Discount #Launch,0.6868540265758845,0.4145438222195742,0.5146417002413302,1.0,1179,INR
+FIT01092,Fitness,Traffic,Erode,482107,562,Discover amazing fitness deals! Shop Now now!,#Viral #InstaAd #BestChoice #Sale,0.579539592578394,0.9637415703484892,0.8130835590026797,1.0,524,INR
+FAS02188,Fashion,Brand Awareness,Thoothukudi,325911,1179,Discover amazing fashion deals! Shop Now now!,#Trending #Promo,0.5927472474783992,0.6089372912741585,0.969373487588955,1.0,763,INR
+EDU01466,Education,Traffic,Coimbatore,1223777,1759,Discover amazing education deals! Join Today now!,#Ad #NewProduct,0.6138659993802226,0.7923959104393836,0.7803838295180104,1.0,1401,INR
+FOO02077,Food,Leads,Tiruchirappalli,735621,1417,Discover amazing food deals! Join Today now!,#Ad #BrandDeal #Promo,0.6589803198003505,0.843753879102304,0.6667220931587948,1.0,997,INR
+FAS01107,Fashion,Conversions,Erode,476532,392,Discover amazing fashion deals! Try Free now!,#Marketing #Promo #LimitedOffer #Viral,0.4630201641327582,0.6435638841949501,0.916329225505095,1.0,246,INR
+BEA01065,Beauty,Conversions,Nagercoil,105569,199,Discover amazing beauty deals! Learn More now!,#Sale #NewProduct #LimitedOffer,0.6290380492598547,0.4119954884299638,0.6869785595884706,1.0,93,INR
+EDU01687,Education,Leads,Tirupur,269836,1816,Discover amazing education deals! Download App now!,#LimitedOffer #Promo,0.5843076690817782,0.5392819934916209,0.6446103858050102,1.0,1752,INR
+FIT01253,Fitness,Leads,Coimbatore,1628861,1196,Discover amazing fitness deals! Try Free now!,#Trending #InstaAd #Viral #Discount,0.4875487332038453,0.8913159862035425,0.6312811401771904,1.0,1143,INR
+AUT02003,Automobile,Traffic,Dindigul,317658,440,Discover amazing automobile deals! Shop Now now!,#Discount #Trending #BestChoice,0.6966003358666529,1.0,0.4853753631091754,1.0,615,INR
+FOO02231,Food,Engagement,Erode,458090,1878,Discover amazing food deals! Join Today now!,#Trending #BestChoice,0.3288790557079744,0.5408880787934016,0.1190959132273652,1.0,750,INR
+FIT01376,Fitness,Traffic,Dindigul,293087,880,Discover amazing fitness deals! Get Offer now!,#BrandDeal #Marketing,0.5523181620329083,0.8597835216438472,0.2489733999881331,1.0,709,INR
+FOO01323,Food,Traffic,Salem,345002,1801,Discover amazing food deals! Download App now!,#NewProduct #Marketing #BestChoice #Trending,0.5515823301273826,0.6074457579145618,1.0,1.0,1762,INR
+FAS01799,Fashion,Conversions,Coimbatore,1771954,251,Discover amazing fashion deals! Join Today now!,#Promo #Launch #Trending #BrandDeal,0.7345509649033601,0.7981646903753293,0.5171493744491588,1.0,137,INR
+FIT02070,Fitness,Engagement,Tiruchirappalli,537326,597,Discover amazing fitness deals! Download App now!,#BestChoice #BrandDeal,0.7773428207624898,0.4605598128279653,0.4916800611443634,1.0,552,INR
+FIT01394,Fitness,Leads,Nagercoil,248216,198,Discover amazing fitness deals! Get Offer now!,#Launch #Sale #BestChoice,0.7430569863749297,0.4282975607249669,0.8004706711813218,1.0,204,INR
+FIT01427,Fitness,Leads,Kanniyakumari,104214,885,Discover amazing fitness deals! Download App now!,#Ad #Marketing #Trending,0.6314705134932834,1.0,0.8924787636005883,1.0,1123,INR
+EDU01678,Education,Leads,Nagercoil,336726,547,Discover amazing education deals! Join Today now!,#Trending #InstaAd #Discount #Promo,0.5319985261694076,0.5350884236678722,0.7935157215580907,1.0,738,INR
+FAS01971,Fashion,Engagement,Thoothukudi,411791,1090,Discover amazing fashion deals! Join Today now!,#Discount #LimitedOffer #BestChoice,0.6392427651819301,0.775074924889601,0.3877073450882773,1.0,750,INR
+FIN01437,Finance,Traffic,Nagercoil,302846,513,Discover amazing finance deals! Try Free now!,#NewProduct #Sale #BestChoice,0.6766686203451132,0.6973763198845494,0.6427704660777432,1.0,414,INR
+EDU02075,Education,Conversions,Kanchipuram,337162,1339,Discover amazing education deals! Learn More now!,#Sale #Discount,0.7449414632764004,0.7580243486069248,0.7748475248028928,1.0,1289,INR
+BEA01770,Beauty,Brand Awareness,Vellore,442709,952,Discover amazing beauty deals! Try Free now!,#LimitedOffer #Launch,0.4237553146275689,0.8433719962860259,0.6655663435754678,1.0,609,INR
+AUT01304,Automobile,Brand Awareness,Kanniyakumari,102415,287,Discover amazing automobile deals! Get Offer now!,#Launch #Marketing #BrandDeal,0.7983935531661647,0.9056051109467452,0.6125811355081203,1.0,372,INR
+FAS01952,Fashion,Engagement,Madurai,524071,1498,Discover amazing fashion deals! Try Free now!,#Launch #NewProduct #Promo #Viral,0.5318216389472374,0.7400001331663322,0.7942567082575819,1.0,908,INR
+FOO01359,Food,Conversions,Tirupur,258243,744,Discover amazing food deals! Sign Up now!,#Trending #Viral #BrandDeal #Ad,0.6727815948588198,0.407195336057963,0.2156268608117534,1.0,552,INR
+TEC01107,Technology,Brand Awareness,Chennai,9028455,591,Discover amazing technology deals! Join Today now!,#Marketing #Discount,0.6242174465543573,0.855960307844287,0.2743235885001311,1.0,333,INR
+FOO01861,Food,Traffic,Tiruchirappalli,787971,502,Discover amazing food deals! Join Today now!,#NewProduct #LimitedOffer,0.556964467832291,0.6917027715402609,0.5289914310583651,1.0,325,INR
+FIT01645,Fitness,Traffic,Coimbatore,1172312,105,Discover amazing fitness deals! Learn More now!,#Viral #Marketing #InstaAd,0.4992399585469652,0.3363100324849002,1.0,1.0,113,INR
+FIT01805,Fitness,Traffic,Vellore,557218,453,Discover amazing fitness deals! Shop Now now!,#Sale #NewProduct #Viral,0.735227477142245,0.5481455700791016,0.3646990767744186,1.0,302,INR
+FIT01506,Fitness,Brand Awareness,Tiruchirappalli,614879,1090,Discover amazing fitness deals! Join Today now!,#Launch #Ad #Marketing #NewProduct,0.7867789932796339,0.7548303289259684,0.2595790098272205,1.0,884,INR
+AUT01251,Automobile,Leads,Coimbatore,1426650,1764,Discover amazing automobile deals! Get Offer now!,#Marketing #Viral,0.4288682271923089,0.4887639003794893,0.4943924963315349,1.0,1978,INR
+EDU01270,Education,Traffic,Tirupur,269724,51,Discover amazing education deals! Shop Now now!,#Discount #BestChoice #Promo #InstaAd,0.4521409042511977,0.6062051747501096,0.8274792313537275,1.0,50,INR
+FIN02188,Finance,Traffic,Tirunelveli,228732,1333,Discover amazing finance deals! Try Free now!,#Sale #Viral #BrandDeal,0.528486843395043,0.8861067215858611,0.9187490599697076,1.0,2264,INR
+EDU01442,Education,Traffic,Tirunelveli,321465,680,Discover amazing education deals! Shop Now now!,#Ad #NewProduct #Trending #LimitedOffer,0.7268297994905921,0.9038073866000182,0.8216313697379775,1.0,871,INR
+AUT01488,Automobile,Brand Awareness,Dindigul,292386,1879,Discover amazing automobile deals! Get Offer now!,#Launch #BestChoice #NewProduct #Trending,0.1785864425682835,0.5989093047232256,0.4745001396840257,1.0,1676,INR
+FAS02056,Fashion,Conversions,Tiruchirappalli,817170,1637,Discover amazing fashion deals! Get Offer now!,#Discount #LimitedOffer #Promo #Ad,0.4406639523985073,0.6728253903272408,0.773289306330742,1.0,1518,INR
+FIT01654,Fitness,Conversions,Tirunelveli,257108,237,Discover amazing fitness deals! Try Free now!,#LimitedOffer #Launch #Sale #BrandDeal,0.552754977871501,0.9168261485146773,0.5187303385281996,1.0,219,INR
+TEC01037,Technology,Traffic,Kanchipuram,311195,178,Discover amazing technology deals! Download App now!,#InstaAd #Promo,0.4461723184904627,1.0,0.9267189020682396,1.0,266,INR
+AUT01439,Automobile,Engagement,Kanniyakumari,183081,1723,Discover amazing automobile deals! Sign Up now!,#BrandDeal #BestChoice,0.6821142004219918,0.6865678362569961,0.4907151669350302,1.0,1826,INR
+EDU01325,Education,Engagement,Coimbatore,2085244,1526,Discover amazing education deals! Sign Up now!,#Marketing #LimitedOffer #Promo #Trending,0.7322069435661274,0.5244565594207217,0.4830358305639162,1.0,792,INR
+EDU01039,Education,Traffic,Dindigul,173061,1344,Discover amazing education deals! Shop Now now!,#Marketing #Trending #Discount #Promo,0.6592806146575162,0.6259482409773002,0.9993856717493992,1.0,1414,INR
+FIN01981,Finance,Brand Awareness,Nagercoil,179252,273,Discover amazing finance deals! Download App now!,#Trending #InstaAd #LimitedOffer,0.4797063309647194,0.3249313312217454,0.7368560949347859,1.0,229,INR
+FAS01764,Fashion,Leads,Coimbatore,1130560,966,Discover amazing fashion deals! Learn More now!,#Viral #Marketing,0.6600962457509755,0.5423847492192657,0.8140889932831741,1.0,445,INR
+FOO01019,Food,Engagement,Dindigul,254680,51,Discover amazing food deals! Get Offer now!,#Viral #BestChoice,0.6516230009355123,0.616019106363444,0.9390567934573,1.0,57,INR
+TEC02153,Technology,Engagement,Tirupur,347979,575,Discover amazing technology deals! Sign Up now!,#Trending #BestChoice #Sale,0.6216436822540661,0.8066583042681553,0.981657904318128,1.0,766,INR
+EDU01593,Education,Engagement,Tiruchirappalli,549849,1251,Discover amazing education deals! Sign Up now!,#Viral #Launch #BrandDeal,0.7493189197646534,0.8038047247220603,1.0,1.0,1522,INR
+FIN01593,Finance,Leads,Tirupur,424301,1002,Discover amazing finance deals! Try Free now!,#Trending #BrandDeal #Viral,0.4524093721457369,0.5303969947168251,0.6408361040187083,1.0,1254,INR
+BEA01915,Beauty,Conversions,Kanniyakumari,131745,1985,Discover amazing beauty deals! Sign Up now!,#NewProduct #Launch #BestChoice,0.9011655031635076,0.7283305559484142,0.4844725900384962,1.0,1333,INR
+BEA01612,Beauty,Engagement,Kanniyakumari,188464,1036,Discover amazing beauty deals! Join Today now!,#Viral #BrandDeal #Discount #Launch,0.326476089742562,0.4499142909918811,0.655898236592918,1.0,639,INR
+EDU01350,Education,Leads,Vellore,391865,1081,Discover amazing education deals! Sign Up now!,#Marketing #Discount #Sale #Trending,0.2831935684700353,0.9251630422830848,0.5119015067785542,1.0,1300,INR
+AUT01373,Automobile,Leads,Tirupur,312428,1693,Discover amazing automobile deals! Sign Up now!,#BestChoice #BrandDeal #NewProduct #Marketing,0.4247960426424833,0.6844374912366495,0.3097417157534145,1.0,1626,INR
+BEA02090,Beauty,Engagement,Thoothukudi,412890,170,Discover amazing beauty deals! Shop Now now!,#Launch #Ad #Sale #LimitedOffer,0.6810149481533447,0.564613310213887,0.8199863700492326,1.0,114,INR
+FOO01527,Food,Brand Awareness,Nagercoil,123624,585,Discover amazing food deals! Get Offer now!,#BestChoice #Trending #NewProduct #Marketing,0.4584713430358992,0.4613375093554808,0.9353566993961412,1.0,590,INR
+FIN01493,Finance,Brand Awareness,Erode,223321,167,Discover amazing finance deals! Get Offer now!,#Ad #Viral,0.7274375529567552,0.6188311680403203,0.4969860292602406,1.0,248,INR
+TEC01253,Technology,Brand Awareness,Tirupur,341560,775,Discover amazing technology deals! Join Today now!,#BrandDeal #Launch #LimitedOffer #Viral,0.755428448262372,0.5898493637894496,0.6037422945508597,1.0,683,INR
+FAS02123,Fashion,Conversions,Vellore,584718,936,Discover amazing fashion deals! Sign Up now!,#Viral #Discount #Trending #Sale,0.5644653763942794,0.5333396494915669,0.9263040822669012,1.0,616,INR
+EDU02209,Education,Engagement,Salem,698456,855,Discover amazing education deals! Shop Now now!,#BrandDeal #Trending #Promo #LimitedOffer,0.8175954630606234,0.6754286981465325,0.8091499148156787,1.0,833,INR
+TEC01299,Technology,Engagement,Kanchipuram,374293,1816,Discover amazing technology deals! Try Free now!,#Trending #InstaAd #BestChoice,0.5224676472447799,0.597741844650201,0.7103617300348964,1.0,1513,INR
+EDU01140,Education,Leads,Coimbatore,1927982,1907,Discover amazing education deals! Join Today now!,#Marketing #BrandDeal,0.2911837863837306,0.3605434037146088,1.0,1.0,1928,INR
+FAS01765,Fashion,Leads,Kanniyakumari,135645,470,Discover amazing fashion deals! Get Offer now!,#Promo #LimitedOffer #InstaAd,0.3645688880504913,0.5911172029865055,0.7188540982435494,1.0,306,INR
+BEA02094,Beauty,Engagement,Salem,712478,304,Discover amazing beauty deals! Join Today now!,#Sale #LimitedOffer,0.4570267769664154,0.5066166500772469,0.8594331112372728,1.0,250,INR
+TEC01321,Technology,Brand Awareness,Vellore,483868,1020,Discover amazing technology deals! Get Offer now!,#LimitedOffer #BrandDeal #Ad #BestChoice,0.675197210545546,0.664291943448309,0.5028201242101297,1.0,732,INR
+FIN01966,Finance,Traffic,Dindigul,285504,275,Discover amazing finance deals! Shop Now now!,#NewProduct #Discount #Sale,0.5495427542607492,0.66197187456125,0.6691412532735965,1.0,244,INR
+TEC01466,Technology,Engagement,Erode,295257,423,Discover amazing technology deals! Join Today now!,#NewProduct #BrandDeal,0.5611654085954184,0.9633225838855723,0.3417871331849808,1.0,376,INR
+EDU01452,Education,Brand Awareness,Nagercoil,164291,1441,Discover amazing education deals! Learn More now!,#BrandDeal #Sale #BestChoice,0.6819746098765144,0.8071724085712162,1.0,1.0,1459,INR
+FOO01970,Food,Conversions,Nagercoil,310176,1221,Discover amazing food deals! Learn More now!,#InstaAd #Launch #Sale #Promo,0.5399876290091775,0.8951014078201124,0.5017911921634706,1.0,714,INR
+FIT01850,Fitness,Leads,Nagercoil,290471,187,Discover amazing fitness deals! Sign Up now!,#Promo #Trending #Viral #Ad,0.6319869250655329,0.6715059717664295,1.0,1.0,211,INR
+TEC01945,Technology,Engagement,Kanchipuram,418803,1160,Discover amazing technology deals! Get Offer now!,#BrandDeal #InstaAd #Promo,0.5701624453278437,0.6800564250352092,0.8995278863600898,1.0,1225,INR
+FIT01899,Fitness,Engagement,Erode,311317,1012,Discover amazing fitness deals! Download App now!,#NewProduct #Promo #Ad #Launch,0.6423907751130996,0.6099810458812237,0.8996018123215448,1.0,878,INR
+TEC01331,Technology,Leads,Kanchipuram,339789,1518,Discover amazing technology deals! Join Today now!,#LimitedOffer #Promo #BrandDeal #Discount,0.5983344144589837,0.6658956051849046,0.6524014233360473,1.0,1560,INR
+AUT01399,Automobile,Engagement,Kanniyakumari,108699,442,Discover amazing automobile deals! Try Free now!,#NewProduct #BestChoice #BrandDeal,0.5696815465922058,0.980490560375922,0.3404732568421255,1.0,403,INR
+FAS02224,Fashion,Traffic,Kanchipuram,273686,759,Discover amazing fashion deals! Try Free now!,#Trending #Marketing #Sale #Viral,0.7372980535160036,0.8190208153506704,0.8386537088632366,1.0,425,INR
+FIN01042,Finance,Brand Awareness,Chennai,8067661,169,Discover amazing finance deals! Sign Up now!,#Launch #Marketing,0.6171735898748366,0.9335970392987116,1.0,1.0,312,INR
+FIT01622,Fitness,Conversions,Erode,244247,629,Discover amazing fitness deals! Get Offer now!,#Launch #LimitedOffer #InstaAd,0.5952260307841964,0.7167514524307959,0.7298994856286627,1.0,418,INR
+FAS01510,Fashion,Traffic,Thoothukudi,445121,284,Discover amazing fashion deals! Try Free now!,#Launch #Discount #InstaAd,0.7241561997351399,0.8938461175223948,0.6302790906317075,1.0,246,INR
+FOO01794,Food,Leads,Erode,347820,627,Discover amazing food deals! Shop Now now!,#Viral #InstaAd,0.5433653132877015,0.8265807302396586,0.7767114982146501,1.0,423,INR
+EDU01681,Education,Traffic,Vellore,566765,299,Discover amazing education deals! Get Offer now!,#BestChoice #Marketing #Sale #Launch,0.5274893076147189,0.7474113836135117,0.9106060020517804,1.0,395,INR
+AUT01667,Automobile,Brand Awareness,Chennai,9194682,882,Discover amazing automobile deals! Sign Up now!,#Launch #Discount #Sale #Promo,0.5991825023281365,0.5405449439895611,0.568857204171669,1.0,875,INR
+FAS01096,Fashion,Traffic,Nagercoil,342999,1999,Discover amazing fashion deals! Try Free now!,#Promo #Trending,0.6453598266357337,0.5429293714975894,0.9253686574869464,1.0,1663,INR
+FIN01431,Finance,Leads,Vellore,558930,721,Discover amazing finance deals! Get Offer now!,#BestChoice #BrandDeal,0.5867651567311992,0.298249823441876,0.6310595909250252,1.0,693,INR
+BEA01262,Beauty,Conversions,Vellore,436194,1058,Discover amazing beauty deals! Learn More now!,#BrandDeal #Marketing #Launch,0.8548591128595451,0.7205290205947544,0.915305853774961,1.0,788,INR
+AUT01041,Automobile,Traffic,Kanniyakumari,98030,1692,Discover amazing automobile deals! Try Free now!,#InstaAd #LimitedOffer #Sale #Discount,0.5364080890990863,0.9245846979908312,0.6121353451646653,1.0,1965,INR
+FAS01119,Fashion,Engagement,Thanjavur,232838,1888,Discover amazing fashion deals! Sign Up now!,#Ad #Trending #Discount #NewProduct,0.7422762305575005,0.7069705752783532,0.5291015499587691,1.0,1636,INR
+EDU01291,Education,Brand Awareness,Madurai,948874,1820,Discover amazing education deals! Get Offer now!,#Trending #InstaAd #LimitedOffer,0.4802611440224165,0.7529431878463129,0.8932420648330552,1.0,2390,INR
+FIN01267,Finance,Brand Awareness,Chennai,8853499,581,Discover amazing finance deals! Join Today now!,#BestChoice #BrandDeal #Marketing #LimitedOffer,0.6868812480440954,0.9183178612928752,0.4849643279887912,1.0,605,INR
+FAS01033,Fashion,Brand Awareness,Vellore,418033,1869,Discover amazing fashion deals! Learn More now!,#Launch #Sale,0.805856669482087,0.5644427814013231,0.9883829680019672,1.0,1383,INR
+EDU01387,Education,Brand Awareness,Madurai,666926,1434,Discover amazing education deals! Learn More now!,#Trending #LimitedOffer,0.5195891843958594,0.667761529547492,0.74266104277769,1.0,1448,INR
+FIN01580,Finance,Conversions,Madurai,1070559,1798,Discover amazing finance deals! Join Today now!,#Ad #BestChoice,0.4109964813649253,0.8060547471955241,0.8766737758335262,1.0,2668,INR
+FOO01421,Food,Brand Awareness,Chennai,10957272,1240,Discover amazing food deals! Join Today now!,#Ad #LimitedOffer,0.5309918394509023,0.7358863212848782,0.5880920563475023,1.0,940,INR
+FAS02068,Fashion,Traffic,Thanjavur,319590,1932,Discover amazing fashion deals! Download App now!,#Marketing #Ad #Discount #BestChoice,0.2496103954417355,0.7858079135135096,0.6695656865540935,1.0,1040,INR
+BEA01097,Beauty,Engagement,Salem,673220,1622,Discover amazing beauty deals! Try Free now!,#Discount #Launch #Viral,0.8457944338786321,0.7482593396660859,0.8153286948620699,1.0,1319,INR
+TEC01997,Technology,Engagement,Dindigul,291339,630,Discover amazing technology deals! Get Offer now!,#Promo #Ad #Sale #Launch,0.4445652959609455,0.4397087934210115,0.757808019341237,1.0,450,INR
+FOO02005,Food,Engagement,Thoothukudi,421897,1523,Discover amazing food deals! Get Offer now!,#BestChoice #Launch #Marketing,0.7103449503720876,0.3027303009862483,0.7439075943583271,1.0,1449,INR
+FOO02039,Food,Conversions,Dindigul,151062,1782,Discover amazing food deals! Join Today now!,#InstaAd #NewProduct #Viral,0.9345926763448672,0.6458357500010958,0.3974303308132672,1.0,1741,INR
+TEC01067,Technology,Brand Awareness,Erode,447736,56,Discover amazing technology deals! Learn More now!,#Promo #Marketing,0.8117739865362031,0.4600417935651958,0.5907490940011396,1.0,47,INR
+EDU01946,Education,Brand Awareness,Nagercoil,150448,1243,Discover amazing education deals! Join Today now!,#BestChoice #BrandDeal #Sale #Trending,0.8215899981947369,0.7694504528495139,1.0,1.0,1409,INR
+FOO01269,Food,Traffic,Thoothukudi,295462,268,Discover amazing food deals! Shop Now now!,#Marketing #BestChoice #LimitedOffer #NewProduct,0.8011435667795616,0.6972088003806053,0.5129939091219056,1.0,221,INR
+FIN01647,Finance,Conversions,Erode,445885,776,Discover amazing finance deals! Get Offer now!,#Launch #Viral #NewProduct,0.5138456984027306,0.8516115090660931,0.4722250962274586,1.0,976,INR
+FOO01309,Food,Traffic,Vellore,347915,882,Discover amazing food deals! Sign Up now!,#Sale #LimitedOffer,0.6788476219032678,0.8547579662478982,0.9340582848753152,1.0,752,INR
+FAS01031,Fashion,Traffic,Nagercoil,104632,197,Discover amazing fashion deals! Sign Up now!,#NewProduct #Sale #Promo #Trending,0.578507511192438,0.5798790637500829,0.6229555116813033,1.0,84,INR
+FOO01674,Food,Conversions,Coimbatore,1658956,1886,Discover amazing food deals! Sign Up now!,#Marketing #Promo #Discount,0.6251470384617891,0.7300947822516399,0.9167087641259074,1.0,1058,INR
+TEC01636,Technology,Engagement,Chennai,9447960,953,Discover amazing technology deals! Download App now!,#Viral #LimitedOffer #Promo #Trending,0.3844800926402896,1.0,0.4419878691884762,1.0,888,INR
+FAS01029,Fashion,Conversions,Thoothukudi,308099,1431,Discover amazing fashion deals! Sign Up now!,#Trending #NewProduct #Promo #Ad,0.8385236578516275,0.7943283908896137,0.8618895272534284,1.0,1312,INR
+TEC01452,Technology,Brand Awareness,Thoothukudi,207561,114,Discover amazing technology deals! Join Today now!,#Trending #Sale #BestChoice #Launch,0.6169210369289035,0.5611494563044256,0.5754250853726744,1.0,115,INR
+EDU01007,Education,Leads,Tirupur,404866,896,Discover amazing education deals! Download App now!,#Launch #BestChoice,0.6332977983554241,0.8798985661318671,1.0,1.0,1212,INR
+FAS01735,Fashion,Brand Awareness,Vellore,382152,341,Discover amazing fashion deals! Download App now!,#NewProduct #Viral #Promo #Discount,0.7162985627105348,0.4234443017924844,0.5093639841151051,1.0,237,INR
+BEA01817,Beauty,Traffic,Salem,425036,1803,Discover amazing beauty deals! Try Free now!,#Launch #LimitedOffer #Viral,0.7300411017876585,0.8002634240280082,0.3823862792236759,1.0,1603,INR
+FAS01106,Fashion,Leads,Madurai,886193,1319,Discover amazing fashion deals! Download App now!,#NewProduct #Discount #Ad #Viral,0.5609252157091916,1.0,0.7241084296983724,1.0,1121,INR
+AUT01894,Automobile,Traffic,Nagercoil,126734,776,Discover amazing automobile deals! Try Free now!,#Discount #Launch,0.7822398659989988,0.578087239662467,1.0,1.0,903,INR
+AUT01144,Automobile,Brand Awareness,Vellore,326069,1443,Discover amazing automobile deals! Learn More now!,#LimitedOffer #BestChoice,0.7648666107492335,0.7948956337770402,0.5274688504530207,1.0,2212,INR
+EDU01520,Education,Conversions,Tirunelveli,410977,1111,Discover amazing education deals! Get Offer now!,#Viral #Promo,0.4789007644167143,0.995199490819296,0.5870203933410283,1.0,1066,INR
+BEA01982,Beauty,Brand Awareness,Thanjavur,162910,351,Discover amazing beauty deals! Sign Up now!,#LimitedOffer #Marketing #InstaAd,0.6964020074021067,0.9005370769196555,0.5814734067608368,1.0,191,INR
+FAS01993,Fashion,Brand Awareness,Madurai,835623,1785,Discover amazing fashion deals! Download App now!,#BestChoice #Promo #Discount,0.6098227289185817,0.5488646322542202,0.4326100235306694,1.0,724,INR
+AUT01662,Automobile,Engagement,Chennai,10568103,846,Discover amazing automobile deals! Get Offer now!,#NewProduct #LimitedOffer #Viral,0.498196092775415,0.8267836545906476,0.961080908487774,1.0,1048,INR
+FIN01808,Finance,Conversions,Madurai,581264,497,Discover amazing finance deals! Get Offer now!,#NewProduct #Marketing,0.7879039396045081,0.927260113916216,0.8688458824679169,1.0,796,INR
+FIN01539,Finance,Leads,Salem,323275,416,Discover amazing finance deals! Download App now!,#Sale #Discount #Viral,0.4796661993820868,0.8460730693971192,0.7983002619380242,1.0,428,INR
+FAS01360,Fashion,Traffic,Kanniyakumari,152274,852,Discover amazing fashion deals! Sign Up now!,#Promo #NewProduct,0.5625037622042889,0.6995980689946077,0.7825496685413984,1.0,493,INR
+FAS01304,Fashion,Brand Awareness,Tirupur,412521,1532,Discover amazing fashion deals! Get Offer now!,#LimitedOffer #Ad #Trending #BestChoice,0.533265848017673,0.5193278084904619,0.6812610087476498,1.0,1036,INR
+FIT01127,Fitness,Traffic,Madurai,862920,896,Discover amazing fitness deals! Sign Up now!,#Promo #Viral,0.4599646258369748,0.4423467789353158,0.4867443645578451,1.0,470,INR
+AUT01215,Automobile,Conversions,Chennai,10288228,1088,Discover amazing automobile deals! Shop Now now!,#BestChoice #Viral,0.5017903512689544,0.6182659986311879,0.4991398825052898,1.0,702,INR
+TEC01763,Technology,Engagement,Salem,494053,1368,Discover amazing technology deals! Sign Up now!,#Discount #NewProduct #InstaAd #LimitedOffer,0.780428601642199,0.457030180524856,1.0,1.0,2063,INR
+FOO01910,Food,Traffic,Dindigul,365731,795,Discover amazing food deals! Download App now!,#LimitedOffer #BestChoice #Launch,0.5631438713347705,0.6435188046947793,0.7710729598090489,1.0,752,INR
+EDU01813,Education,Brand Awareness,Thoothukudi,385625,353,Discover amazing education deals! Sign Up now!,#BrandDeal #NewProduct #Marketing #Trending,0.4938083747116603,0.4898445717964313,0.552463092121342,1.0,247,INR
+FIT01600,Fitness,Conversions,Kanniyakumari,128447,1735,Discover amazing fitness deals! Sign Up now!,#Trending #Marketing #Discount,0.64449761424868,0.9764478127245269,0.8959939852538628,1.0,1912,INR
+FOO01703,Food,Conversions,Tirupur,365601,1640,Discover amazing food deals! Sign Up now!,#Launch #Sale,0.6307590358181974,0.904566628537792,0.7279227988951227,1.0,1629,INR
+TEC01148,Technology,Conversions,Thoothukudi,275703,913,Discover amazing technology deals! Try Free now!,#Trending #BrandDeal #InstaAd,0.514905866720945,0.6822432917316839,0.5870344447931862,1.0,665,INR
+FOO01440,Food,Traffic,Thanjavur,226090,1750,Discover amazing food deals! Try Free now!,#Launch #BrandDeal,0.5909742663439627,0.6750514043093752,0.7925953760355172,1.0,2007,INR
+EDU01430,Education,Traffic,Erode,479404,1534,Discover amazing education deals! Sign Up now!,#Viral #NewProduct #Ad,0.6902972044959461,0.7615021783204867,0.4095425492613435,1.0,1157,INR
+FAS01621,Fashion,Leads,Kanniyakumari,192581,1543,Discover amazing fashion deals! Shop Now now!,#Discount #BestChoice,0.4626784456364561,0.725291843812138,0.574282811582261,1.0,1153,INR
+FIN01985,Finance,Leads,Kanniyakumari,83812,367,Discover amazing finance deals! Try Free now!,#Discount #BestChoice #Ad,0.5888623892423643,0.9326194095350844,0.5421573882615303,1.0,302,INR
+BEA02248,Beauty,Brand Awareness,Dindigul,309096,1200,Discover amazing beauty deals! Get Offer now!,#Sale #InstaAd #Marketing #LimitedOffer,0.6104935463622254,0.6191347223841814,0.8314072502824615,1.0,843,INR
+FAS01713,Fashion,Traffic,Dindigul,339728,1937,Discover amazing fashion deals! Join Today now!,#Viral #Discount #NewProduct,0.7615447537568488,0.6151302717548526,0.9967475298981544,1.0,990,INR
+EDU01903,Education,Leads,Nagercoil,216148,992,Discover amazing education deals! Learn More now!,#Marketing #Discount,0.675990621786241,0.8175949740491882,0.4108035947178264,1.0,844,INR
+FIT01355,Fitness,Traffic,Kanchipuram,316421,1531,Discover amazing fitness deals! Learn More now!,#NewProduct #InstaAd,0.4955356207003947,0.4666187881949499,0.6954119386552347,1.0,857,INR
+TEC01519,Technology,Engagement,Madurai,1025893,1314,Discover amazing technology deals! Try Free now!,#BestChoice #Ad #Viral #InstaAd,0.5214739647731211,1.0,0.7911289963104569,1.0,1869,INR
+FIT01408,Fitness,Engagement,Kanniyakumari,151158,1599,Discover amazing fitness deals! Sign Up now!,#BestChoice #NewProduct #LimitedOffer,0.8333930361084081,0.40367839121952,1.0,1.0,1660,INR
+EDU01580,Education,Traffic,Thoothukudi,272303,538,Discover amazing education deals! Learn More now!,#InstaAd #Sale,0.6783633693367439,1.0,0.9945687506577998,1.0,649,INR
+TEC01766,Technology,Conversions,Chennai,10255363,51,Discover amazing technology deals! Learn More now!,#InstaAd #LimitedOffer,0.4576450685716985,0.5625506223886021,0.8010925559159792,1.0,72,INR
+BEA01011,Beauty,Conversions,Tiruchirappalli,870365,1356,Discover amazing beauty deals! Try Free now!,#BrandDeal #Sale #Trending #Ad,0.7924271329569031,0.6510596686542853,0.7181610532608264,1.0,1030,INR
+FIT01660,Fitness,Conversions,Kanchipuram,387210,851,Discover amazing fitness deals! Try Free now!,#Promo #Viral,0.3673635470751059,0.7386418990112863,0.7944575643576,1.0,566,INR
+FAS01970,Fashion,Engagement,Tiruchirappalli,661949,1216,Discover amazing fashion deals! Get Offer now!,#Sale #Launch,0.6882654270360461,0.7875012406946073,0.5556644960729165,1.0,627,INR
+TEC01162,Technology,Leads,Tirupur,276125,1367,Discover amazing technology deals! Join Today now!,#Promo #InstaAd #Discount,0.8361463031559156,0.5435774489871431,1.0,1.0,1221,INR
+FOO01198,Food,Traffic,Salem,444990,1816,Discover amazing food deals! Shop Now now!,#InstaAd #Discount #LimitedOffer #BrandDeal,0.4704765275934905,0.4931382475624388,0.6075391753748545,1.0,1174,INR
+AUT01096,Automobile,Leads,Thoothukudi,358518,807,Discover amazing automobile deals! Try Free now!,#Ad #LimitedOffer #BestChoice,0.4214836495220767,0.5821060966492034,0.836147163724016,1.0,608,INR
+FAS01259,Fashion,Engagement,Thoothukudi,324040,1052,Discover amazing fashion deals! Join Today now!,#BestChoice #Ad,0.4401697965154584,0.9386341729950288,0.5194093151277501,1.0,726,INR
+TEC01040,Technology,Traffic,Kanchipuram,344118,650,Discover amazing technology deals! Try Free now!,#InstaAd #Launch #NewProduct #BrandDeal,0.5005893621763737,0.7254256142644663,0.8153381981100676,1.0,804,INR
+AUT01452,Automobile,Conversions,Kanniyakumari,104818,658,Discover amazing automobile deals! Download App now!,#Viral #Promo #Discount #BestChoice,0.7063413565619998,0.2960597817815893,0.7909997485003897,1.0,793,INR
+FAS01487,Fashion,Engagement,Thanjavur,381966,345,Discover amazing fashion deals! Shop Now now!,#LimitedOffer #BestChoice,0.6831552586211317,0.4246769811850873,0.3697432291453513,1.0,186,INR
+EDU01407,Education,Brand Awareness,Kanchipuram,466468,770,Discover amazing education deals! Shop Now now!,#LimitedOffer #Launch #BrandDeal,0.7215275450743145,0.9822576398459048,0.474826054889756,1.0,589,INR
+FAS01518,Fashion,Engagement,Tiruchirappalli,738467,711,Discover amazing fashion deals! Join Today now!,#Trending #Discount,0.7088150687353336,0.6789894247148365,0.3468453737668266,1.0,475,INR
+EDU01842,Education,Engagement,Kanchipuram,471255,1100,Discover amazing education deals! Shop Now now!,#Viral #LimitedOffer,0.5053006671209448,0.7438459564635511,0.6728557492139441,1.0,954,INR
+FAS01311,Fashion,Conversions,Thoothukudi,216389,188,Discover amazing fashion deals! Learn More now!,#BestChoice #BrandDeal #Launch #Ad,0.6090205466952439,0.7695178205125539,0.7472115892827285,1.0,82,INR
+FIT01731,Fitness,Leads,Thanjavur,272177,1855,Discover amazing fitness deals! Join Today now!,#BrandDeal #BestChoice,0.453114974298651,0.8561246827018132,0.3117819773728404,1.0,1000,INR
+EDU01432,Education,Leads,Madurai,803571,1142,Discover amazing education deals! Get Offer now!,#LimitedOffer #Viral #NewProduct #Ad,0.6564671901299401,0.4613926103292631,0.943749147346172,1.0,769,INR
+FIN02207,Finance,Conversions,Tirunelveli,359818,1028,Discover amazing finance deals! Sign Up now!,#BestChoice #LimitedOffer #Discount #InstaAd,0.7308585472790199,0.7115454727813627,0.1674021457423979,1.0,607,INR
+AUT02033,Automobile,Conversions,Nagercoil,222883,1567,Discover amazing automobile deals! Shop Now now!,#Launch #Marketing #Ad #Viral,0.4981782520958685,0.717588786814181,0.7244508953469716,1.0,2059,INR
+FOO01183,Food,Leads,Coimbatore,1762501,79,Discover amazing food deals! Download App now!,#NewProduct #Trending #Discount #InstaAd,0.5094974105173351,0.6113763978597331,0.7202655907576642,1.0,58,INR
+EDU01576,Education,Traffic,Dindigul,281189,64,Discover amazing education deals! Sign Up now!,#Sale #Ad #LimitedOffer #BestChoice,0.3977199517460829,0.4881197694641763,0.5746307645201778,1.0,40,INR
+FIN01251,Finance,Traffic,Kanchipuram,312221,705,Discover amazing finance deals! Get Offer now!,#Promo #Ad,0.5284140094351828,0.5305868486279467,1.0,1.0,943,INR
+FIN01540,Finance,Brand Awareness,Tirupur,415543,1313,Discover amazing finance deals! Learn More now!,#Marketing #Discount #Viral,0.6373344259769788,0.7785270681444085,0.1979221258292861,1.0,1375,INR
+EDU01272,Education,Traffic,Erode,475378,415,Discover amazing education deals! Shop Now now!,#Ad #InstaAd,0.6538113602278036,0.6677252953268289,0.659253529865463,1.0,387,INR
+FIT01237,Fitness,Brand Awareness,Salem,560669,1936,Discover amazing fitness deals! Shop Now now!,#Viral #NewProduct #Sale #BrandDeal,0.5712471533276462,0.7281555459105055,0.8372590897837999,1.0,2414,INR
+EDU01341,Education,Traffic,Tirunelveli,434936,631,Discover amazing education deals! Download App now!,#InstaAd #Trending,0.6761340235094558,0.6328204450529673,0.8898647631067492,1.0,693,INR
+FIN01011,Finance,Engagement,Nagercoil,153441,637,Discover amazing finance deals! Sign Up now!,#BestChoice #Launch #Sale,0.7603296199338798,0.852699350685923,0.4783239041026019,1.0,1063,INR
+EDU01705,Education,Engagement,Nagercoil,100846,645,Discover amazing education deals! Shop Now now!,#NewProduct #Launch #Viral #LimitedOffer,0.5770150354423759,0.8100701015616913,0.1424529166628063,1.0,604,INR
+FAS02247,Fashion,Engagement,Nagercoil,110954,1537,Discover amazing fashion deals! Join Today now!,#NewProduct #Promo #Trending #BrandDeal,0.4958252384627923,0.7869785925354676,0.1597718493083194,1.0,697,INR
+AUT01585,Automobile,Brand Awareness,Nagercoil,179239,1127,Discover amazing automobile deals! Sign Up now!,#Promo #Ad #NewProduct,0.4161912326243111,0.4126438578283506,0.6590455137231482,1.0,906,INR
+TEC01444,Technology,Engagement,Tiruchirappalli,644761,1258,Discover amazing technology deals! Learn More now!,#Trending #Marketing #BestChoice,0.553304794785785,0.6264471782534049,0.4952590152871817,1.0,858,INR
+EDU01500,Education,Traffic,Tirupur,246514,1279,Discover amazing education deals! Download App now!,#BestChoice #Viral #BrandDeal #NewProduct,0.5908963098210184,0.5885932935499203,0.6104664182959489,1.0,731,INR
+FIN02127,Finance,Traffic,Tirupur,288236,207,Discover amazing finance deals! Shop Now now!,#Ad #InstaAd,0.7153173127248086,0.7365480968780893,1.0,1.0,257,INR
+FIT01934,Fitness,Leads,Thanjavur,247579,1225,Discover amazing fitness deals! Shop Now now!,#LimitedOffer #Ad #BestChoice,0.6139364428939079,0.5197404208062467,1.0,1.0,1380,INR
+FOO01381,Food,Conversions,Dindigul,287541,1122,Discover amazing food deals! Try Free now!,#Promo #NewProduct,0.3314515062005833,0.5398265013498729,0.6651947830843408,1.0,644,INR
+FAS01958,Fashion,Leads,Thoothukudi,264323,1926,Discover amazing fashion deals! Try Free now!,#LimitedOffer #BrandDeal #Ad #Trending,0.5650004509116431,0.9928405262364955,0.3587424880240469,1.0,1268,INR
+FAS01416,Fashion,Leads,Nagercoil,191922,1793,Discover amazing fashion deals! Sign Up now!,#Marketing #Viral,0.7433906213646546,0.7277305250945705,0.4559050878699801,1.0,693,INR
+FOO01741,Food,Brand Awareness,Erode,389139,1139,Discover amazing food deals! Learn More now!,#Launch #Ad,0.5234683352385904,0.8474354021219639,0.4040485565858462,1.0,695,INR
+FIN01477,Finance,Brand Awareness,Thoothukudi,380448,146,Discover amazing finance deals! Try Free now!,#Trending #Viral,0.6170987790915193,0.6913024546105538,0.6763736479469544,1.0,185,INR
+TEC01631,Technology,Leads,Tirupur,376659,66,Discover amazing technology deals! Get Offer now!,#Ad #Sale,0.9422157594774876,1.0,1.0,1.0,81,INR
+FOO01196,Food,Engagement,Chennai,8954480,1970,Discover amazing food deals! Shop Now now!,#Launch #Promo,0.7154381832821997,0.6529714191524378,0.814066342508883,1.0,2420,INR
+FAS02112,Fashion,Leads,Chennai,10332811,1915,Discover amazing fashion deals! Join Today now!,#Marketing #Launch,0.7864514295242505,0.7126682174167086,0.5021927152902371,1.0,1524,INR
+FIT01188,Fitness,Conversions,Erode,304537,1621,Discover amazing fitness deals! Join Today now!,#InstaAd #Launch,0.4729541849196822,0.7310853265036984,0.989238972712706,1.0,1905,INR
+FIN01222,Finance,Leads,Thanjavur,228477,1067,Discover amazing finance deals! Get Offer now!,#NewProduct #Launch #Trending #Discount,0.5416280668115696,0.4444715577247692,0.1162067785575985,1.0,786,INR
+AUT01069,Automobile,Leads,Tirupur,441983,742,Discover amazing automobile deals! Sign Up now!,#Trending #Promo #NewProduct,0.6214752198252517,0.3750747400481988,1.0,1.0,874,INR
+EDU01307,Education,Engagement,Erode,242533,1609,Discover amazing education deals! Download App now!,#NewProduct #Sale,0.6193763807443641,0.805102713868129,0.5308839100033552,1.0,1365,INR
+FIT01910,Fitness,Engagement,Tiruchirappalli,663972,1772,Discover amazing fitness deals! Join Today now!,#Trending #Launch #Promo,0.5554154657043563,0.8915058601424857,0.6682900144311471,1.0,1441,INR
+FAS01080,Fashion,Leads,Kanchipuram,201917,868,Discover amazing fashion deals! Get Offer now!,#BestChoice #NewProduct,0.4829547519214642,0.8280379647414248,0.8006920729982734,1.0,673,INR
+TEC01863,Technology,Leads,Erode,482762,920,Discover amazing technology deals! Shop Now now!,#Discount #Marketing #BrandDeal,0.6574658765649806,0.4160364681595555,0.6001700905646906,1.0,1029,INR
+BEA01123,Beauty,Traffic,Madurai,1056542,1379,Discover amazing beauty deals! Join Today now!,#LimitedOffer #Promo #NewProduct #Sale,0.6339483806410238,0.8098550051276534,0.5943317134779349,1.0,814,INR
+BEA01259,Beauty,Brand Awareness,Thoothukudi,461987,211,Discover amazing beauty deals! Try Free now!,#BestChoice #Marketing #Sale,0.6663386009541813,0.5155610073771445,0.4975435107465343,1.0,132,INR
+FIN01192,Finance,Traffic,Tirunelveli,247362,1025,Discover amazing finance deals! Get Offer now!,#Sale #Marketing,0.4868231988118289,0.7137897724837247,0.5032509887903943,1.0,653,INR
+FIT01570,Fitness,Conversions,Vellore,582272,1908,Discover amazing fitness deals! Join Today now!,#Launch #Viral #InstaAd #NewProduct,0.6699642970808549,0.7902029052266261,0.5922902030613892,1.0,1797,INR
+FIT01515,Fitness,Traffic,Thanjavur,273781,1711,Discover amazing fitness deals! Join Today now!,#Discount #LimitedOffer #NewProduct #BrandDeal,0.7742885385642565,0.6897469020985119,0.7469874890785626,1.0,1644,INR
+TEC02072,Technology,Leads,Erode,442353,1832,Discover amazing technology deals! Get Offer now!,#Viral #InstaAd,0.772046143463535,0.5284614425350311,1.0,1.0,1477,INR
+EDU01321,Education,Traffic,Tirupur,390455,1856,Discover amazing education deals! Join Today now!,#Launch #Viral,0.6308763077800701,0.820848671424472,0.7408144286663794,1.0,2632,INR
+FAS01092,Fashion,Brand Awareness,Salem,365545,377,Discover amazing fashion deals! Get Offer now!,#InstaAd #Promo #BestChoice #LimitedOffer,0.5611436781268945,0.6607300301830044,0.682099685146484,1.0,239,INR
+AUT01670,Automobile,Brand Awareness,Chennai,8403081,826,Discover amazing automobile deals! Get Offer now!,#Trending #Sale #NewProduct,0.7329031308770924,0.8394725717475038,0.7771715315919501,1.0,1203,INR
+FIN01349,Finance,Brand Awareness,Madurai,801953,909,Discover amazing finance deals! Download App now!,#LimitedOffer #Viral #BestChoice,0.9160162898393324,0.6970658980663383,0.2856955601049001,1.0,984,INR
+TEC01692,Technology,Engagement,Dindigul,266748,1546,Discover amazing technology deals! Join Today now!,#Discount #Marketing #BestChoice,0.6721178264262815,0.5840379168035806,0.6587932436059561,1.0,1732,INR
+EDU01101,Education,Conversions,Nagercoil,105287,1732,Discover amazing education deals! Shop Now now!,#Discount #BrandDeal #Promo,0.629079704331967,0.9527098947126932,1.0,1.0,2236,INR
+TEC01084,Technology,Traffic,Vellore,557665,1008,Discover amazing technology deals! Learn More now!,#InstaAd #Promo,0.4109581912123325,0.5511782468627897,0.8199022922195134,1.0,955,INR
+AUT01951,Automobile,Traffic,Kanniyakumari,114387,1137,Discover amazing automobile deals! Join Today now!,#Promo #Ad,0.6170314238453022,0.9513456357345288,0.7886577791453521,1.0,1692,INR
+TEC01571,Technology,Traffic,Thanjavur,158512,1633,Discover amazing technology deals! Shop Now now!,#LimitedOffer #Launch #Promo,0.5738846985025983,0.8913803935197833,0.4098378844011855,1.0,1552,INR
+FIT01893,Fitness,Engagement,Tirunelveli,332414,1154,Discover amazing fitness deals! Learn More now!,#Sale #InstaAd #Trending #BrandDeal,0.7746038268190281,0.9499981921405338,1.0,1.0,872,INR
+TEC02001,Technology,Traffic,Vellore,408872,1510,Discover amazing technology deals! Get Offer now!,#InstaAd #Trending #Viral,0.5899174446254946,0.4309848585316134,0.4701541179320704,1.0,965,INR
+FIN01978,Finance,Conversions,Erode,447754,1600,Discover amazing finance deals! Sign Up now!,#Marketing #InstaAd,0.6985122989191707,0.7726870664280272,0.2338905011566525,1.0,2062,INR
+AUT01440,Automobile,Engagement,Tiruchirappalli,493070,1534,Discover amazing automobile deals! Sign Up now!,#InstaAd #Ad,0.7285670133739048,0.6770590724092619,0.2771299714266501,1.0,1149,INR
+BEA02110,Beauty,Traffic,Chennai,10719269,1433,Discover amazing beauty deals! Shop Now now!,#Ad #Viral #Launch #BestChoice,0.3853588517067435,1.0,0.0146457347927068,1.0,1335,INR
+FAS02147,Fashion,Engagement,Tirupur,357686,1762,Discover amazing fashion deals! Download App now!,#Discount #Trending #Marketing #Viral,0.3677867961958875,0.6333539205682932,0.4809826251223493,1.0,663,INR
+FOO01665,Food,Traffic,Chennai,9478050,775,Discover amazing food deals! Shop Now now!,#BestChoice #Ad #Launch #Trending,0.7203782188908474,0.9300129078452986,0.7206635535549999,1.0,494,INR
+EDU01574,Education,Traffic,Dindigul,374861,834,Discover amazing education deals! Learn More now!,#Ad #BrandDeal #Trending,0.5060784901053729,1.0,0.4835792028971749,1.0,771,INR
+TEC02192,Technology,Traffic,Tiruchirappalli,442078,1277,Discover amazing technology deals! Join Today now!,#Ad #Promo,0.5930497404502095,0.7914526678167271,0.4525534180580282,1.0,1290,INR
+FIT02162,Fitness,Traffic,Nagercoil,206288,1894,Discover amazing fitness deals! Shop Now now!,#Promo #BrandDeal #LimitedOffer #InstaAd,0.4981005936865436,0.8979611853865674,0.7626423028494715,1.0,2035,INR
+BEA01312,Beauty,Conversions,Tirupur,283524,1311,Discover amazing beauty deals! Shop Now now!,#BrandDeal #NewProduct #Launch #Viral,0.8032302566407846,0.6175212422653332,0.4368533315798866,1.0,929,INR
+TEC01362,Technology,Conversions,Thoothukudi,427645,148,Discover amazing technology deals! Shop Now now!,#Discount #Promo #NewProduct,0.6331065625404787,0.9240126268340716,0.1350395225651939,1.0,98,INR
+AUT01299,Automobile,Traffic,Coimbatore,1786667,696,Discover amazing automobile deals! Sign Up now!,#BrandDeal #NewProduct #Sale #Trending,0.5063779231999632,0.7564733747360262,0.8267079317164625,1.0,674,INR
+AUT01525,Automobile,Brand Awareness,Madurai,805073,1979,Discover amazing automobile deals! Download App now!,#Launch #NewProduct #Sale #Discount,0.6685384247880164,0.870595792680506,0.8872481836649369,1.0,3068,INR
+EDU02037,Education,Brand Awareness,Chennai,9175885,291,Discover amazing education deals! Shop Now now!,#BestChoice #BrandDeal #Viral,0.4429223681595099,0.5490309845978221,0.6188835630498445,1.0,299,INR
+FAS01794,Fashion,Engagement,Salem,629588,834,Discover amazing fashion deals! Sign Up now!,#Promo #Discount #NewProduct #Ad,0.6955362118504478,0.6049749443110793,0.5667515701435115,1.0,410,INR
+FOO01853,Food,Brand Awareness,Chennai,9712503,802,Discover amazing food deals! Shop Now now!,#Trending #BestChoice #Marketing,0.5260818939991665,0.9758759514138804,0.7529866820148787,1.0,570,INR
+EDU01118,Education,Leads,Vellore,496513,1724,Discover amazing education deals! Get Offer now!,#Discount #Marketing #InstaAd,0.3522513632016449,0.8041129984476464,0.8555074993597565,1.0,2112,INR
+BEA01343,Beauty,Engagement,Chennai,10443851,870,Discover amazing beauty deals! Download App now!,#Viral #Promo #BrandDeal #Ad,0.5257632190050225,0.8927902502109423,0.4375216136576181,1.0,595,INR
+FIN02167,Finance,Conversions,Thanjavur,223698,1964,Discover amazing finance deals! Join Today now!,#Sale #InstaAd,0.5345083476736149,0.6771485077320702,1.0,1.0,1521,INR
+FOO01266,Food,Traffic,Chennai,8386594,1145,Discover amazing food deals! Sign Up now!,#Promo #InstaAd,0.8006872562305061,0.6590707012664122,0.6193291996942596,1.0,653,INR
+FIN01896,Finance,Brand Awareness,Coimbatore,1772608,1297,Discover amazing finance deals! Shop Now now!,#LimitedOffer #Launch #Trending,0.5939909507376541,1.0,0.266192491617712,1.0,863,INR
+FAS01088,Fashion,Traffic,Coimbatore,2092501,725,Discover amazing fashion deals! Try Free now!,#Marketing #Discount,0.8264588697672643,1.0,0.8499459639911822,1.0,750,INR
+EDU02194,Education,Leads,Nagercoil,237023,1744,Discover amazing education deals! Try Free now!,#Sale #Promo,0.4775794430088687,0.7769653202671989,0.9038142031779216,1.0,1007,INR
+AUT01981,Automobile,Leads,Tirunelveli,287388,1616,Discover amazing automobile deals! Sign Up now!,#Launch #NewProduct,0.6615477178640007,0.6070063461821945,1.0,1.0,1717,INR
+AUT01695,Automobile,Brand Awareness,Thoothukudi,208007,66,Discover amazing automobile deals! Sign Up now!,#Sale #NewProduct #BrandDeal #BestChoice,0.5501242935756514,1.0,0.6007709711118285,1.0,81,INR
+FIN01503,Finance,Engagement,Salem,557802,308,Discover amazing finance deals! Sign Up now!,#LimitedOffer #Launch,0.4447328739058642,0.5478895199217167,0.8966754455887532,1.0,442,INR
+FIT02001,Fitness,Traffic,Chennai,9483624,1595,Discover amazing fitness deals! Learn More now!,#Promo #InstaAd #Ad,0.4297118722564513,0.3718837921333227,1.0,1.0,1694,INR
+BEA01983,Beauty,Conversions,Chennai,10155748,284,Discover amazing beauty deals! Sign Up now!,#Launch #Trending #Viral,0.5316081494744979,0.2870114875772124,0.4402809309558101,1.0,192,INR
+FIT01302,Fitness,Traffic,Madurai,851005,765,Discover amazing fitness deals! Download App now!,#BrandDeal #Ad,0.6491943860587233,0.6526201692025148,0.775474015860367,1.0,694,INR
+TEC01673,Technology,Engagement,Tirupur,286740,1239,Discover amazing technology deals! Learn More now!,#Discount #NewProduct #Sale #InstaAd,0.8370931062025098,0.8339581992556779,1.0,1.0,1791,INR
+FOO01662,Food,Traffic,Coimbatore,1522244,1415,Discover amazing food deals! Shop Now now!,#Trending #Promo,0.3328027503779043,0.7218054341526352,1.0,1.0,827,INR
+FIN01919,Finance,Conversions,Salem,712498,1820,Discover amazing finance deals! Try Free now!,#Trending #Marketing #NewProduct #BrandDeal,0.8354161248351072,0.593574127806589,0.7717602101823234,1.0,2562,INR
+EDU01836,Education,Leads,Nagercoil,255002,1812,Discover amazing education deals! Download App now!,#Launch #InstaAd #Ad #NewProduct,0.6838998723973982,1.0,1.0,1.0,2430,INR
+BEA01897,Beauty,Traffic,Dindigul,281149,934,Discover amazing beauty deals! Join Today now!,#Viral #Discount,0.6778200770947993,0.7401750523270108,0.7309848022993573,1.0,624,INR
+EDU01468,Education,Traffic,Tirunelveli,325501,623,Discover amazing education deals! Learn More now!,#BestChoice #Launch,0.8862121463599202,0.6678869236156706,0.6453238341886302,1.0,434,INR
+FIN01300,Finance,Traffic,Thoothukudi,482755,50,Discover amazing finance deals! Download App now!,#Trending #Ad #InstaAd,0.5191464425133953,0.9085624862678512,0.5200727577850284,1.0,49,INR
+EDU01142,Education,Engagement,Tiruchirappalli,548056,1372,Discover amazing education deals! Try Free now!,#BestChoice #LimitedOffer #NewProduct,0.2172842476788353,0.6161147530318253,0.7171252804437919,1.0,1584,INR
+FOO02163,Food,Leads,Thoothukudi,214060,248,Discover amazing food deals! Shop Now now!,#InstaAd #Viral #NewProduct,0.681140037189,0.4213437703395253,0.682173920271047,1.0,199,INR
+BEA01244,Beauty,Brand Awareness,Thanjavur,364057,71,Discover amazing beauty deals! Download App now!,#NewProduct #Discount #Trending #Promo,0.5453513428469093,0.6131549534428855,0.91600685199489,1.0,64,INR
+EDU01195,Education,Brand Awareness,Vellore,490279,1842,Discover amazing education deals! Get Offer now!,#Promo #NewProduct,0.6966063472782208,0.6104377814982277,0.4293566532291982,1.0,1587,INR
+FIN01843,Finance,Engagement,Thanjavur,356118,91,Discover amazing finance deals! Shop Now now!,#Discount #InstaAd #Promo #Trending,0.4109380565795081,0.5857444466290803,0.6109600307495906,1.0,127,INR
+BEA01158,Beauty,Engagement,Chennai,9088287,318,Discover amazing beauty deals! Sign Up now!,#NewProduct #Viral #Discount #BrandDeal,0.5070221057464216,0.8263974266347888,0.6913049825327644,1.0,248,INR
+FIN01440,Finance,Brand Awareness,Kanniyakumari,91954,1740,Discover amazing finance deals! Learn More now!,#Ad #BestChoice,0.6886547911037403,0.4808360247842735,0.4535462269021554,1.0,1789,INR
+FIT01900,Fitness,Leads,Tirunelveli,418134,1691,Discover amazing fitness deals! Learn More now!,#NewProduct #Launch #InstaAd,0.6741047859750666,1.0,0.5153947934058045,1.0,1520,INR
+FAS01108,Fashion,Traffic,Vellore,402974,1360,Discover amazing fashion deals! Download App now!,#LimitedOffer #BrandDeal #Discount #Sale,0.4821015809238075,0.4337534092884443,0.2409486567241758,1.0,585,INR
+FOO01635,Food,Traffic,Salem,449646,925,Discover amazing food deals! Shop Now now!,#BrandDeal #Ad,0.5521773567188704,0.9625202324435068,0.4140975211927552,1.0,503,INR
+EDU01981,Education,Engagement,Tiruchirappalli,802400,644,Discover amazing education deals! Sign Up now!,#Launch #NewProduct #Sale #Ad,0.6136344495432611,0.714123903433257,0.8056633075676749,1.0,457,INR
+FIN01353,Finance,Leads,Coimbatore,2198744,1238,Discover amazing finance deals! Download App now!,#NewProduct #Launch #Viral #BestChoice,0.4741539062066903,1.0,0.6299089358544863,1.0,1369,INR
+FAS02090,Fashion,Leads,Tirunelveli,267728,396,Discover amazing fashion deals! Try Free now!,#InstaAd #BrandDeal #Discount #Trending,0.5738245964961687,0.8558012623398373,0.5807293973541204,1.0,289,INR
+FOO01559,Food,Leads,Tirunelveli,365088,565,Discover amazing food deals! Download App now!,#InstaAd #NewProduct,0.5771504676019593,0.8575489976493605,0.6948981242661721,1.0,420,INR
+AUT01661,Automobile,Traffic,Thanjavur,161246,480,Discover amazing automobile deals! Join Today now!,#InstaAd #BrandDeal,0.7681902103089666,0.6022849647120619,0.8740673721932694,1.0,646,INR
+EDU01642,Education,Engagement,Kanniyakumari,125558,1182,Discover amazing education deals! Learn More now!,#InstaAd #BestChoice,0.7591948128572883,1.0,0.9397591165973932,1.0,886,INR
+EDU02163,Education,Traffic,Chennai,10609089,1947,Discover amazing education deals! Join Today now!,#Discount #Launch,0.2488673414282304,0.8922454664178467,0.4388469364653152,1.0,2107,INR
+FIN01345,Finance,Traffic,Erode,292263,1499,Discover amazing finance deals! Learn More now!,#BrandDeal #Sale,0.5318348878780212,0.6013666137922818,0.3416854506472819,1.0,1141,INR
+FAS01623,Fashion,Engagement,Nagercoil,235090,910,Discover amazing fashion deals! Try Free now!,#InstaAd #Launch #Ad,0.6696376857184505,0.8218271038107027,0.8431113265387754,1.0,760,INR
+FIN01620,Finance,Engagement,Thanjavur,161302,1328,Discover amazing finance deals! Learn More now!,#Promo #Discount,0.9956429794973548,1.0,0.4348612556467718,1.0,2269,INR
+TEC02063,Technology,Leads,Tirunelveli,241157,618,Discover amazing technology deals! Learn More now!,#Promo #Discount,0.4758182404598935,0.7817953674515371,0.8159363371292494,1.0,747,INR
+FIN01302,Finance,Engagement,Kanchipuram,254917,127,Discover amazing finance deals! Sign Up now!,#Sale #BrandDeal,0.5486721228770529,0.6346893018873541,0.3239690571245568,1.0,181,INR
+EDU01029,Education,Engagement,Madurai,723810,1626,Discover amazing education deals! Sign Up now!,#Sale #Ad #BrandDeal,0.7392794485944125,0.7663966191507039,0.736280349393285,1.0,2121,INR
+FOO01795,Food,Conversions,Tiruchirappalli,496646,81,Discover amazing food deals! Sign Up now!,#InstaAd #Sale #LimitedOffer #Discount,0.7742746083939006,0.8212433372656707,0.6906454229413312,1.0,75,INR
+FIN02186,Finance,Brand Awareness,Nagercoil,183122,1244,Discover amazing finance deals! Learn More now!,#Sale #Ad #Promo #Discount,0.3978357390086635,0.6348745394090615,1.0,1.0,1516,INR
+TEC01467,Technology,Engagement,Thanjavur,174519,1061,Discover amazing technology deals! Download App now!,#BrandDeal #NewProduct #Ad #Promo,0.5637075541638663,0.5132887611572585,0.8125172131633949,1.0,529,INR
+FOO01940,Food,Engagement,Tiruchirappalli,890025,1333,Discover amazing food deals! Download App now!,#BestChoice #Promo #Marketing #Ad,0.6465423047290603,0.6555250238216896,0.9817440712859606,1.0,1702,INR
+EDU02000,Education,Conversions,Madurai,980703,1392,Discover amazing education deals! Try Free now!,#BrandDeal #Promo #Marketing,0.3034466196042044,0.9767277411019584,0.3995882882350001,1.0,1116,INR
+FIN01178,Finance,Leads,Dindigul,337891,1429,Discover amazing finance deals! Shop Now now!,#BrandDeal #Ad #Trending,0.444310581274685,0.8996243059143905,1.0,1.0,2468,INR
+FIN01576,Finance,Brand Awareness,Madurai,843054,1462,Discover amazing finance deals! Download App now!,#Sale #Marketing #Trending,0.6675455047854365,0.6712153455003502,0.3937449466369999,1.0,1351,INR
+TEC01380,Technology,Leads,Kanniyakumari,151324,1160,Discover amazing technology deals! Download App now!,#Viral #Marketing,0.5196909595280402,0.6947858460844822,1.0,1.0,940,INR
+EDU01301,Education,Conversions,Madurai,767552,1309,Discover amazing education deals! Get Offer now!,#BestChoice #InstaAd #Discount,0.6236528980394304,0.9423611827025208,0.4747825558831651,1.0,1072,INR
+EDU01253,Education,Engagement,Tiruchirappalli,459379,1950,Discover amazing education deals! Shop Now now!,#InstaAd #Trending #Launch #Sale,0.4547242199104325,0.8413191147518099,0.6166170333831626,1.0,1804,INR
+TEC01971,Technology,Engagement,Thoothukudi,225053,64,Discover amazing technology deals! Sign Up now!,#InstaAd #BestChoice,0.4313161392932885,0.8234598734558566,1.0,1.0,105,INR
+BEA01400,Beauty,Conversions,Tiruchirappalli,802662,1489,Discover amazing beauty deals! Download App now!,#Discount #Sale #Viral #Trending,0.5312208536376106,0.8412506747189703,0.3022185069954314,1.0,767,INR
+TEC01390,Technology,Leads,Erode,331994,1408,Discover amazing technology deals! Join Today now!,#Viral #Marketing,0.6149723456579409,0.648887842857963,0.9367735608190196,1.0,1857,INR
+BEA01367,Beauty,Engagement,Chennai,10195875,887,Discover amazing beauty deals! Learn More now!,#Marketing #BrandDeal #Discount #Trending,0.5700484047215303,1.0,0.4840188240436429,1.0,688,INR
+BEA01779,Beauty,Engagement,Vellore,351356,1351,Discover amazing beauty deals! Join Today now!,#Sale #BestChoice,0.7099533695399926,1.0,0.8112258875659476,1.0,1288,INR
+EDU02017,Education,Engagement,Thoothukudi,472933,783,Discover amazing education deals! Sign Up now!,#Sale #Discount #BestChoice #Promo,0.5650726375221372,0.5604154865871223,0.9826282303003248,1.0,750,INR
+TEC01825,Technology,Traffic,Coimbatore,1853088,913,Discover amazing technology deals! Shop Now now!,#Sale #Promo #Viral,0.7171058618856612,0.5423961921648119,0.5158474277239196,1.0,627,INR
+TEC01242,Technology,Traffic,Vellore,332154,656,Discover amazing technology deals! Download App now!,#Discount #Ad,0.3924772089995402,0.634245858865685,0.4481490731608866,1.0,541,INR
+FIN02126,Finance,Leads,Chennai,10361632,1018,Discover amazing finance deals! Join Today now!,#BrandDeal #Launch,0.4583247179967644,0.5738571034503384,0.6787239640946453,1.0,1023,INR
+FOO02149,Food,Leads,Thanjavur,253677,1466,Discover amazing food deals! Get Offer now!,#Promo #Discount #InstaAd,0.5946570006419416,0.648171696672219,0.4412381490670048,1.0,1110,INR
+TEC02158,Technology,Engagement,Nagercoil,167779,499,Discover amazing technology deals! Join Today now!,#NewProduct #Viral #BestChoice #LimitedOffer,0.4457946513943573,0.7121407980261313,0.7370062467985389,1.0,411,INR
+FOO01026,Food,Brand Awareness,Erode,481173,921,Discover amazing food deals! Sign Up now!,#Marketing #Trending #Sale #Ad,0.5590112853148569,0.4839043898819672,0.4095610729902512,1.0,787,INR
+EDU01760,Education,Leads,Erode,232265,1402,Discover amazing education deals! Shop Now now!,#Discount #InstaAd #LimitedOffer #NewProduct,0.5141645084020554,0.715091231874198,0.7588732184614789,1.0,1075,INR
+TEC01981,Technology,Conversions,Coimbatore,2034057,368,Discover amazing technology deals! Get Offer now!,#LimitedOffer #NewProduct #Ad #Trending,0.997796956484827,0.6220452144451758,0.5982040750117111,1.0,525,INR
+EDU01048,Education,Brand Awareness,Thoothukudi,374944,924,Discover amazing education deals! Get Offer now!,#Trending #LimitedOffer #Sale,0.68370327949464,0.534311875798722,0.5402363773871766,1.0,879,INR
+EDU01634,Education,Traffic,Kanniyakumari,126197,1288,Discover amazing education deals! Shop Now now!,#Marketing #Viral #BestChoice,0.8214809071245581,0.9058623737438598,0.7488325536781736,1.0,1584,INR
+BEA01356,Beauty,Brand Awareness,Tirupur,325733,201,Discover amazing beauty deals! Get Offer now!,#Launch #Ad,0.6373579095511034,0.5915658893947033,0.6208266665689316,1.0,177,INR
+TEC02023,Technology,Brand Awareness,Dindigul,336252,1520,Discover amazing technology deals! Join Today now!,#Discount #Promo #BestChoice,0.7576875624232131,0.7413758953070939,0.5823782055971136,1.0,1693,INR
+EDU01609,Education,Leads,Madurai,654782,1172,Discover amazing education deals! Join Today now!,#Discount #Marketing,0.8714081266305643,0.7440218401913734,0.6010457062975865,1.0,1339,INR
+FIN01701,Finance,Leads,Thoothukudi,360558,1170,Discover amazing finance deals! Learn More now!,#Marketing #Launch,0.6402830032904331,0.4583760841062451,1.0,1.0,1272,INR
+FOO02004,Food,Traffic,Nagercoil,171907,779,Discover amazing food deals! Join Today now!,#Viral #Ad #NewProduct,0.5863604751356057,0.7463981763435334,0.5484761928473502,1.0,619,INR
+EDU01228,Education,Traffic,Dindigul,278876,980,Discover amazing education deals! Try Free now!,#BrandDeal #Ad #Discount #Viral,0.7771870069057268,0.8569810102365543,0.7332841100546436,1.0,776,INR
+FIT02041,Fitness,Engagement,Erode,402967,1037,Discover amazing fitness deals! Sign Up now!,#Marketing #Launch #Viral #Sale,0.3922063636832803,0.6060641034562473,0.9103714875710276,1.0,1140,INR
+FAS01388,Fashion,Engagement,Tiruchirappalli,726579,811,Discover amazing fashion deals! Get Offer now!,#NewProduct #Launch #Discount,0.5482252941825305,0.7978509070152655,0.8715883887536332,1.0,470,INR
+BEA01544,Beauty,Brand Awareness,Nagercoil,140631,369,Discover amazing beauty deals! Join Today now!,#InstaAd #BrandDeal #NewProduct,0.8872356757467608,0.4835117912439128,0.3979120126261002,1.0,234,INR
+EDU02231,Education,Engagement,Chennai,9439758,322,Discover amazing education deals! Shop Now now!,#Viral #Ad,0.5949107218647445,0.9746948331588164,0.7452420163849988,1.0,373,INR
+TEC02169,Technology,Engagement,Coimbatore,1064772,1251,Discover amazing technology deals! Get Offer now!,#Trending #BestChoice #NewProduct #BrandDeal,0.5339118195175148,0.6296693358737925,0.5078115301905186,1.0,1534,INR
+FOO01537,Food,Conversions,Chennai,8126108,177,Discover amazing food deals! Join Today now!,#Viral #LimitedOffer #BrandDeal #Promo,0.5875359055058104,0.8320918184324184,0.7762229172642183,1.0,101,INR
+TEC01122,Technology,Engagement,Tirupur,214382,929,Discover amazing technology deals! Learn More now!,#Discount #Trending,0.5576868836585174,0.4923421487821491,0.7419023041950498,1.0,715,INR
+AUT01118,Automobile,Brand Awareness,Nagercoil,184291,429,Discover amazing automobile deals! Join Today now!,#InstaAd #Discount,0.6609026824267936,0.2569053019425868,0.6637021714196322,1.0,441,INR
+BEA02004,Beauty,Engagement,Salem,663339,222,Discover amazing beauty deals! Sign Up now!,#Sale #Promo,0.4794655526124102,0.9629244007219891,1.0,1.0,206,INR
+FIT01912,Fitness,Leads,Salem,434828,1836,Discover amazing fitness deals! Sign Up now!,#Marketing #Promo #InstaAd,0.6810004423386082,0.7087935592001493,0.6557233581988489,1.0,1093,INR
+FOO01459,Food,Conversions,Thanjavur,170609,1511,Discover amazing food deals! Join Today now!,#Sale #NewProduct,0.6788020220555098,0.666632344612171,0.9991147151445744,1.0,1454,INR
+TEC02205,Technology,Brand Awareness,Thoothukudi,347550,894,Discover amazing technology deals! Shop Now now!,#NewProduct #Viral #BrandDeal,0.7251546658998175,0.7191552892474499,0.0,1.0,920,INR
+FIN02146,Finance,Conversions,Erode,432050,804,Discover amazing finance deals! Shop Now now!,#Viral #Ad #Discount,0.40718039348332,0.7283787786559973,0.5313220151352223,1.0,803,INR
+FOO01414,Food,Conversions,Erode,330330,1602,Discover amazing food deals! Get Offer now!,#Viral #Ad #LimitedOffer,0.403495247771773,0.8436866388268942,0.6183847524366367,1.0,1528,INR
+FIN02149,Finance,Leads,Madurai,1095603,944,Discover amazing finance deals! Try Free now!,#LimitedOffer #Sale #Discount #BestChoice,0.5210023663149268,0.5415698547602843,0.4947719548999031,1.0,1159,INR
+FIN02164,Finance,Traffic,Madurai,888349,920,Discover amazing finance deals! Join Today now!,#Ad #Trending,0.4672718637898445,0.728046641803762,0.6483471326285292,1.0,1038,INR
+AUT01350,Automobile,Traffic,Madurai,514153,440,Discover amazing automobile deals! Join Today now!,#NewProduct #Launch,0.8523824960072928,0.4105492819418515,0.6201442890616738,1.0,378,INR
+TEC02101,Technology,Engagement,Tiruchirappalli,476325,739,Discover amazing technology deals! Try Free now!,#BestChoice #Ad #BrandDeal,0.5288038072863572,0.5052430265599741,0.5282268150464471,1.0,590,INR
+BEA01775,Beauty,Engagement,Vellore,540773,653,Discover amazing beauty deals! Shop Now now!,#Trending #Sale #Viral,0.7051984239845456,0.5725258923588639,0.322846852623161,1.0,283,INR
+FIT01115,Fitness,Leads,Tirunelveli,255318,1931,Discover amazing fitness deals! Join Today now!,#Promo #BrandDeal #Discount #Launch,0.7642920968692941,0.3954955302094047,1.0,1.0,1124,INR
+FIN02138,Finance,Leads,Vellore,376077,1349,Discover amazing finance deals! Learn More now!,#InstaAd #Ad #Discount #Marketing,0.6345191260930677,0.90676188215936,0.7490787080094191,1.0,2539,INR
+FIT01426,Fitness,Conversions,Chennai,10974058,1424,Discover amazing fitness deals! Sign Up now!,#LimitedOffer #Trending #NewProduct,0.6063694330796296,0.6194895181147546,0.3522322781517204,1.0,1178,INR
+FAS02121,Fashion,Traffic,Vellore,433515,171,Discover amazing fashion deals! Download App now!,#Launch #BestChoice,0.6810662230953792,0.6408315170270251,0.8145863246259535,1.0,100,INR
+FIT01410,Fitness,Leads,Tiruchirappalli,869209,1787,Discover amazing fitness deals! Download App now!,#InstaAd #Promo #BrandDeal #Trending,0.5652824865116548,0.568824146118391,0.9077084164425996,1.0,1058,INR
+EDU01646,Education,Conversions,Thanjavur,356988,1310,Discover amazing education deals! Learn More now!,#LimitedOffer #Viral,0.3297765655658704,0.3597734880873526,0.8332447073998829,1.0,1164,INR
+FIN02133,Finance,Traffic,Chennai,9908327,506,Discover amazing finance deals! Shop Now now!,#Discount #Marketing,0.6277112609883756,0.9081217549894882,0.8426251511938513,1.0,478,INR
+FIT01982,Fitness,Engagement,Vellore,425885,224,Discover amazing fitness deals! Learn More now!,#Launch #LimitedOffer #Viral,0.8583143532141612,0.4920622111718037,0.7959190572891618,1.0,266,INR
+FAS01795,Fashion,Engagement,Tiruchirappalli,771921,1960,Discover amazing fashion deals! Shop Now now!,#BrandDeal #Trending,0.4203063056489007,0.6146857494338852,0.6026491096186558,1.0,1001,INR
+BEA01325,Beauty,Engagement,Tirunelveli,217368,544,Discover amazing beauty deals! Try Free now!,#LimitedOffer #InstaAd #Trending,0.4871566767357797,0.7431091270019903,0.8928806327190297,1.0,531,INR
+FOO02176,Food,Brand Awareness,Vellore,446400,1536,Discover amazing food deals! Shop Now now!,#BrandDeal #NewProduct #Trending #Marketing,0.4516055842094819,0.6879750257169114,0.8298008150078848,1.0,1305,INR
+FIN01016,Finance,Conversions,Tiruchirappalli,588014,1033,Discover amazing finance deals! Shop Now now!,#Promo #Viral #Launch,0.4338528097618671,0.4231864335062566,0.8712349805482646,1.0,1461,INR
+BEA02208,Beauty,Traffic,Tirupur,291751,788,Discover amazing beauty deals! Sign Up now!,#LimitedOffer #Sale,0.5241427707660038,0.8052490088479197,0.7043894593958204,1.0,493,INR
+FIT01812,Fitness,Leads,Madurai,730203,1472,Discover amazing fitness deals! Try Free now!,#Promo #BrandDeal #Launch #LimitedOffer,0.5947382893919988,0.7075364697365796,0.6021021957382273,1.0,918,INR
+BEA01003,Beauty,Traffic,Tirupur,227306,1908,Discover amazing beauty deals! Shop Now now!,#Marketing #Sale,0.7955342838635573,0.6555506455856489,0.5185413249964854,1.0,1138,INR
+FIN01584,Finance,Engagement,Erode,370987,227,Discover amazing finance deals! Try Free now!,#LimitedOffer #Discount,0.6689395037465193,0.9837780468745236,0.9161216666588954,1.0,427,INR
+AUT01044,Automobile,Conversions,Madurai,711951,1021,Discover amazing automobile deals! Sign Up now!,#LimitedOffer #Sale #Marketing,0.3991171812213487,0.7370776354772501,0.9973774932497944,1.0,1235,INR
+TEC01087,Technology,Traffic,Erode,395716,945,Discover amazing technology deals! Shop Now now!,#BestChoice #Promo,0.393387145665623,0.52328211040394,0.8229768127583177,1.0,1202,INR
+TEC01648,Technology,Traffic,Kanchipuram,260279,1374,Discover amazing technology deals! Download App now!,#Discount #Trending #Promo,0.7973425395507443,0.7251789575433448,1.0,1.0,2197,INR
+FIT02095,Fitness,Conversions,Coimbatore,1315172,177,Discover amazing fitness deals! Learn More now!,#Viral #Ad,0.6766755786531364,0.6959235112839545,0.6540969444043016,1.0,193,INR
+FIN01371,Finance,Engagement,Tirupur,304263,1764,Discover amazing finance deals! Get Offer now!,#Promo #BrandDeal #Ad #Trending,0.4538722490335511,0.5202951298333124,0.5027741596183517,1.0,1591,INR
+EDU01882,Education,Conversions,Coimbatore,1000126,757,Discover amazing education deals! Sign Up now!,#BrandDeal #Promo,0.533104781617356,0.7503022405307321,0.7261108223610204,1.0,975,INR
+BEA01874,Beauty,Brand Awareness,Coimbatore,1838761,762,Discover amazing beauty deals! Sign Up now!,#Trending #LimitedOffer #BrandDeal #NewProduct,0.5389092290706863,0.7518661942693768,0.8317013853154986,1.0,450,INR
+FIT01738,Fitness,Traffic,Tirunelveli,227632,1785,Discover amazing fitness deals! Download App now!,#Viral #Trending,0.5307636478525553,0.8323451725995575,0.5736632371258901,1.0,1799,INR
+FOO01403,Food,Traffic,Madurai,1000315,344,Discover amazing food deals! Download App now!,#Sale #Promo,0.5098311465783095,0.774982333644595,0.656223620485804,1.0,202,INR
+FOO01998,Food,Engagement,Kanchipuram,396382,215,Discover amazing food deals! Download App now!,#BestChoice #InstaAd #Viral,0.7950364650680954,0.9941324734450204,0.9452296042900172,1.0,201,INR
+FOO01938,Food,Leads,Erode,309945,495,Discover amazing food deals! Join Today now!,#InstaAd #NewProduct #BestChoice,0.7038643324976518,0.5084666551786666,0.3268805157299912,1.0,375,INR
+BEA01795,Beauty,Engagement,Tiruchirappalli,717320,1819,Discover amazing beauty deals! Learn More now!,#Discount #BrandDeal,0.5649235177298801,0.6047552238590076,0.9515838922762824,1.0,1781,INR
+BEA01328,Beauty,Traffic,Chennai,9299445,1658,Discover amazing beauty deals! Shop Now now!,#Sale #Viral #Discount #Promo,0.5149831689279126,0.6777749493882123,0.853798205587045,1.0,1646,INR
+FAS01014,Fashion,Conversions,Tiruchirappalli,617138,487,Discover amazing fashion deals! Get Offer now!,#Marketing #Promo #Sale,0.5631917825995694,0.549252767128502,0.4776213925936191,1.0,293,INR
+FIT01173,Fitness,Brand Awareness,Chennai,8498716,260,Discover amazing fitness deals! Join Today now!,#Trending #Marketing,0.5859657545719135,0.5662702251963008,1.0,1.0,199,INR
+FIN01766,Finance,Brand Awareness,Tirupur,375399,890,Discover amazing finance deals! Shop Now now!,#BrandDeal #Trending,0.6225121852321862,0.5396526464449869,0.4366064018857988,1.0,986,INR
+EDU02220,Education,Engagement,Salem,762120,1047,Discover amazing education deals! Sign Up now!,#Launch #Viral #BestChoice #Marketing,0.6321050597893578,0.434612261510894,1.0,1.0,770,INR
+AUT01099,Automobile,Traffic,Tiruchirappalli,534869,961,Discover amazing automobile deals! Learn More now!,#Launch #BestChoice #NewProduct #InstaAd,0.6131010450166652,0.6930466283788447,0.4782266929388999,1.0,1155,INR
+TEC02062,Technology,Brand Awareness,Vellore,478954,1080,Discover amazing technology deals! Join Today now!,#Launch #LimitedOffer,0.7679799526742249,0.5326875686055335,0.6622038290282195,1.0,1358,INR
+FAS02084,Fashion,Engagement,Vellore,444790,1965,Discover amazing fashion deals! Get Offer now!,#Sale #Launch #BrandDeal,0.5288757471752517,1.0,0.3908610999628164,1.0,1472,INR
+TEC02233,Technology,Leads,Thoothukudi,234560,1903,Discover amazing technology deals! Sign Up now!,#Launch #Marketing,0.7170827032114405,0.6621973207275459,0.9699522387810215,1.0,1618,INR
+FIN01905,Finance,Leads,Madurai,784260,1286,Discover amazing finance deals! Try Free now!,#Marketing #Launch,0.7391569083881044,0.5412573084219635,0.7703350465632887,1.0,970,INR
+FIT01384,Fitness,Leads,Chennai,10002324,594,Discover amazing fitness deals! Download App now!,#Discount #LimitedOffer #Viral,0.7550419256469706,0.8593865129278107,0.2564289519439338,1.0,398,INR
+FAS01333,Fashion,Traffic,Chennai,10067801,609,Discover amazing fashion deals! Download App now!,#Ad #InstaAd,0.7347209581224954,0.4849154446310669,1.0,1.0,335,INR
+FIN01954,Finance,Brand Awareness,Nagercoil,232717,1930,Discover amazing finance deals! Download App now!,#Sale #Trending,0.7622896458592235,1.0,0.9914453414245032,1.0,3310,INR
+TEC01617,Technology,Leads,Thanjavur,328595,346,Discover amazing technology deals! Sign Up now!,#Marketing #BestChoice #Trending #Ad,0.6999809378231494,0.8062844083883118,0.8115192821879391,1.0,500,INR
+FIT01579,Fitness,Leads,Madurai,879862,532,Discover amazing fitness deals! Shop Now now!,#Marketing #InstaAd #LimitedOffer #Discount,0.5424782351074615,0.7430978993177819,0.7952862460406072,1.0,544,INR
+FIN01953,Finance,Brand Awareness,Tirunelveli,481400,1851,Discover amazing finance deals! Download App now!,#Trending #BestChoice #BrandDeal #Viral,0.8135749796939906,0.7962683748677092,0.6595923712551218,1.0,1861,INR
+AUT02159,Automobile,Leads,Thoothukudi,300158,192,Discover amazing automobile deals! Sign Up now!,#BestChoice #BrandDeal #LimitedOffer,0.549863486398374,0.810012402025433,0.4888750111510007,1.0,214,INR
+AUT01114,Automobile,Leads,Tirunelveli,384245,1032,Discover amazing automobile deals! Sign Up now!,#BrandDeal #Sale #Ad #Launch,0.6798761054249467,0.6260743824539882,0.5321093848746062,1.0,1575,INR
+FAS01263,Fashion,Brand Awareness,Tirupur,368502,1585,Discover amazing fashion deals! Get Offer now!,#BestChoice #Ad #Discount #Viral,0.516040213178984,0.776485312347022,0.3497701679727177,1.0,653,INR
+TEC01587,Technology,Engagement,Tirupur,370354,1738,Discover amazing technology deals! Shop Now now!,#Marketing #LimitedOffer,0.4946984238235597,0.6483477184757473,0.9826997830577816,1.0,1947,INR
+AUT01145,Automobile,Brand Awareness,Tirunelveli,342766,207,Discover amazing automobile deals! Download App now!,#Launch #BrandDeal #Sale #Viral,0.4483447425761745,0.6545367881028111,1.0,1.0,204,INR
+EDU01947,Education,Conversions,Tirunelveli,257545,1268,Discover amazing education deals! Try Free now!,#Discount #Sale #Trending,0.5855273530682306,0.874258826932409,0.6887884800168383,1.0,1027,INR
+FOO01903,Food,Leads,Kanchipuram,213224,656,Discover amazing food deals! Get Offer now!,#Launch #Promo,0.7763831667496163,0.4399924902186925,0.522239469440232,1.0,520,INR
+BEA01248,Beauty,Brand Awareness,Madurai,540738,392,Discover amazing beauty deals! Download App now!,#Marketing #Ad,0.6699482473774938,0.9844517017152654,0.7549675355934864,1.0,354,INR
+TEC01440,Technology,Leads,Tirunelveli,380760,117,Discover amazing technology deals! Sign Up now!,#InstaAd #Promo,0.4393123851161923,0.5438097018575215,0.3838833313297784,1.0,108,INR
+FIN02235,Finance,Conversions,Vellore,539690,1195,Discover amazing finance deals! Learn More now!,#NewProduct #LimitedOffer #Launch #Marketing,0.5729084641370138,0.7960193172383526,0.8503863800632325,1.0,1306,INR
+AUT01893,Automobile,Traffic,Thanjavur,354581,613,Discover amazing automobile deals! Get Offer now!,#InstaAd #BrandDeal,0.6542855847859493,0.6917407684378586,0.5623032965734731,1.0,896,INR
+EDU01810,Education,Engagement,Thanjavur,289649,460,Discover amazing education deals! Try Free now!,#Viral #Discount #Marketing #BrandDeal,0.8075131462448648,0.3837095106692525,0.98121487731416,1.0,385,INR
+EDU01090,Education,Leads,Coimbatore,2174737,1879,Discover amazing education deals! Shop Now now!,#Marketing #Promo,0.5201893884072908,0.3375369134167562,0.689217157868643,1.0,997,INR
+FAS01500,Fashion,Conversions,Salem,308666,303,Discover amazing fashion deals! Learn More now!,#NewProduct #LimitedOffer #BrandDeal #Viral,0.7771484857958508,0.7806549126074342,0.458324527324335,1.0,197,INR
+AUT01405,Automobile,Traffic,Tirupur,257761,72,Discover amazing automobile deals! Get Offer now!,#BrandDeal #Launch,0.4370143408223526,0.7767108491231798,0.5346164693752334,1.0,53,INR
+AUT01664,Automobile,Traffic,Chennai,10087258,1561,Discover amazing automobile deals! Shop Now now!,#InstaAd #BrandDeal,0.6273420999626375,0.6012257479176331,0.530321563931585,1.0,1854,INR
+FIT01595,Fitness,Conversions,Nagercoil,136368,481,Discover amazing fitness deals! Sign Up now!,#Trending #BestChoice,0.3591047943902277,1.0,0.772563672224081,1.0,469,INR
+TEC01881,Technology,Conversions,Kanniyakumari,86783,983,Discover amazing technology deals! Shop Now now!,#BrandDeal #InstaAd #NewProduct #Launch,0.4202729925775847,1.0,0.957383602832502,1.0,692,INR
+FAS01367,Fashion,Brand Awareness,Chennai,10663354,1677,Discover amazing fashion deals! Learn More now!,#LimitedOffer #Sale,0.5996280253315259,0.9232376128867696,0.4393651381292789,1.0,878,INR
+TEC01308,Technology,Traffic,Salem,501579,804,Discover amazing technology deals! Learn More now!,#Promo #Sale #NewProduct #LimitedOffer,0.4787843495276511,0.5925544671755574,0.6708830514832337,1.0,917,INR
+EDU01674,Education,Leads,Nagercoil,227738,604,Discover amazing education deals! Shop Now now!,#BestChoice #BrandDeal,0.3573672358071423,0.4934601499914675,0.7454625327670926,1.0,454,INR
+TEC01880,Technology,Leads,Kanchipuram,446965,1700,Discover amazing technology deals! Download App now!,#Viral #InstaAd #BestChoice #BrandDeal,0.2970664544500652,0.6333114766941995,0.6613424806872211,1.0,1421,INR
+FOO02070,Food,Leads,Madurai,1004471,80,Discover amazing food deals! Get Offer now!,#InstaAd #Sale #Viral,0.4768722856482728,0.5919930436940893,0.5843649729585183,1.0,59,INR
+FIT01164,Fitness,Conversions,Tiruchirappalli,729670,105,Discover amazing fitness deals! Try Free now!,#Promo #BestChoice #NewProduct #Discount,0.370886306215658,0.9448824835047924,0.6678492304618906,1.0,125,INR
+FAS02026,Fashion,Conversions,Madurai,718967,1667,Discover amazing fashion deals! Download App now!,#Trending #LimitedOffer #Promo,0.5796598140148675,0.8571985625406263,0.9932419247910664,1.0,1245,INR
+FOO01908,Food,Conversions,Chennai,8383152,1565,Discover amazing food deals! Shop Now now!,#BrandDeal #LimitedOffer,0.5185673848257941,0.668838472657181,0.8628064314632263,1.0,1301,INR
+FOO01050,Food,Engagement,Chennai,8954652,597,Discover amazing food deals! Download App now!,#NewProduct #InstaAd #Trending #Discount,0.4109209600826727,0.934617828406468,0.8846120505885691,1.0,540,INR
+FIN01078,Finance,Leads,Nagercoil,194270,1863,Discover amazing finance deals! Try Free now!,#Promo #Trending,0.5811623196293225,0.6938632070519314,0.5520585694945547,1.0,2385,INR
+AUT01983,Automobile,Conversions,Nagercoil,104757,888,Discover amazing automobile deals! Join Today now!,#Trending #Ad,0.5555621976730143,0.6794835610362582,0.5141992634089797,1.0,698,INR
+BEA01441,Beauty,Engagement,Tirupur,219097,291,Discover amazing beauty deals! Learn More now!,#Marketing #Sale #Promo #Ad,0.4411630772983081,0.8626553879095422,1.0,1.0,267,INR
+FAS01673,Fashion,Leads,Kanchipuram,341467,1178,Discover amazing fashion deals! Download App now!,#Viral #Trending #LimitedOffer,0.4932507692135541,0.5605910597281154,0.5995033772159661,1.0,683,INR
+FOO01572,Food,Leads,Tirupur,347313,539,Discover amazing food deals! Join Today now!,#Trending #LimitedOffer #Sale #Viral,0.5127398720449295,0.9880625929581746,0.8126798507113799,1.0,520,INR
+FOO01766,Food,Leads,Salem,666036,1862,Discover amazing food deals! Try Free now!,#InstaAd #Viral #Discount #Sale,0.5922413218554815,0.5570898521341393,1.0,1.0,1525,INR
+FOO01156,Food,Traffic,Tirunelveli,358768,994,Discover amazing food deals! Learn More now!,#Sale #Discount #LimitedOffer,0.5107931178547597,0.676401713437466,0.8809332376682538,1.0,825,INR
+FAS01733,Fashion,Leads,Madurai,746726,1412,Discover amazing fashion deals! Learn More now!,#Discount #Launch,0.4309596955802457,0.7280854391223569,0.7960481775025181,1.0,1323,INR
+FIT02026,Fitness,Brand Awareness,Nagercoil,170480,552,Discover amazing fitness deals! Try Free now!,#BrandDeal #Promo #Marketing #BestChoice,0.7468670099334357,0.5262752507868508,1.0,1.0,747,INR
+FAS01568,Fashion,Traffic,Erode,246163,745,Discover amazing fashion deals! Shop Now now!,#BrandDeal #Launch #Ad #Trending,0.7026991845815618,0.9139826870821944,0.8825709548267411,1.0,420,INR
+AUT01437,Automobile,Conversions,Salem,319816,667,Discover amazing automobile deals! Try Free now!,#Marketing #BrandDeal #BestChoice,0.435553592397465,0.5610449678107026,0.606129212265801,1.0,472,INR
+FIT01422,Fitness,Brand Awareness,Vellore,533619,1132,Discover amazing fitness deals! Download App now!,#InstaAd #Sale #BrandDeal,0.4621147686787875,0.9322974016706604,0.792916823656181,1.0,1511,INR
+EDU01411,Education,Engagement,Kanchipuram,355989,1812,Discover amazing education deals! Download App now!,#Discount #Trending #LimitedOffer,0.5365756267384364,0.903381522894052,0.9327101389051032,1.0,2039,INR
+BEA01308,Beauty,Brand Awareness,Chennai,9669595,1656,Discover amazing beauty deals! Get Offer now!,#Launch #LimitedOffer #Marketing #Viral,0.5636043651821475,0.9806615169875976,0.7102540758525362,1.0,1105,INR
+FAS01101,Fashion,Traffic,Tirupur,352638,626,Discover amazing fashion deals! Join Today now!,#LimitedOffer #Promo #Viral,0.6371246695255817,1.0,1.0,1.0,544,INR
+FIT01507,Fitness,Conversions,Salem,506524,1916,Discover amazing fitness deals! Sign Up now!,#Discount #LimitedOffer #Launch,0.3800407005691897,0.7378371382152569,0.3840478060731829,1.0,1112,INR
+FIN01951,Finance,Engagement,Kanniyakumari,142823,1702,Discover amazing finance deals! Get Offer now!,#Launch #BestChoice #LimitedOffer #Marketing,0.5560697226937219,0.7784223234839587,0.947018932114992,1.0,2843,INR
+FAS01303,Fashion,Engagement,Madurai,651878,1485,Discover amazing fashion deals! Join Today now!,#InstaAd #Promo #Trending,0.600027999695246,0.9301215101186138,0.416834061610088,1.0,1154,INR
+FAS01076,Fashion,Conversions,Nagercoil,306592,62,Discover amazing fashion deals! Shop Now now!,#Marketing #LimitedOffer #Sale,0.5413592145502162,0.565913686590748,0.68839490731465,1.0,43,INR
+FIN01504,Finance,Leads,Chennai,9574623,495,Discover amazing finance deals! Shop Now now!,#Trending #LimitedOffer #NewProduct #Launch,0.5749045629311851,0.8351686385685331,1.0,1.0,834,INR
+EDU02129,Education,Engagement,Tiruchirappalli,657164,406,Discover amazing education deals! Join Today now!,#Launch #Ad #NewProduct,0.6376150587487981,0.5905772383070709,0.6693071636788978,1.0,528,INR
+FAS02208,Fashion,Brand Awareness,Kanniyakumari,121949,662,Discover amazing fashion deals! Get Offer now!,#Sale #Marketing #Ad,0.8492800580413954,0.7077013468559392,1.0,1.0,469,INR
+EDU01242,Education,Brand Awareness,Kanchipuram,333554,1402,Discover amazing education deals! Download App now!,#Launch #Marketing #Sale,0.7067082923201569,0.7812193152461605,0.8236437008680237,1.0,1148,INR
+EDU01714,Education,Engagement,Salem,586586,1700,Discover amazing education deals! Shop Now now!,#Launch #Ad #BestChoice,0.5151962921709089,0.6885230446329489,0.6194278663056203,1.0,1526,INR
+AUT01194,Automobile,Leads,Thoothukudi,293501,646,Discover amazing automobile deals! Get Offer now!,#Sale #Discount #BrandDeal #Promo,0.3334338295543658,0.9632655079719596,0.4027513981703139,1.0,493,INR
+EDU01913,Education,Leads,Chennai,8264223,584,Discover amazing education deals! Try Free now!,#LimitedOffer #InstaAd #Discount,0.8766766246541497,0.649995151204478,0.8600464768264369,1.0,591,INR
+BEA01525,Beauty,Conversions,Madurai,559676,432,Discover amazing beauty deals! Sign Up now!,#InstaAd #Trending,0.6567123102326796,0.7869308707418476,0.7668382578108425,1.0,272,INR
+FIT01973,Fitness,Leads,Coimbatore,1597135,1361,Discover amazing fitness deals! Get Offer now!,#BrandDeal #Launch,0.7275892661338653,0.6217002653613413,0.7268197782296149,1.0,1080,INR
+FAS01483,Fashion,Brand Awareness,Erode,293607,1675,Discover amazing fashion deals! Try Free now!,#BestChoice #LimitedOffer #BrandDeal,0.7495898930546872,0.590382419898416,0.2715892577328269,1.0,838,INR
+BEA01939,Beauty,Conversions,Dindigul,370178,1821,Discover amazing beauty deals! Shop Now now!,#Ad #InstaAd #LimitedOffer #NewProduct,0.5244693205026301,0.786832247755781,0.5382900807286431,1.0,761,INR
+FAS01346,Fashion,Brand Awareness,Kanniyakumari,98449,1841,Discover amazing fashion deals! Download App now!,#Marketing #Discount #BestChoice,0.6441511781427598,1.0,0.3785493414838687,1.0,1349,INR
+FOO01481,Food,Conversions,Tirunelveli,264077,822,Discover amazing food deals! Sign Up now!,#Viral #Promo #Launch #Trending,0.6721024949483811,0.4891859811887417,0.8890383318734867,1.0,821,INR
+EDU01861,Education,Conversions,Dindigul,188258,1283,Discover amazing education deals! Try Free now!,#Discount #BrandDeal #Launch #LimitedOffer,0.6540690625153964,0.9635198317712088,0.693794633749677,1.0,1130,INR
+BEA01222,Beauty,Leads,Madurai,757009,1589,Discover amazing beauty deals! Join Today now!,#NewProduct #Viral,0.5751618747785945,0.5804688742138487,0.815296131486036,1.0,842,INR
+FOO01100,Food,Engagement,Vellore,437717,1020,Discover amazing food deals! Join Today now!,#NewProduct #InstaAd #Ad #BestChoice,0.545499610490014,0.8357093473793054,0.5356466867834211,1.0,496,INR
+FIN01515,Finance,Brand Awareness,Tirupur,319771,1123,Discover amazing finance deals! Download App now!,#Trending #Discount #Ad #Viral,0.9182118877544784,0.6470300321416153,0.4820915889082574,1.0,833,INR
+EDU02206,Education,Leads,Vellore,338000,374,Discover amazing education deals! Shop Now now!,#BestChoice #Trending,0.4880021179360241,0.8351831388860448,0.6765875536322283,1.0,240,INR
+TEC02179,Technology,Traffic,Coimbatore,1300709,499,Discover amazing technology deals! Download App now!,#NewProduct #InstaAd #BestChoice,0.4325398402644573,0.8264635927849061,0.6151349376222873,1.0,364,INR
+FIN01079,Finance,Engagement,Kanniyakumari,105522,107,Discover amazing finance deals! Sign Up now!,#Discount #BestChoice,0.5238290032410513,0.7925008214336086,0.6167945165962604,1.0,123,INR
+FIT01109,Fitness,Brand Awareness,Tirunelveli,386240,1404,Discover amazing fitness deals! Join Today now!,#NewProduct #Trending #Marketing #LimitedOffer,0.6297086326087848,0.7897546255923429,0.7807907223668794,1.0,1901,INR
+FAS01003,Fashion,Engagement,Thoothukudi,252487,520,Discover amazing fashion deals! Try Free now!,#BrandDeal #Sale,0.4007720926652354,0.7393722471738247,0.8846166449988526,1.0,273,INR
+BEA01963,Beauty,Engagement,Coimbatore,2127199,554,Discover amazing beauty deals! Get Offer now!,#Discount #Trending #BrandDeal,0.6424924067775337,0.9730348207683068,1.0,1.0,602,INR
+TEC02077,Technology,Engagement,Kanniyakumari,183177,1186,Discover amazing technology deals! Try Free now!,#LimitedOffer #InstaAd,0.4388924007022529,0.9324696535505784,0.6798210531713937,1.0,1569,INR
+FAS01856,Fashion,Leads,Thanjavur,380857,737,Discover amazing fashion deals! Join Today now!,#Viral #Ad,0.7038696512046491,0.6103017260425798,0.3455584517177735,1.0,413,INR
+FIN01727,Finance,Conversions,Dindigul,281026,1910,Discover amazing finance deals! Download App now!,#Trending #Marketing #NewProduct #Sale,0.2585002075119126,0.8780965069967124,0.7016849120515107,1.0,2818,INR
+FOO01885,Food,Leads,Coimbatore,1907425,355,Discover amazing food deals! Get Offer now!,#NewProduct #Launch,0.4904604090060745,0.6939033132678285,0.6928025249818459,1.0,212,INR
+FAS01624,Fashion,Conversions,Dindigul,333675,1720,Discover amazing fashion deals! Try Free now!,#Launch #Marketing,0.6850603828178383,0.5453905626446314,0.6666549164502933,1.0,1070,INR
+FAS01290,Fashion,Engagement,Chennai,9785910,1717,Discover amazing fashion deals! Learn More now!,#BrandDeal #Viral #Ad #Discount,0.6189784807527082,0.5530883806269057,0.9533639554352752,1.0,1263,INR
+BEA01768,Beauty,Traffic,Vellore,405947,494,Discover amazing beauty deals! Try Free now!,#Trending #Marketing #Viral,0.4180927386301724,0.8801728881097988,0.6698892843397058,1.0,461,INR
+FAS01668,Fashion,Leads,Chennai,8652465,1498,Discover amazing fashion deals! Download App now!,#BestChoice #NewProduct #InstaAd,0.7159542346876347,1.0,0.57132518926351,1.0,1121,INR
+AUT01171,Automobile,Brand Awareness,Erode,416454,669,Discover amazing automobile deals! Join Today now!,#Sale #Trending,0.7000932743264277,0.7386011296128617,0.6744416009526282,1.0,843,INR
+EDU01764,Education,Conversions,Thanjavur,362316,1907,Discover amazing education deals! Sign Up now!,#NewProduct #LimitedOffer #Launch #Viral,0.6645065898734802,0.5979810880145473,1.0,1.0,2408,INR
+AUT01946,Automobile,Engagement,Tirunelveli,309575,1483,Discover amazing automobile deals! Get Offer now!,#Viral #NewProduct,0.5562713185214759,0.8127102401872376,0.4047922369140133,1.0,1597,INR
+BEA01381,Beauty,Brand Awareness,Thoothukudi,407606,259,Discover amazing beauty deals! Get Offer now!,#Trending #Marketing,0.7399830773370424,0.5777268705271339,1.0,1.0,189,INR
+FOO01170,Food,Leads,Kanchipuram,492822,735,Discover amazing food deals! Get Offer now!,#Sale #InstaAd #Promo #Marketing,0.6731434831815472,0.974929540691037,0.7611599578512965,1.0,720,INR
+FIN01955,Finance,Leads,Dindigul,226218,1509,Discover amazing finance deals! Shop Now now!,#Launch #Promo,0.7664287981182832,0.6528600294249814,0.4903962099057785,1.0,2056,INR
+FIT01022,Fitness,Engagement,Thoothukudi,263230,1373,Discover amazing fitness deals! Join Today now!,#InstaAd #Trending #Marketing,0.6260252809299317,0.6757290257229039,0.2304912420569342,1.0,983,INR
+BEA01965,Beauty,Brand Awareness,Dindigul,395756,436,Discover amazing beauty deals! Get Offer now!,#BestChoice #Discount #Trending,0.4395281183057659,0.7271641342522225,0.2782877967520673,1.0,228,INR
+FIN01718,Finance,Conversions,Madurai,836199,1802,Discover amazing finance deals! Shop Now now!,#Discount #InstaAd #BrandDeal,0.5262049666814204,0.6074392824381709,0.9429521240067794,1.0,2270,INR
+FIN01246,Finance,Leads,Coimbatore,1449589,909,Discover amazing finance deals! Learn More now!,#Launch #BestChoice #Marketing,0.6512213393815823,0.818732952989946,1.0,1.0,1235,INR
+FOO02213,Food,Engagement,Erode,362552,788,Discover amazing food deals! Try Free now!,#NewProduct #Marketing #Launch #Viral,0.5279618456581322,0.7139029756949384,0.899358205707187,1.0,633,INR
+FIN01782,Finance,Engagement,Vellore,339986,768,Discover amazing finance deals! Shop Now now!,#Viral #NewProduct,0.7435195658648522,0.9019194269699456,0.6190272789692873,1.0,813,INR
+FIN02170,Finance,Conversions,Kanchipuram,355232,339,Discover amazing finance deals! Join Today now!,#Sale #Discount,0.6075668911936924,0.6795246780352948,0.6197871472452396,1.0,520,INR
+FAS02107,Fashion,Traffic,Nagercoil,185595,470,Discover amazing fashion deals! Learn More now!,#Trending #Promo,0.4225661545963478,0.5788328926029581,1.0,1.0,382,INR
+FAS01450,Fashion,Brand Awareness,Dindigul,251358,1890,Discover amazing fashion deals! Download App now!,#Launch #Viral,0.6297590275766229,0.6981635293229722,0.570560638194445,1.0,1538,INR
+FIN01039,Finance,Conversions,Thoothukudi,273506,1675,Discover amazing finance deals! Get Offer now!,#Launch #Viral #Trending,0.7663151359292422,0.8494649960830423,0.3453729531895573,1.0,2088,INR
+AUT02216,Automobile,Brand Awareness,Erode,234911,413,Discover amazing automobile deals! Sign Up now!,#InstaAd #Trending,0.4266653395889213,0.6169194115243773,1.0,1.0,426,INR
+FAS01135,Fashion,Brand Awareness,Tiruchirappalli,749271,1459,Discover amazing fashion deals! Join Today now!,#LimitedOffer #Trending #Viral #BestChoice,0.6606385792520179,0.5231969090881586,0.649787130427345,1.0,1044,INR
+BEA01535,Beauty,Traffic,Kanchipuram,406111,1930,Discover amazing beauty deals! Shop Now now!,#NewProduct #Launch #InstaAd #Ad,0.7600309035298509,0.6710315508608938,0.6149097106041227,1.0,1156,INR
+FIT01904,Fitness,Engagement,Tiruchirappalli,853751,1508,Discover amazing fitness deals! Shop Now now!,#Trending #Discount #InstaAd #NewProduct,0.6188815213278323,0.7922233792632652,0.1737521696530789,1.0,852,INR
+FIT01406,Fitness,Brand Awareness,Chennai,8899885,1912,Discover amazing fitness deals! Sign Up now!,#BrandDeal #Launch,0.6472621796390572,0.5187841032202767,1.0,1.0,2252,INR
+EDU01804,Education,Engagement,Vellore,384458,582,Discover amazing education deals! Learn More now!,#Discount #Sale #Ad #LimitedOffer,0.3820215984849293,0.7251470461759597,0.9610649480185718,1.0,579,INR
+FIN02242,Finance,Engagement,Tirupur,212175,635,Discover amazing finance deals! Get Offer now!,#Promo #Launch #Sale,0.5305837762892702,0.6121233112193123,1.0,1.0,1141,INR
+FOO02100,Food,Engagement,Tirupur,319235,325,Discover amazing food deals! Sign Up now!,#Launch #Marketing #Trending #Ad,0.4611757402849539,0.4633521159977495,1.0,1.0,320,INR
+TEC01754,Technology,Traffic,Nagercoil,154771,1723,Discover amazing technology deals! Get Offer now!,#LimitedOffer #InstaAd #BrandDeal,0.7846680518507012,0.7758815064622464,1.0,1.0,2195,INR
+FOO01053,Food,Brand Awareness,Madurai,999876,1490,Discover amazing food deals! Sign Up now!,#Marketing #Discount #BestChoice #Promo,0.6522921687217323,0.196048314703864,0.9550583319588248,1.0,1090,INR
+FOO01205,Food,Conversions,Thoothukudi,321300,314,Discover amazing food deals! Try Free now!,#Sale #Trending #NewProduct,0.6447051907818916,0.6540210832728355,0.3242552558084621,1.0,191,INR
+TEC01330,Technology,Leads,Kanniyakumari,166925,1213,Discover amazing technology deals! Shop Now now!,#Promo #Ad #Marketing,0.5571094439169895,0.8327198189314923,0.5733148592878416,1.0,1404,INR
+FIN01668,Finance,Engagement,Nagercoil,344446,1096,Discover amazing finance deals! Learn More now!,#Launch #Ad,0.6555064634215182,0.7556791143275264,0.910055008896866,1.0,1725,INR
+FIN01552,Finance,Conversions,Coimbatore,2114934,459,Discover amazing finance deals! Learn More now!,#LimitedOffer #Discount #NewProduct,0.36018041889956,0.5521943293551015,0.6393249248311846,1.0,367,INR
+FOO01206,Food,Engagement,Coimbatore,1047057,1459,Discover amazing food deals! Download App now!,#Sale #Launch #Ad #InstaAd,0.4548537053403339,0.783148477273614,0.4291994235264419,1.0,1249,INR
+FAS01532,Fashion,Brand Awareness,Thoothukudi,468294,1057,Discover amazing fashion deals! Sign Up now!,#InstaAd #Trending,0.3213569055989527,0.596929160694327,0.1939141254484727,1.0,509,INR
+TEC02080,Technology,Leads,Kanniyakumari,84425,1660,Discover amazing technology deals! Shop Now now!,#Discount #Marketing #Ad #InstaAd,0.7408345520928881,0.927396615681904,0.236296256190171,1.0,1314,INR
+TEC01288,Technology,Engagement,Tirunelveli,454726,1889,Discover amazing technology deals! Learn More now!,#Ad #Launch #InstaAd,0.6984096811604454,0.7583588542144521,0.8438865280944747,1.0,1915,INR
+TEC01334,Technology,Brand Awareness,Madurai,778176,1761,Discover amazing technology deals! Join Today now!,#LimitedOffer #Launch #Marketing #BestChoice,0.5929125464919961,0.7913214891744819,0.6190231607073304,1.0,2410,INR
+FIT01704,Fitness,Conversions,Erode,202198,83,Discover amazing fitness deals! Get Offer now!,#Trending #Ad #NewProduct #Promo,0.7047907273036955,0.7530058232266044,0.2145825087335994,1.0,61,INR
+FIN01860,Finance,Brand Awareness,Dindigul,341572,594,Discover amazing finance deals! Sign Up now!,#Promo #BestChoice,0.4787262008197854,0.7417824813128878,0.5088993084359948,1.0,437,INR
+FAS01330,Fashion,Conversions,Kanniyakumari,133394,822,Discover amazing fashion deals! Download App now!,#LimitedOffer #BrandDeal #NewProduct #Trending,0.7129023472929086,0.4625069196523123,0.7453783328768886,1.0,469,INR
+TEC02207,Technology,Traffic,Tirupur,351151,845,Discover amazing technology deals! Download App now!,#Marketing #Ad #BestChoice,0.7632602242815386,0.9147792474750484,0.561397589318972,1.0,1087,INR
+FIT01533,Fitness,Leads,Kanchipuram,367292,1948,Discover amazing fitness deals! Shop Now now!,#Marketing #LimitedOffer,0.5246812912956643,0.626037533536796,0.777902360455007,1.0,1407,INR
+EDU01184,Education,Engagement,Tirunelveli,344931,469,Discover amazing education deals! Learn More now!,#Viral #LimitedOffer #BrandDeal,0.5055182795864139,0.8709993924665078,0.7641850115591045,1.0,357,INR
+BEA01347,Beauty,Traffic,Dindigul,331532,975,Discover amazing beauty deals! Sign Up now!,#BrandDeal #Promo,0.4169226071867349,0.5385624861327656,0.7447834475607475,1.0,555,INR
+AUT02169,Automobile,Conversions,Dindigul,312491,1550,Discover amazing automobile deals! Learn More now!,#BrandDeal #Viral #Trending #NewProduct,0.7545792921075644,0.4656271333697651,0.5756672902371746,1.0,1687,INR
+FIT02097,Fitness,Leads,Tirunelveli,460910,86,Discover amazing fitness deals! Learn More now!,#LimitedOffer #BestChoice #Launch #NewProduct,0.4813748067226065,0.5444509792667358,0.0,1.0,55,INR
+AUT01288,Automobile,Leads,Chennai,8087955,1731,Discover amazing automobile deals! Shop Now now!,#Marketing #NewProduct,0.4038752423947276,0.6064384653431927,0.7871005649242093,1.0,1412,INR
+EDU01501,Education,Leads,Tiruchirappalli,616586,331,Discover amazing education deals! Download App now!,#NewProduct #Launch #Trending,0.4233291542877091,0.4964409479711381,0.8403661046466964,1.0,330,INR
+FAS01590,Fashion,Conversions,Dindigul,253145,87,Discover amazing fashion deals! Sign Up now!,#Discount #NewProduct #Trending,0.4250523560114505,0.6978007903177262,0.6717515925780795,1.0,76,INR
+FAS01647,Fashion,Conversions,Tirunelveli,346430,929,Discover amazing fashion deals! Sign Up now!,#Trending #BestChoice #Viral,0.493280880921262,0.8297155345205418,0.7134718554727555,1.0,529,INR
+AUT01352,Automobile,Traffic,Kanniyakumari,179713,1275,Discover amazing automobile deals! Sign Up now!,#Ad #Launch #NewProduct,0.7346767355979562,0.4765787816629225,0.5819381636784589,1.0,1889,INR
+EDU01515,Education,Engagement,Tirunelveli,294914,1920,Discover amazing education deals! Shop Now now!,#Trending #InstaAd,0.6436315221696987,0.6007726567287193,0.6531394630579789,1.0,2364,INR
+TEC01021,Technology,Traffic,Thanjavur,252870,1501,Discover amazing technology deals! Download App now!,#Viral #Discount #Promo,0.4600836953307959,0.7126273287557271,0.6787878818085841,1.0,1425,INR
+AUT01289,Automobile,Traffic,Nagercoil,307990,1611,Discover amazing automobile deals! Sign Up now!,#LimitedOffer #Ad,0.468215448419652,0.6527630683394244,0.8586162187019764,1.0,1795,INR
+FOO01082,Food,Leads,Salem,678387,695,Discover amazing food deals! Sign Up now!,#BestChoice #Trending,0.524729804471269,0.549636242115303,0.492074146517901,1.0,345,INR
+EDU01382,Education,Traffic,Chennai,8538884,1229,Discover amazing education deals! Get Offer now!,#Ad #BrandDeal,0.7124763810910828,0.6641493791447888,0.766022691725846,1.0,1347,INR
+AUT01612,Automobile,Traffic,Vellore,432351,658,Discover amazing automobile deals! Get Offer now!,#LimitedOffer #BestChoice #Sale,0.6818302036234998,0.836452966722826,0.7012564875868162,1.0,620,INR
+TEC01460,Technology,Conversions,Salem,494269,975,Discover amazing technology deals! Sign Up now!,#Trending #Promo,0.2356170856215516,0.5561226087149098,0.5525752455769348,1.0,850,INR
+AUT01084,Automobile,Engagement,Nagercoil,211496,594,Discover amazing automobile deals! Join Today now!,#BrandDeal #Viral,0.7062426916206987,0.9916040212555008,0.6563066237117858,1.0,718,INR
+EDU02199,Education,Engagement,Nagercoil,230273,381,Discover amazing education deals! Try Free now!,#Viral #Sale,0.638659178550845,0.7599430651907092,0.3588223094579172,1.0,508,INR
+BEA01545,Beauty,Leads,Nagercoil,293588,381,Discover amazing beauty deals! Shop Now now!,#BrandDeal #Sale #LimitedOffer #Viral,0.6307043788705161,0.9141999321583238,0.895945510189605,1.0,402,INR
+FIT01086,Fitness,Brand Awareness,Salem,438155,1094,Discover amazing fitness deals! Join Today now!,#Marketing #Viral #LimitedOffer #InstaAd,0.8254926682376194,0.4600756704019922,0.8668947324065539,1.0,1295,INR
+EDU01855,Education,Brand Awareness,Thoothukudi,320674,1936,Discover amazing education deals! Sign Up now!,#Launch #BrandDeal #Viral,0.7623124912571598,1.0,0.4861740804748473,1.0,2284,INR
+BEA02066,Beauty,Brand Awareness,Tiruchirappalli,782451,1694,Discover amazing beauty deals! Join Today now!,#Ad #Marketing #Promo,0.4252566509275572,0.8993808662793719,0.6948584852599401,1.0,912,INR
+TEC01435,Technology,Brand Awareness,Tirunelveli,457529,983,Discover amazing technology deals! Sign Up now!,#BestChoice #Ad #Trending #Promo,0.7111795449642918,0.7240819755692528,0.6444696656436654,1.0,1189,INR
+AUT01077,Automobile,Conversions,Kanchipuram,440469,1798,Discover amazing automobile deals! Try Free now!,#BestChoice #Launch #Viral,0.6276811946528373,0.6054725991763227,0.8517505522670814,1.0,1501,INR
+FIN01822,Finance,Brand Awareness,Tiruchirappalli,810987,1531,Discover amazing finance deals! Sign Up now!,#BrandDeal #Launch #Trending,0.6175605430011769,0.9856471098163706,1.0,1.0,2701,INR
+FOO01234,Food,Leads,Tirupur,361047,216,Discover amazing food deals! Shop Now now!,#Launch #BestChoice,0.4348834035599586,0.6029499653228128,0.7700556793144862,1.0,203,INR
+EDU02243,Education,Traffic,Kanniyakumari,125648,1474,Discover amazing education deals! Get Offer now!,#Sale #Trending,0.6097743437483771,0.4870085184205016,0.6712736671933232,1.0,1153,INR
+EDU02170,Education,Leads,Madurai,756713,222,Discover amazing education deals! Join Today now!,#LimitedOffer #Marketing #BrandDeal,0.5824866517988099,0.6384752937222442,0.0,1.0,102,INR
+TEC02018,Technology,Brand Awareness,Thoothukudi,219063,1634,Discover amazing technology deals! Learn More now!,#InstaAd #Discount #Promo #Sale,0.4572879681005057,0.7012162464102593,0.5121859639824232,1.0,1293,INR
+AUT02222,Automobile,Conversions,Vellore,367642,1905,Discover amazing automobile deals! Shop Now now!,#Sale #Ad #Viral #NewProduct,0.5303815882889454,0.7171087631840604,1.0,1.0,2833,INR
+FIN01894,Finance,Traffic,Tiruchirappalli,490093,132,Discover amazing finance deals! Sign Up now!,#Promo #Sale,0.4902360537210391,0.8470101333611753,1.0,1.0,167,INR
+FIT01413,Fitness,Engagement,Kanchipuram,417215,1189,Discover amazing fitness deals! Download App now!,#LimitedOffer #Trending,0.7033205706862555,0.93057059449996,0.5188926639773886,1.0,1222,INR
+AUT02121,Automobile,Brand Awareness,Coimbatore,1035954,1669,Discover amazing automobile deals! Learn More now!,#Ad #LimitedOffer #InstaAd #BestChoice,0.7610161960259065,0.4064908375628389,0.630488747557472,1.0,1622,INR
+AUT02143,Automobile,Engagement,Nagercoil,127856,1298,Discover amazing automobile deals! Join Today now!,#Viral #BrandDeal,0.4736425076033604,0.9078904431607046,1.0,1.0,1591,INR
+BEA01825,Beauty,Leads,Dindigul,152573,1948,Discover amazing beauty deals! Download App now!,#Promo #Marketing #Trending #InstaAd,0.6230057080898808,0.4770106570942981,0.1638496093817539,1.0,919,INR
+TEC01552,Technology,Traffic,Tirupur,409416,248,Discover amazing technology deals! Get Offer now!,#Launch #Sale,0.6314197344504512,1.0,1.0,1.0,270,INR
+FOO01822,Food,Traffic,Madurai,1059655,1538,Discover amazing food deals! Shop Now now!,#NewProduct #InstaAd #Viral,0.7822452400136615,0.6679808001097943,0.7022500560909658,1.0,1177,INR
+BEA01899,Beauty,Brand Awareness,Chennai,10592705,1143,Discover amazing beauty deals! Join Today now!,#InstaAd #Ad #BrandDeal,0.5089580755428061,0.4318955021656909,0.9634436783907702,1.0,611,INR
+FAS01144,Fashion,Conversions,Vellore,537804,1538,Discover amazing fashion deals! Get Offer now!,#Marketing #NewProduct #Promo,0.6409046690294902,0.8300763577442537,0.4584219035587168,1.0,924,INR
+TEC02213,Technology,Engagement,Kanniyakumari,179608,550,Discover amazing technology deals! Learn More now!,#Trending #Sale #Discount #Marketing,0.759505269143785,0.6733801253003666,0.6581506558853468,1.0,479,INR
+EDU01659,Education,Traffic,Madurai,822918,402,Discover amazing education deals! Join Today now!,#Promo #Sale #Viral #Launch,0.8836287115797437,0.7476366387780348,0.591576351059074,1.0,314,INR
+AUT01280,Automobile,Conversions,Nagercoil,123752,1071,Discover amazing automobile deals! Try Free now!,#Trending #Launch,0.4440144408706301,0.5650229437154556,0.9216771484060594,1.0,1654,INR
+TEC02025,Technology,Brand Awareness,Dindigul,205029,1484,Discover amazing technology deals! Download App now!,#Discount #Viral,0.7174234008619146,0.7199675226507743,0.5693061250336657,1.0,1250,INR
+AUT01183,Automobile,Engagement,Thoothukudi,348757,641,Discover amazing automobile deals! Download App now!,#BrandDeal #Sale #Viral #LimitedOffer,0.484870793759696,0.7908160682656463,0.7338159566347479,1.0,674,INR
+EDU01249,Education,Traffic,Dindigul,280282,323,Discover amazing education deals! Shop Now now!,#Launch #Ad #LimitedOffer #NewProduct,0.4684055207438559,0.8025601259639584,0.5342879913664011,1.0,276,INR
+AUT02078,Automobile,Engagement,Salem,613837,1028,Discover amazing automobile deals! Download App now!,#Promo #Discount #NewProduct #BestChoice,0.5815186888117084,0.985235771448287,0.395329057781968,1.0,1198,INR
+AUT01464,Automobile,Brand Awareness,Dindigul,266739,925,Discover amazing automobile deals! Sign Up now!,#Promo #Launch #Sale,0.4084132611818504,0.2406716452024997,1.0,1.0,602,INR
+FOO02060,Food,Brand Awareness,Salem,618105,1983,Discover amazing food deals! Try Free now!,#Promo #Sale #Ad,0.7150519943030308,0.7000221866849906,0.6503942128634951,1.0,1745,INR
+AUT01725,Automobile,Traffic,Tirupur,438009,1517,Discover amazing automobile deals! Get Offer now!,#NewProduct #LimitedOffer,0.586882418169061,0.3995582411292576,0.4396899978385947,1.0,1510,INR
+FIN01159,Finance,Engagement,Thoothukudi,456028,314,Discover amazing finance deals! Download App now!,#BestChoice #Ad,0.4907367170245762,0.6007136533923224,0.8827907455646661,1.0,486,INR
+FIT01817,Fitness,Engagement,Kanniyakumari,156908,121,Discover amazing fitness deals! Sign Up now!,#BrandDeal #Promo #BestChoice,0.7691972301741364,0.5551690762093132,0.6378977474702145,1.0,71,INR
+FIN02214,Finance,Engagement,Erode,456609,1403,Discover amazing finance deals! Join Today now!,#Viral #Launch,0.5329736925073477,0.6211467680886144,0.6241118159130743,1.0,2382,INR
+FIT01561,Fitness,Leads,Nagercoil,226678,1010,Discover amazing fitness deals! Sign Up now!,#Ad #Discount,0.6734540931290625,0.6389474506337535,0.6507862274017314,1.0,870,INR
+BEA01105,Beauty,Leads,Salem,636676,1802,Discover amazing beauty deals! Download App now!,#Launch #Sale,0.5865882557456659,0.698968355753563,0.964568301994898,1.0,1299,INR
+TEC01764,Technology,Traffic,Chennai,9366853,1617,Discover amazing technology deals! Learn More now!,#Viral #Trending #Sale,0.3143163305702078,1.0,0.1908979748668834,1.0,1116,INR
+FOO01505,Food,Engagement,Dindigul,378497,1428,Discover amazing food deals! Shop Now now!,#Trending #NewProduct #BrandDeal,0.8964819946638569,0.9453558106683756,0.4625920636491087,1.0,827,INR
+FOO01250,Food,Engagement,Dindigul,211268,987,Discover amazing food deals! Download App now!,#NewProduct #Viral #Trending,0.7168690320854488,0.6981597083557111,0.6109929559377414,1.0,897,INR
+TEC01761,Technology,Engagement,Chennai,10582569,361,Discover amazing technology deals! Sign Up now!,#BrandDeal #Trending,0.2857405976753696,0.8562751207095473,1.0,1.0,309,INR
+BEA01480,Beauty,Brand Awareness,Kanniyakumari,118243,869,Discover amazing beauty deals! Try Free now!,#Trending #Viral #BrandDeal #Sale,0.4570014814895181,0.6355860350292709,1.0,1.0,737,INR
+BEA01508,Beauty,Engagement,Coimbatore,1188456,1528,Discover amazing beauty deals! Try Free now!,#Trending #BrandDeal,0.8677523834324954,0.7665047645902003,0.8285733627731738,1.0,916,INR
+FIN01400,Finance,Engagement,Tirupur,231653,1552,Discover amazing finance deals! Shop Now now!,#Discount #Trending #Viral #Promo,0.578627629042375,0.841786637621477,0.8118088563076761,1.0,2265,INR
+FIN01396,Finance,Brand Awareness,Tirunelveli,357729,1838,Discover amazing finance deals! Join Today now!,#Trending #Ad #Discount,0.5093587509144121,0.795646314299234,0.6741187410245291,1.0,2179,INR
+AUT02110,Automobile,Traffic,Erode,428504,724,Discover amazing automobile deals! Learn More now!,#Launch #NewProduct #Marketing,0.4377002024604336,1.0,1.0,1.0,1193,INR
+TEC01389,Technology,Engagement,Vellore,421829,621,Discover amazing technology deals! Learn More now!,#Trending #Discount #Ad #InstaAd,0.3936060293112553,0.3936062971589547,1.0,1.0,679,INR
+AUT01643,Automobile,Brand Awareness,Kanchipuram,328377,1786,Discover amazing automobile deals! Join Today now!,#Ad #Marketing #BestChoice,0.8217724701513609,0.7837667933014907,1.0,1.0,3004,INR
+FOO01123,Food,Conversions,Salem,771627,1438,Discover amazing food deals! Get Offer now!,#Viral #NewProduct #Trending,0.6522430620956473,0.7928182000390264,0.5356070291077653,1.0,1152,INR
+FAS01000,Fashion,Engagement,Chennai,9574486,780,Discover amazing fashion deals! Download App now!,#Sale #Launch #Ad #Trending,0.6588869625603688,0.5141630666138881,0.7199579530539261,1.0,597,INR
+BEA01614,Beauty,Brand Awareness,Kanchipuram,248756,126,Discover amazing beauty deals! Download App now!,#InstaAd #LimitedOffer #Discount #Trending,0.3805923996859051,0.7172666037574325,0.5189231090540298,1.0,95,INR
+FAS01543,Fashion,Brand Awareness,Thoothukudi,240809,298,Discover amazing fashion deals! Download App now!,#BestChoice #InstaAd #NewProduct,0.5343394016393512,0.7363979765245595,0.8098715120021279,1.0,205,INR
+FAS01349,Fashion,Brand Awareness,Kanniyakumari,96725,941,Discover amazing fashion deals! Download App now!,#BestChoice #Viral #NewProduct #Discount,0.2701960781656253,0.9639271324487436,0.6375475250789384,1.0,747,INR
+FIN01656,Finance,Conversions,Salem,492468,1661,Discover amazing finance deals! Download App now!,#Sale #Discount #Promo #Launch,0.5093798004581516,0.5298651328121671,0.828359504550336,1.0,2702,INR
+AUT02015,Automobile,Conversions,Tirunelveli,251226,1122,Discover amazing automobile deals! Get Offer now!,#InstaAd #Discount #Launch,0.5196144874189352,0.6794154892662831,0.7550971393166117,1.0,1393,INR
+FIT01023,Fitness,Engagement,Kanchipuram,281182,463,Discover amazing fitness deals! Shop Now now!,#Ad #Promo #BrandDeal #Marketing,0.5802653435124824,0.3492891715512147,0.78606441999806,1.0,256,INR
+FIT01964,Fitness,Conversions,Thoothukudi,229402,1240,Discover amazing fitness deals! Shop Now now!,#Ad #Viral #Sale,0.6413385142406478,0.6256495964536999,0.6892885961372427,1.0,777,INR
+FAS01457,Fashion,Traffic,Madurai,504263,1938,Discover amazing fashion deals! Learn More now!,#Trending #InstaAd,0.9265578971232564,0.4750689921368126,0.9730257402548336,1.0,1031,INR
+FIT01523,Fitness,Engagement,Nagercoil,327595,1866,Discover amazing fitness deals! Download App now!,#Marketing #LimitedOffer #Trending,0.5451494036513218,0.5356086741291199,0.3021573730238504,1.0,834,INR
+FIN02011,Finance,Engagement,Dindigul,327900,408,Discover amazing finance deals! Get Offer now!,#InstaAd #Marketing #BrandDeal #Launch,0.6405944990254541,0.8212351468023517,0.6647323743382023,1.0,580,INR
+AUT01765,Automobile,Brand Awareness,Madurai,1072212,863,Discover amazing automobile deals! Sign Up now!,#Discount #NewProduct #BrandDeal #InstaAd,0.4860396244425646,0.7592074838268477,0.3273613563809974,1.0,297,INR
+EDU01372,Education,Leads,Salem,636326,656,Discover amazing education deals! Learn More now!,#Sale #LimitedOffer,0.417520563725155,0.2330105621627094,0.437909986179423,1.0,370,INR
+FIN01375,Finance,Brand Awareness,Tirunelveli,424137,63,Discover amazing finance deals! Join Today now!,#Marketing #Viral,0.7920947491627651,0.680489020386873,1.0,1.0,101,INR
+FIT01034,Fitness,Conversions,Erode,497881,152,Discover amazing fitness deals! Sign Up now!,#LimitedOffer #Ad,0.6941117439621298,0.845603937962428,0.7758863597078353,1.0,147,INR
+FAS01131,Fashion,Conversions,Kanchipuram,360445,1823,Discover amazing fashion deals! Try Free now!,#Promo #LimitedOffer #Ad #Viral,0.5919383236546312,0.8625914224731298,0.4614845630634194,1.0,1139,INR
+FIT02204,Fitness,Brand Awareness,Tirupur,448441,1164,Discover amazing fitness deals! Shop Now now!,#Marketing #Promo,0.9973387610338084,0.44558945858398,0.7167976142677377,1.0,915,INR
+BEA01122,Beauty,Brand Awareness,Nagercoil,267469,1961,Discover amazing beauty deals! Download App now!,#Viral #Sale #Trending,0.6073075019090711,0.928379307393602,0.9821364443827966,1.0,1754,INR
+FOO02200,Food,Conversions,Salem,690719,1470,Discover amazing food deals! Join Today now!,#NewProduct #Marketing,0.6844905934022865,1.0,0.6071449964489934,1.0,1566,INR
+TEC02106,Technology,Traffic,Kanniyakumari,166145,1507,Discover amazing technology deals! Get Offer now!,#BrandDeal #Sale,0.3345873638966657,0.8288600783813465,0.6525334325032298,1.0,2119,INR
+TEC01962,Technology,Conversions,Chennai,9149947,766,Discover amazing technology deals! Learn More now!,#Viral #Promo,0.6257673810193736,0.8218155506021079,1.0,1.0,745,INR
+FOO01544,Food,Brand Awareness,Tirupur,238709,1029,Discover amazing food deals! Download App now!,#Marketing #Viral,0.6161627319315839,0.6254641261670074,0.5230711841394695,1.0,623,INR
+BEA01163,Beauty,Engagement,Tirupur,447146,366,Discover amazing beauty deals! Get Offer now!,#Marketing #Launch,0.3936037222026303,0.781034508919479,0.7668582587376035,1.0,285,INR
+TEC01363,Technology,Brand Awareness,Tirupur,392192,1544,Discover amazing technology deals! Try Free now!,#Ad #InstaAd #Launch,1.0,0.3917903550066153,0.3384275798697618,1.0,1708,INR
+FAS01655,Fashion,Conversions,Tiruchirappalli,550322,859,Discover amazing fashion deals! Try Free now!,#LimitedOffer #Viral #Sale #InstaAd,0.7094729043401445,0.9783841775359838,0.7054722052912087,1.0,500,INR
+EDU01637,Education,Engagement,Salem,321172,1520,Discover amazing education deals! Get Offer now!,#Sale #InstaAd #Launch #LimitedOffer,0.5728762324254902,0.8973746601074957,0.5752337034837446,1.0,1469,INR
+TEC01348,Technology,Traffic,Nagercoil,111555,107,Discover amazing technology deals! Sign Up now!,#LimitedOffer #Discount #Ad,0.8195076849429823,0.5744349725859397,0.870131490286543,1.0,113,INR
+FAS01592,Fashion,Conversions,Dindigul,368482,487,Discover amazing fashion deals! Try Free now!,#LimitedOffer #Trending #Discount,0.6882115012751747,0.8924690338533139,0.9364720391386598,1.0,345,INR
+EDU02208,Education,Conversions,Dindigul,359689,1043,Discover amazing education deals! Sign Up now!,#BestChoice #Trending #Discount,0.5291268325917617,0.4095756610184676,0.6063525420181254,1.0,704,INR
+FIT01623,Fitness,Conversions,Salem,353276,1643,Discover amazing fitness deals! Sign Up now!,#Promo #Marketing #LimitedOffer,0.6741013600519354,0.7125704345918981,0.3479030033348127,1.0,914,INR
+FIT01547,Fitness,Leads,Thoothukudi,257492,506,Discover amazing fitness deals! Sign Up now!,#Sale #InstaAd,0.6430991944855605,0.8476390883671172,1.0,1.0,692,INR
+TEC01137,Technology,Leads,Tiruchirappalli,584074,857,Discover amazing technology deals! Learn More now!,#BrandDeal #NewProduct #Launch,0.5397908685269359,0.503478331172966,0.4757556031165211,1.0,1013,INR
+FOO01735,Food,Leads,Chennai,10610471,1381,Discover amazing food deals! Join Today now!,#NewProduct #Launch,0.7319568483662902,0.279679075898122,1.0,1.0,1073,INR
+BEA01934,Beauty,Leads,Tirupur,289599,851,Discover amazing beauty deals! Try Free now!,#InstaAd #BrandDeal #NewProduct #Trending,0.309912778248385,0.4011700409714879,1.0,1.0,506,INR
+BEA01895,Beauty,Leads,Tirupur,403427,251,Discover amazing beauty deals! Join Today now!,#Ad #Launch #BrandDeal #LimitedOffer,0.7929472303647249,0.4908367362833061,0.5488048034920571,1.0,210,INR
+FIN01797,Finance,Brand Awareness,Salem,522320,645,Discover amazing finance deals! Get Offer now!,#Discount #Marketing #Trending,0.6131726049712078,0.2398775060318894,0.7051366038743387,1.0,593,INR
+FIT01605,Fitness,Traffic,Thoothukudi,211046,1788,Discover amazing fitness deals! Learn More now!,#Ad #Trending,0.5811666996674291,0.4982075840791626,1.0,1.0,2291,INR
+AUT01483,Automobile,Conversions,Dindigul,378071,1288,Discover amazing automobile deals! Try Free now!,#LimitedOffer #BestChoice #InstaAd,0.5611481797409317,0.6900483629355678,0.753221600639718,1.0,1376,INR
+AUT01346,Automobile,Engagement,Dindigul,266021,1472,Discover amazing automobile deals! Get Offer now!,#Promo #InstaAd #Ad #Viral,0.6370703869746986,0.8353087103649469,0.9722896434130732,1.0,1426,INR
+FIT01269,Fitness,Brand Awareness,Tirunelveli,384374,95,Discover amazing fitness deals! Try Free now!,#InstaAd #LimitedOffer #Launch #Ad,0.5563131004398916,0.3544251482748132,0.6842425396243826,1.0,63,INR
+FOO01221,Food,Leads,Salem,716366,89,Discover amazing food deals! Shop Now now!,#NewProduct #BestChoice #Ad,0.6539602730619185,0.4040919810834405,0.5925789071675321,1.0,40,INR
+FOO01833,Food,Engagement,Tiruchirappalli,861463,1708,Discover amazing food deals! Learn More now!,#InstaAd #Marketing #Viral #Trending,0.7374595040962643,0.784209318707124,0.8839372595007178,1.0,1977,INR
+BEA01482,Beauty,Engagement,Coimbatore,2012117,879,Discover amazing beauty deals! Learn More now!,#Promo #Launch,0.7060183255790935,0.8020528769850649,0.6475123670544397,1.0,673,INR
+FAS01265,Fashion,Engagement,Tiruchirappalli,520900,1748,Discover amazing fashion deals! Learn More now!,#Marketing #NewProduct #Ad #BrandDeal,0.6149887758325862,0.8731505466019179,0.4910012896009291,1.0,1200,INR
+FOO01144,Food,Engagement,Kanniyakumari,169399,454,Discover amazing food deals! Learn More now!,#InstaAd #Launch #Discount #LimitedOffer,0.6902149760231877,0.6277922246870887,0.2942479847963167,1.0,388,INR
+EDU01767,Education,Engagement,Dindigul,302864,1281,Discover amazing education deals! Try Free now!,#BestChoice #InstaAd,0.8028802660677635,0.6224961011896334,0.8926619433534817,1.0,1634,INR
+TEC01187,Technology,Engagement,Dindigul,209129,910,Discover amazing technology deals! Shop Now now!,#BestChoice #Ad #NewProduct #Marketing,0.5106849101918998,0.8538088158730293,0.6412214839740632,1.0,1245,INR
+FAS01761,Fashion,Conversions,Madurai,705550,1209,Discover amazing fashion deals! Join Today now!,#NewProduct #Sale #InstaAd,0.6442837137517864,0.56411100301645,0.6969939927717029,1.0,594,INR
+FIN01970,Finance,Traffic,Dindigul,394883,835,Discover amazing finance deals! Get Offer now!,#Promo #Sale #Launch #LimitedOffer,0.8188594156209363,0.6738397320146212,0.7096058122777824,1.0,841,INR
+EDU01939,Education,Leads,Chennai,9509090,293,Discover amazing education deals! Join Today now!,#Discount #Viral #Sale,0.3635708013827528,0.6655573863827625,0.6214245105150018,1.0,353,INR
+FIT01757,Fitness,Engagement,Vellore,446922,1503,Discover amazing fitness deals! Shop Now now!,#Promo #Viral #InstaAd,0.6137810560761952,0.7103189950692216,0.6520230721304715,1.0,1623,INR
+TEC01588,Technology,Conversions,Salem,705328,987,Discover amazing technology deals! Sign Up now!,#Promo #Marketing,0.6874327459744385,0.6047687397035666,0.7606414970999393,1.0,1440,INR
+TEC01612,Technology,Leads,Kanchipuram,321789,1607,Discover amazing technology deals! Sign Up now!,#Launch #Sale,0.4727932957933352,0.7302327506742325,0.7245529706727472,1.0,2120,INR
+FAS01316,Fashion,Traffic,Tiruchirappalli,555130,1389,Discover amazing fashion deals! Download App now!,#Discount #BrandDeal #Trending #Viral,0.5984751418885834,0.7592728878509272,0.7620684832278614,1.0,992,INR
+EDU01569,Education,Leads,Vellore,476492,1556,Discover amazing education deals! Learn More now!,#Promo #BestChoice,0.4805670959282434,1.0,0.4179846642091518,1.0,1044,INR
+BEA01601,Beauty,Leads,Thoothukudi,238890,1161,Discover amazing beauty deals! Download App now!,#Sale #Marketing #BrandDeal,0.5874133651823995,0.6939574546431433,0.6916036488082026,1.0,1056,INR
+BEA02234,Beauty,Engagement,Coimbatore,2114593,1343,Discover amazing beauty deals! Shop Now now!,#Ad #InstaAd,0.6648110190706169,0.6540718746536495,0.5039520225543644,1.0,913,INR
+AUT02123,Automobile,Leads,Chennai,9226952,1232,Discover amazing automobile deals! Shop Now now!,#Marketing #NewProduct,0.4833449356302246,1.0,0.2940161574159637,1.0,1263,INR
+AUT01824,Automobile,Conversions,Nagercoil,263993,934,Discover amazing automobile deals! Download App now!,#NewProduct #Trending #Promo #Marketing,0.5406750914342168,0.9271769726563588,0.3921953358636667,1.0,1079,INR
+FAS02078,Fashion,Engagement,Thanjavur,386993,160,Discover amazing fashion deals! Get Offer now!,#Ad #Viral #Promo,0.6703559390171197,0.9205681421467088,0.5910638991345024,1.0,105,INR
+EDU01858,Education,Brand Awareness,Tiruchirappalli,532596,432,Discover amazing education deals! Shop Now now!,#Trending #Marketing #Sale,0.7539628700089073,0.9972871401404126,0.8012050479304373,1.0,309,INR
+FIN02083,Finance,Brand Awareness,Vellore,400424,239,Discover amazing finance deals! Shop Now now!,#InstaAd #Trending,0.837007489927036,1.0,0.6250969512938567,1.0,370,INR
+FAS02071,Fashion,Leads,Nagercoil,115048,556,Discover amazing fashion deals! Join Today now!,#BestChoice #NewProduct #Ad #Viral,0.7647539622801222,0.6046497915813378,0.9670852355058164,1.0,502,INR
+FAS01103,Fashion,Conversions,Coimbatore,1693264,1194,Discover amazing fashion deals! Try Free now!,#BrandDeal #Discount,0.6838111128917762,0.4620109893268601,0.8835610724257446,1.0,486,INR
+FOO01748,Food,Conversions,Madurai,1058296,233,Discover amazing food deals! Learn More now!,#Promo #Ad #Launch,0.4725514138504539,0.4600150708860617,0.6234201162047219,1.0,136,INR
+BEA01168,Beauty,Brand Awareness,Nagercoil,231132,1760,Discover amazing beauty deals! Learn More now!,#NewProduct #Ad,0.8628316735808412,0.9085987249318084,0.7112404404395878,1.0,1483,INR
+BEA01408,Beauty,Engagement,Chennai,10704999,967,Discover amazing beauty deals! Learn More now!,#Ad #Trending #Viral,0.6782466274736534,1.0,0.1951833527492238,1.0,554,INR
+FOO01284,Food,Traffic,Chennai,9103913,741,Discover amazing food deals! Download App now!,#Trending #BestChoice #InstaAd,0.6517830103231689,0.4665804702795905,1.0,1.0,826,INR
+FAS02149,Fashion,Brand Awareness,Kanchipuram,475494,1076,Discover amazing fashion deals! Download App now!,#NewProduct #Ad #Discount #Trending,0.3800791300062537,1.0,0.8877802976951203,1.0,746,INR
+FIN01900,Finance,Conversions,Madurai,524354,1135,Discover amazing finance deals! Try Free now!,#BrandDeal #LimitedOffer #InstaAd #Promo,0.698493793622767,0.5625957218801891,0.5078195161930454,1.0,1855,INR
+BEA01318,Beauty,Engagement,Thanjavur,195186,1950,Discover amazing beauty deals! Try Free now!,#Sale #Discount,0.5721480611723574,0.77452772775264,0.5851934723661919,1.0,978,INR
+FAS02087,Fashion,Traffic,Salem,328145,685,Discover amazing fashion deals! Learn More now!,#Viral #Trending,0.5461063740652473,0.6485217450404493,0.5484638824599386,1.0,587,INR
+FOO02085,Food,Engagement,Nagercoil,265092,991,Discover amazing food deals! Try Free now!,#Sale #Launch #BrandDeal,0.7929105147766352,0.7082693711968959,0.853536213058338,1.0,1060,INR
+EDU02174,Education,Traffic,Madurai,999883,493,Discover amazing education deals! Sign Up now!,#Marketing #Promo,0.6646523415044011,0.9428167930670626,0.6950277694770068,1.0,528,INR
+EDU01841,Education,Traffic,Chennai,10837981,414,Discover amazing education deals! Shop Now now!,#NewProduct #BestChoice #BrandDeal,0.519804774257774,0.2637694144900904,0.5936602357886811,1.0,329,INR
+EDU01311,Education,Engagement,Chennai,9593445,191,Discover amazing education deals! Shop Now now!,#Marketing #Trending #Launch,0.7185215907038607,0.8918688802503606,0.5894959369525916,1.0,174,INR
+FOO02084,Food,Traffic,Vellore,388929,1211,Discover amazing food deals! Sign Up now!,#NewProduct #Launch,0.8275322278712238,0.7193126889882794,0.483552268311358,1.0,1089,INR
+AUT01023,Automobile,Conversions,Dindigul,173051,896,Discover amazing automobile deals! Download App now!,#Promo #Viral,0.7942643600380863,0.334183411996841,1.0,1.0,1054,INR
+AUT01007,Automobile,Brand Awareness,Thanjavur,201474,238,Discover amazing automobile deals! Try Free now!,#Ad #Viral #LimitedOffer,0.6744010021171865,0.5097027496013811,0.8344952943639053,1.0,296,INR
+BEA01442,Beauty,Traffic,Nagercoil,191748,394,Discover amazing beauty deals! Download App now!,#Viral #Launch,0.6113768100054622,0.5314162969171311,0.7958632949087445,1.0,357,INR
+TEC01984,Technology,Brand Awareness,Kanchipuram,325995,1094,Discover amazing technology deals! Learn More now!,#Promo #Viral,0.538715411052928,0.5487218224839099,0.694073075608849,1.0,762,INR
+FIT01887,Fitness,Conversions,Kanchipuram,445690,1434,Discover amazing fitness deals! Sign Up now!,#Marketing #BestChoice,0.6068112701972996,0.7463891180580204,0.8682854997903862,1.0,1646,INR
+FIT02146,Fitness,Leads,Nagercoil,169626,447,Discover amazing fitness deals! Sign Up now!,#Discount #BestChoice #Marketing,0.7592688159322786,0.6475993765445058,0.8574005555767854,1.0,483,INR
+BEA01433,Beauty,Leads,Kanniyakumari,86960,1036,Discover amazing beauty deals! Try Free now!,#Launch #LimitedOffer #NewProduct,0.7812230365197139,0.731639944463069,0.9111455830078647,1.0,811,INR
+FAS01008,Fashion,Traffic,Tirupur,366844,256,Discover amazing fashion deals! Shop Now now!,#Promo #LimitedOffer #NewProduct #Viral,0.7910600430209334,0.6416094658348759,0.0362059881091324,1.0,102,INR
+FOO02062,Food,Traffic,Coimbatore,1180553,852,Discover amazing food deals! Try Free now!,#Marketing #BrandDeal #InstaAd #NewProduct,0.5829694347174784,1.0,0.5558882273162554,1.0,644,INR
+FIN01266,Finance,Brand Awareness,Kanchipuram,236408,1687,Discover amazing finance deals! Try Free now!,#Marketing #Launch #Sale #Ad,0.68054688214977,0.9619595539019504,0.511203035550565,1.0,2196,INR
+TEC01373,Technology,Traffic,Madurai,759568,1028,Discover amazing technology deals! Download App now!,#NewProduct #Discount,0.6764517694283866,0.6633302954295911,0.7001976344995097,1.0,1073,INR
+EDU02229,Education,Brand Awareness,Coimbatore,1319278,1103,Discover amazing education deals! Download App now!,#Promo #BrandDeal #Marketing,0.6710200737726524,0.7791944503899095,0.4466818755834802,1.0,1133,INR
+FOO02045,Food,Brand Awareness,Madurai,651563,458,Discover amazing food deals! Get Offer now!,#Sale #Trending #NewProduct,0.4567093429699436,0.7200505535260815,0.8630855978920616,1.0,358,INR
+FAS01567,Fashion,Leads,Thoothukudi,332413,1347,Discover amazing fashion deals! Get Offer now!,#NewProduct #Promo #LimitedOffer #InstaAd,0.7701371356310817,0.6695719133206457,0.574930277248751,1.0,486,INR
+AUT01411,Automobile,Conversions,Chennai,8699983,1866,Discover amazing automobile deals! Shop Now now!,#InstaAd #LimitedOffer #BrandDeal,0.7076599942598192,0.7615014516558373,0.9106170589070848,1.0,3122,INR
+BEA01553,Beauty,Conversions,Dindigul,240327,347,Discover amazing beauty deals! Get Offer now!,#Discount #BestChoice,0.6302672664490468,0.8023713576541345,0.5609733098057492,1.0,173,INR
+EDU02001,Education,Traffic,Vellore,502503,1846,Discover amazing education deals! Download App now!,#BrandDeal #Marketing #Discount,0.8476814860249637,0.9270775380304772,0.8456227079032592,1.0,2772,INR
+TEC02150,Technology,Conversions,Kanchipuram,343326,1559,Discover amazing technology deals! Shop Now now!,#LimitedOffer #Sale,0.7700724881286355,0.4000772460623973,0.8356762820601198,1.0,2206,INR
+BEA01349,Beauty,Leads,Dindigul,332932,792,Discover amazing beauty deals! Shop Now now!,#LimitedOffer #NewProduct,0.5938376641088573,0.725628084602402,0.7790241888651568,1.0,833,INR
+EDU01431,Education,Traffic,Dindigul,161344,1773,Discover amazing education deals! Download App now!,#Trending #InstaAd #LimitedOffer,0.55057431614349,0.9465241591025608,0.866325395744711,1.0,1623,INR
+AUT01797,Automobile,Leads,Dindigul,282822,1105,Discover amazing automobile deals! Shop Now now!,#Launch #BestChoice,0.6248837528102306,0.6904161434633982,0.3110725168694363,1.0,851,INR
+FIT01323,Fitness,Engagement,Tirupur,385828,671,Discover amazing fitness deals! Learn More now!,#Discount #Promo #InstaAd,0.6002400435148036,1.0,0.4368638592239479,1.0,572,INR
+FOO01467,Food,Leads,Coimbatore,1105423,1104,Discover amazing food deals! Get Offer now!,#BrandDeal #Launch,0.7315436352599289,0.9035890478382818,0.4018461593247989,1.0,810,INR
+FIT02029,Fitness,Engagement,Madurai,820197,1107,Discover amazing fitness deals! Shop Now now!,#Viral #NewProduct #Promo,0.5651991587672474,0.5486467558804241,0.5509715970946005,1.0,759,INR
+EDU02183,Education,Traffic,Erode,346968,1352,Discover amazing education deals! Join Today now!,#Ad #BestChoice,0.5634952185230306,0.6136963394664554,0.3934859173629497,1.0,993,INR
+FAS02155,Fashion,Leads,Thoothukudi,386833,474,Discover amazing fashion deals! Join Today now!,#Trending #NewProduct #Promo,0.7015411100475368,0.4935885373225228,0.2726851673256702,1.0,263,INR
+FIN01297,Finance,Leads,Tiruchirappalli,593624,185,Discover amazing finance deals! Shop Now now!,#NewProduct #Viral #BestChoice #Launch,0.7183771991678302,0.6782871680376759,0.4304101491227865,1.0,224,INR
+AUT01338,Automobile,Brand Awareness,Dindigul,227454,1024,Discover amazing automobile deals! Join Today now!,#NewProduct #BestChoice #Ad #Trending,0.6122933661411782,0.7846708357821407,0.7242728921767172,1.0,1467,INR
+EDU01120,Education,Conversions,Salem,557594,554,Discover amazing education deals! Sign Up now!,#Trending #Viral,0.655337882354161,0.374650694008127,0.693971903256559,1.0,256,INR
+EDU01796,Education,Leads,Coimbatore,1909164,1478,Discover amazing education deals! Shop Now now!,#Ad #LimitedOffer #Launch #BestChoice,0.8514318959686349,0.7844761211490202,0.8714387560592902,1.0,2157,INR
+TEC01790,Technology,Brand Awareness,Kanchipuram,237641,1263,Discover amazing technology deals! Sign Up now!,#Launch #Promo #Sale #LimitedOffer,0.672650159681893,0.6070503128975655,0.4227759540888705,1.0,1577,INR
+AUT01384,Automobile,Engagement,Thanjavur,179711,1553,Discover amazing automobile deals! Join Today now!,#Discount #Promo #NewProduct #LimitedOffer,0.5351144842048179,0.3837050626968117,0.6474052760878722,1.0,1391,INR
+FIN01232,Finance,Engagement,Kanchipuram,343254,1273,Discover amazing finance deals! Join Today now!,#Marketing #LimitedOffer,0.4667577684221217,0.6529258675489795,0.6952232512147525,1.0,1516,INR
+FOO01826,Food,Traffic,Vellore,387833,1239,Discover amazing food deals! Join Today now!,#Ad #BestChoice #Launch #NewProduct,0.3926484342299552,0.3913048421567577,0.4442011206149043,1.0,930,INR
+FAS02190,Fashion,Conversions,Tiruchirappalli,718420,1844,Discover amazing fashion deals! Get Offer now!,#LimitedOffer #Sale #NewProduct,0.6198637564009105,0.5918641314444045,0.9256525394837972,1.0,1433,INR
+FIN02194,Finance,Brand Awareness,Erode,481685,1742,Discover amazing finance deals! Sign Up now!,#Discount #BestChoice #Ad #Launch,0.5754433014407594,0.6868579788045218,0.5839626977836497,1.0,2297,INR
+EDU02020,Education,Traffic,Salem,656601,401,Discover amazing education deals! Shop Now now!,#NewProduct #InstaAd #Ad #Marketing,0.7624148449774811,1.0,0.7556357385568,1.0,484,INR
+FAS01960,Fashion,Leads,Kanchipuram,244813,112,Discover amazing fashion deals! Download App now!,#Viral #BestChoice #BrandDeal,0.6167972898931886,0.6086601710612973,0.6317119383700245,1.0,82,INR
+FIN02204,Finance,Engagement,Erode,368270,1667,Discover amazing finance deals! Get Offer now!,#Discount #Launch #Trending #InstaAd,0.2564153733596052,1.0,1.0,1.0,2498,INR
+FAS01036,Fashion,Conversions,Tiruchirappalli,539892,1759,Discover amazing fashion deals! Shop Now now!,#Launch #Trending #Discount,0.3403690344351648,0.988867758396362,0.9215158900615382,1.0,1176,INR
+EDU01016,Education,Brand Awareness,Dindigul,174070,1547,Discover amazing education deals! Get Offer now!,#Promo #BestChoice #Viral #InstaAd,0.4880655573877129,0.3664358120420199,0.587700064659106,1.0,1161,INR
+EDU01144,Education,Leads,Salem,762984,263,Discover amazing education deals! Join Today now!,#Trending #Promo,0.735270166644826,0.6083823975204843,0.7682228034688554,1.0,285,INR
+TEC01688,Technology,Traffic,Erode,404615,883,Discover amazing technology deals! Get Offer now!,#NewProduct #BrandDeal,0.6491569666714809,0.6098484019300323,1.0,1.0,725,INR
+FOO02161,Food,Leads,Vellore,341786,456,Discover amazing food deals! Download App now!,#Sale #BrandDeal #LimitedOffer,0.7792409073005634,0.6865470649057352,0.5161878567581183,1.0,235,INR
+EDU01244,Education,Brand Awareness,Madurai,899953,415,Discover amazing education deals! Download App now!,#Viral #BrandDeal #Trending #NewProduct,0.7619281615153113,1.0,0.6476941347685465,1.0,402,INR
+AUT01837,Automobile,Engagement,Chennai,8838003,1926,Discover amazing automobile deals! Get Offer now!,#Discount #NewProduct #BrandDeal #Launch,0.6912527170311981,0.5114939913397214,0.8028237793567425,1.0,2177,INR
+EDU01619,Education,Traffic,Madurai,787654,1177,Discover amazing education deals! Learn More now!,#BrandDeal #Viral,0.6251072213687355,0.7962136139077508,0.792275710918158,1.0,1660,INR
+FIN01717,Finance,Conversions,Tiruchirappalli,681570,1257,Discover amazing finance deals! Join Today now!,#NewProduct #InstaAd #Launch,0.752336845659512,0.7202186256219001,0.4058107373497906,1.0,1582,INR
+FOO01718,Food,Leads,Coimbatore,2085841,752,Discover amazing food deals! Learn More now!,#BestChoice #InstaAd #Promo #Trending,0.5506617772487883,0.4140680428655774,0.7549162729826843,1.0,567,INR
+FAS01577,Fashion,Conversions,Chennai,8066150,228,Discover amazing fashion deals! Download App now!,#InstaAd #NewProduct,0.3053195942845613,0.4037708550756568,0.699407770966798,1.0,114,INR
+AUT02083,Automobile,Leads,Thoothukudi,287312,479,Discover amazing automobile deals! Join Today now!,#Sale #Promo,0.5781187360727683,0.5919747036115459,0.5674916089306232,1.0,361,INR
+TEC01352,Technology,Conversions,Vellore,389613,1686,Discover amazing technology deals! Join Today now!,#Marketing #InstaAd #Trending #Ad,0.4996167887523736,0.6055316484595944,0.3861558652524478,1.0,1828,INR
+EDU01146,Education,Engagement,Thoothukudi,321826,1739,Discover amazing education deals! Try Free now!,#Promo #Viral #Trending #Ad,0.5802840574053204,0.9128910129878685,0.5853650509986821,1.0,2234,INR
+TEC01401,Technology,Brand Awareness,Tirupur,235435,1245,Discover amazing technology deals! Download App now!,#Trending #Ad #Discount,0.5169289570715431,0.7350838612351482,0.6329726247831009,1.0,1613,INR
+FIT01630,Fitness,Conversions,Salem,658587,1470,Discover amazing fitness deals! Join Today now!,#Viral #BrandDeal #InstaAd,0.5912479530170526,0.548934840515998,0.9343186788847266,1.0,1433,INR
+TEC02140,Technology,Leads,Nagercoil,288204,1123,Discover amazing technology deals! Try Free now!,#Marketing #BrandDeal,0.7709607993225349,0.5949876189037555,0.5854252704993341,1.0,1183,INR
+AUT02225,Automobile,Conversions,Chennai,8999554,856,Discover amazing automobile deals! Download App now!,#Launch #Marketing #Discount,0.6407484316432573,0.9236840863336352,0.4415942612721826,1.0,715,INR
+FIN02221,Finance,Leads,Thoothukudi,334055,1661,Discover amazing finance deals! Join Today now!,#Discount #BrandDeal #Marketing #NewProduct,0.3818406934202177,0.971399741856268,0.6819127376223155,1.0,2010,INR
+BEA01583,Beauty,Leads,Kanchipuram,351734,1115,Discover amazing beauty deals! Try Free now!,#Sale #Marketing #BrandDeal #Promo,0.4828537060733569,0.5249581598442508,0.745403803698605,1.0,694,INR
+AUT01398,Automobile,Brand Awareness,Thoothukudi,485654,1236,Discover amazing automobile deals! Learn More now!,#Sale #LimitedOffer #Ad #BrandDeal,0.4888896891663136,0.4291570280440911,0.4707832483006436,1.0,857,INR
+TEC02141,Technology,Engagement,Erode,409259,1918,Discover amazing technology deals! Shop Now now!,#BestChoice #Ad #Trending,0.661371805066901,0.9170230179519144,1.0,1.0,2858,INR
+BEA02037,Beauty,Engagement,Madurai,950062,1645,Discover amazing beauty deals! Shop Now now!,#Sale #InstaAd #Marketing,0.5946113658960975,0.6854101184763332,0.4496305214640299,1.0,1306,INR
+BEA01080,Beauty,Engagement,Erode,294071,1172,Discover amazing beauty deals! Try Free now!,#InstaAd #Promo,0.5734039276210016,0.4828197041279042,0.5138270879596907,1.0,788,INR
+FIT01271,Fitness,Leads,Tirupur,206640,1338,Discover amazing fitness deals! Download App now!,#Viral #Trending,0.376215322963475,0.8348524022574437,0.979074157169568,1.0,1416,INR
+FIT02186,Fitness,Conversions,Chennai,9355267,1315,Discover amazing fitness deals! Join Today now!,#LimitedOffer #Trending #BrandDeal #BestChoice,0.7346527930945861,0.7785943226193637,0.6853214620769713,1.0,1033,INR
+EDU01783,Education,Traffic,Chennai,10938204,1926,Discover amazing education deals! Learn More now!,#Sale #Marketing,0.592033261604457,0.6947810655554142,0.1673396342105485,1.0,904,INR
+FOO01928,Food,Traffic,Tirupur,346389,573,Discover amazing food deals! Sign Up now!,#Marketing #Promo #Ad #Trending,0.4780088156626979,0.7805062080166715,0.5238491080051215,1.0,578,INR
+FAS01637,Fashion,Traffic,Tiruchirappalli,515608,460,Discover amazing fashion deals! Shop Now now!,#Sale #Ad #LimitedOffer,0.4492923667197851,0.952883172370376,0.8089981932660492,1.0,275,INR
+FAS01047,Fashion,Traffic,Erode,469708,443,Discover amazing fashion deals! Sign Up now!,#NewProduct #InstaAd,0.7801820883245917,0.6183849253956897,0.1904688662055365,1.0,179,INR
+FIT01102,Fitness,Conversions,Tirunelveli,358417,1048,Discover amazing fitness deals! Join Today now!,#Viral #Marketing #BestChoice #Launch,0.5704029369920902,0.7878600073477849,0.8850802965455111,1.0,1078,INR
+BEA01715,Beauty,Engagement,Kanchipuram,313824,908,Discover amazing beauty deals! Join Today now!,#BrandDeal #Discount #Marketing #Ad,0.634062748976248,0.5659414154435524,0.5425642076820059,1.0,635,INR
+BEA01918,Beauty,Engagement,Thanjavur,375295,1442,Discover amazing beauty deals! Get Offer now!,#Viral #Ad,0.3947956381032141,1.0,0.5199606220692465,1.0,1142,INR
+FOO01049,Food,Brand Awareness,Madurai,754444,515,Discover amazing food deals! Join Today now!,#BestChoice #Marketing #Discount,0.6436301858600492,0.8120398392929699,0.5667521285489401,1.0,400,INR
+FIT01834,Fitness,Brand Awareness,Chennai,10700713,1049,Discover amazing fitness deals! Sign Up now!,#BrandDeal #Launch,0.7521745155484332,0.7567248577300891,0.3572166473284425,1.0,1123,INR
+FIT01519,Fitness,Engagement,Tiruchirappalli,737003,901,Discover amazing fitness deals! Shop Now now!,#Marketing #Viral #Discount #Launch,0.8002372303064638,0.7983303149395564,0.7563739634161316,1.0,679,INR
+AUT01014,Automobile,Leads,Nagercoil,311837,109,Discover amazing automobile deals! Get Offer now!,#Viral #Promo #Discount #Marketing,0.7014023189034945,1.0,0.3148468312320251,1.0,104,INR
+AUT01426,Automobile,Traffic,Kanchipuram,310017,463,Discover amazing automobile deals! Shop Now now!,#Viral #Marketing #BrandDeal,0.738923448114415,0.4079723864583731,0.7295784207556768,1.0,395,INR
+BEA01110,Beauty,Brand Awareness,Erode,323618,1532,Discover amazing beauty deals! Sign Up now!,#LimitedOffer #BrandDeal #Launch #InstaAd,0.409012906666207,0.9392826378620922,0.3950118288957963,1.0,1243,INR
+FOO01798,Food,Leads,Madurai,959297,1466,Discover amazing food deals! Join Today now!,#Discount #Sale #InstaAd #LimitedOffer,0.4081976186694404,0.7419038386976016,0.7519156913730175,1.0,1380,INR
+AUT01650,Automobile,Leads,Nagercoil,225341,1795,Discover amazing automobile deals! Download App now!,#Discount #LimitedOffer #Promo #NewProduct,0.7289979278309605,0.7647094797254766,0.5846260381953734,1.0,2285,INR
+FIT01751,Fitness,Brand Awareness,Erode,491574,1748,Discover amazing fitness deals! Download App now!,#InstaAd #Trending #Marketing #Discount,0.5971508227120739,0.9829138744159608,0.869653811387594,1.0,2014,INR
+FIN01050,Finance,Brand Awareness,Thoothukudi,406604,500,Discover amazing finance deals! Shop Now now!,#BestChoice #Sale,0.721971942258729,0.4377288448652534,0.9800526700301256,1.0,646,INR
+BEA02001,Beauty,Conversions,Nagercoil,127788,1198,Discover amazing beauty deals! Learn More now!,#Promo #NewProduct,0.5352025914160896,0.7613849464611211,1.0,1.0,1080,INR
+FOO02027,Food,Brand Awareness,Tirupur,426577,562,Discover amazing food deals! Try Free now!,#Promo #LimitedOffer #NewProduct #Trending,0.96023642033421,0.5275246413329377,0.6383666663515288,1.0,466,INR
+FAS02175,Fashion,Engagement,Kanniyakumari,128543,114,Discover amazing fashion deals! Learn More now!,#NewProduct #BrandDeal #Promo,0.7354017214048872,0.7647264945025954,0.6946669045922281,1.0,89,INR
+AUT01049,Automobile,Brand Awareness,Tiruchirappalli,807135,975,Discover amazing automobile deals! Join Today now!,#Ad #BestChoice,0.7912335633844152,0.7191379763425151,0.2867306530907188,1.0,792,INR
+FIT01779,Fitness,Traffic,Madurai,1064262,1881,Discover amazing fitness deals! Shop Now now!,#Sale #InstaAd #Launch #Trending,0.5254932120574775,0.5724382812223294,0.7743561699610266,1.0,1136,INR
+FIT01473,Fitness,Traffic,Dindigul,257309,1899,Discover amazing fitness deals! Join Today now!,#Viral #Launch,0.6518275906924293,0.6489758079980162,0.4333187955816445,1.0,1188,INR
+FIT01896,Fitness,Leads,Kanniyakumari,96371,1777,Discover amazing fitness deals! Download App now!,#LimitedOffer #Sale #Viral,0.5266792178827981,0.9358124063019764,0.4579225735816769,1.0,993,INR
+FIN01689,Finance,Engagement,Salem,607228,1205,Discover amazing finance deals! Sign Up now!,#InstaAd #Launch,0.8104330360208662,0.1620149932179072,1.0,1.0,1422,INR
+FAS01965,Fashion,Conversions,Salem,722845,1987,Discover amazing fashion deals! Sign Up now!,#InstaAd #Trending #Ad #BrandDeal,0.7463478958182158,0.6583752528579415,0.18849191612065,1.0,840,INR
+EDU02074,Education,Traffic,Madurai,824060,1277,Discover amazing education deals! Shop Now now!,#Sale #Launch #LimitedOffer,0.6863675928738688,0.8063245448005802,0.7238949201400607,1.0,1207,INR
+FAS01742,Fashion,Conversions,Nagercoil,173972,1710,Discover amazing fashion deals! Learn More now!,#Sale #Ad,0.4199461880544977,0.984715640599804,0.6086043438744182,1.0,895,INR
+EDU01014,Education,Leads,Erode,393259,1853,Discover amazing education deals! Shop Now now!,#Ad #Promo,0.6861720678600742,0.7371290982671788,0.5317428303221057,1.0,2144,INR
+FIT01814,Fitness,Leads,Tiruchirappalli,675128,540,Discover amazing fitness deals! Sign Up now!,#BrandDeal #LimitedOffer #Marketing #NewProduct,0.655091113939841,0.7384916299060588,0.8404416740639461,1.0,602,INR
+TEC02148,Technology,Brand Awareness,Thanjavur,183039,1155,Discover amazing technology deals! Shop Now now!,#Launch #Trending #BestChoice,0.6793627193267007,0.6232251496284612,0.3686074585862551,1.0,730,INR
+AUT01590,Automobile,Traffic,Salem,385431,527,Discover amazing automobile deals! Download App now!,#NewProduct #LimitedOffer #Marketing #Launch,0.8425029720668058,0.6735844769614079,0.4340866898718363,1.0,631,INR
+TEC01922,Technology,Conversions,Tiruchirappalli,745835,1200,Discover amazing technology deals! Join Today now!,#Discount #Marketing #Sale #Ad,0.7758285941236589,0.9620133439104666,0.6948269269880499,1.0,1257,INR
+EDU02118,Education,Conversions,Salem,620750,1975,Discover amazing education deals! Download App now!,#NewProduct #Discount #Promo #Viral,0.6196184796789593,0.6199488454248379,0.6063496032783307,1.0,1717,INR
+FAS02217,Fashion,Conversions,Thoothukudi,305373,672,Discover amazing fashion deals! Join Today now!,#BrandDeal #Marketing,0.5571587223916432,0.5900924402844101,0.5224852358448724,1.0,404,INR
+TEC01647,Technology,Conversions,Erode,381144,305,Discover amazing technology deals! Shop Now now!,#LimitedOffer #BestChoice #InstaAd #Discount,0.8166362534905784,1.0,0.7995946494574436,1.0,422,INR
+FOO02080,Food,Traffic,Thoothukudi,486718,1238,Discover amazing food deals! Learn More now!,#Sale #Promo #BrandDeal #Discount,0.6660518110087892,0.8467610185652752,1.0,1.0,1307,INR
+FIT01114,Fitness,Brand Awareness,Kanchipuram,450195,175,Discover amazing fitness deals! Sign Up now!,#Sale #BestChoice,0.9919226210581956,0.6071563207358553,0.4916705605739278,1.0,143,INR
+FIT01120,Fitness,Engagement,Salem,443748,201,Discover amazing fitness deals! Try Free now!,#Sale #Promo,0.8094555061966481,0.7010154210901988,0.8075767629923047,1.0,150,INR
+EDU02214,Education,Brand Awareness,Dindigul,291888,1341,Discover amazing education deals! Get Offer now!,#Trending #Viral #Ad #LimitedOffer,0.7479143414188134,0.4384549943944432,0.4818124277081628,1.0,648,INR
+FIN02032,Finance,Traffic,Dindigul,182733,1283,Discover amazing finance deals! Sign Up now!,#Marketing #BrandDeal #Sale,0.7637561937398841,0.6566261114470427,0.5664405145500245,1.0,1365,INR
+FIT01879,Fitness,Brand Awareness,Thoothukudi,416752,1135,Discover amazing fitness deals! Sign Up now!,#Marketing #NewProduct #InstaAd,0.5372599237711326,0.7392193880457472,0.6820300379159265,1.0,1142,INR
+FIN02051,Finance,Traffic,Tirupur,202050,373,Discover amazing finance deals! Learn More now!,#NewProduct #Launch #BestChoice #Trending,0.6552461394382112,0.6772641827269635,1.0,1.0,401,INR
+AUT02107,Automobile,Conversions,Kanniyakumari,189996,1050,Discover amazing automobile deals! Try Free now!,#Viral #Promo #InstaAd #BestChoice,0.4790539430933712,0.2406460243517183,0.7839079770184144,1.0,825,INR
+FOO01605,Food,Traffic,Dindigul,183933,1582,Discover amazing food deals! Get Offer now!,#InstaAd #Trending,0.6112464414717438,0.751245958171148,0.7533334301384011,1.0,1401,INR
+AUT02063,Automobile,Engagement,Salem,324951,1861,Discover amazing automobile deals! Try Free now!,#Launch #Marketing #Viral #InstaAd,0.5624053920264844,0.647909301350099,0.3835560626966424,1.0,1795,INR
+FOO01786,Food,Leads,Madurai,1056701,1669,Discover amazing food deals! Shop Now now!,#NewProduct #Ad #Promo #Launch,0.6451697507762967,0.5051329293593354,0.9161512102945982,1.0,1029,INR
+EDU02018,Education,Brand Awareness,Thoothukudi,365873,499,Discover amazing education deals! Download App now!,#BestChoice #BrandDeal #Ad,0.6986175589252285,0.8949243715574955,0.8185785023844552,1.0,459,INR
+FIN01600,Finance,Engagement,Kanchipuram,386691,178,Discover amazing finance deals! Learn More now!,#NewProduct #Ad #Marketing #Launch,0.3690494097585649,0.3263786861789128,0.5863418335741686,1.0,184,INR
+BEA01266,Beauty,Brand Awareness,Thanjavur,313985,1610,Discover amazing beauty deals! Try Free now!,#LimitedOffer #BrandDeal,0.8081384520291051,0.3471554882730594,1.0,1.0,1308,INR
+FOO01098,Food,Traffic,Thanjavur,262573,156,Discover amazing food deals! Learn More now!,#BrandDeal #Launch,0.6553338432392164,0.76093367093015,0.6526868579860008,1.0,200,INR
+EDU01136,Education,Engagement,Coimbatore,2036580,1495,Discover amazing education deals! Try Free now!,#BestChoice #Marketing #Discount #LimitedOffer,0.6038154495863524,0.2285265413524235,0.5720543396043561,1.0,1025,INR
+AUT01335,Automobile,Conversions,Kanniyakumari,120600,230,Discover amazing automobile deals! Shop Now now!,#InstaAd #BrandDeal #Launch,0.4630326740469324,0.5689607083458581,0.6013036901098899,1.0,176,INR
+EDU01523,Education,Engagement,Nagercoil,288847,1457,Discover amazing education deals! Sign Up now!,#LimitedOffer #Ad #Launch #Marketing,0.6630701747645852,0.7758090573938717,0.5011663901541517,1.0,1364,INR
+BEA02142,Beauty,Engagement,Erode,421888,1864,Discover amazing beauty deals! Try Free now!,#Sale #NewProduct #Promo #Viral,0.7411244793780724,0.7967728888073071,0.4745386867682137,1.0,1452,INR
+FAS01586,Fashion,Brand Awareness,Dindigul,371165,932,Discover amazing fashion deals! Sign Up now!,#Marketing #NewProduct #BestChoice #Trending,0.5255583700365452,1.0,0.4415660498594433,1.0,564,INR
+FIT02019,Fitness,Brand Awareness,Dindigul,393662,136,Discover amazing fitness deals! Join Today now!,#Discount #InstaAd,0.529827402528666,0.3642379928108952,0.5989600855690548,1.0,65,INR
+EDU01153,Education,Traffic,Nagercoil,266472,1197,Discover amazing education deals! Try Free now!,#Ad #BestChoice,0.4496722629706993,0.5833003133999839,0.5890313872194095,1.0,1143,INR
+AUT01196,Automobile,Traffic,Chennai,8397710,1109,Discover amazing automobile deals! Get Offer now!,#Promo #Marketing #Launch,0.6850235569445481,0.5766903679770543,0.7179344582399309,1.0,774,INR
+FAS01850,Fashion,Leads,Kanchipuram,411760,1113,Discover amazing fashion deals! Shop Now now!,#Promo #Viral #LimitedOffer,0.7297673725631759,0.8337987042208276,1.0,1.0,980,INR
+FAS01335,Fashion,Brand Awareness,Tirunelveli,322744,535,Discover amazing fashion deals! Learn More now!,#InstaAd #LimitedOffer #Launch,0.7747685609730202,0.7043762641142636,0.8883653629145821,1.0,329,INR
+FIN01384,Finance,Conversions,Thoothukudi,405763,239,Discover amazing finance deals! Try Free now!,#BestChoice #Viral #Promo,0.5394775687882545,0.5784023046534534,0.9418242530810044,1.0,264,INR
+AUT01222,Automobile,Brand Awareness,Tirupur,428491,167,Discover amazing automobile deals! Sign Up now!,#LimitedOffer #BestChoice #Viral #Marketing,0.710672816980495,0.8363154007574567,0.6747719064895864,1.0,249,INR
+FIN02243,Finance,Brand Awareness,Kanchipuram,243001,213,Discover amazing finance deals! Get Offer now!,#Promo #Viral,0.2870538698880062,0.6161902505878553,0.6485981464935785,1.0,199,INR
+FIT01368,Fitness,Brand Awareness,Vellore,367364,1149,Discover amazing fitness deals! Sign Up now!,#Marketing #Promo #InstaAd #Sale,0.7195226554402769,0.6744615696589973,0.3315687522368978,1.0,988,INR
+TEC02122,Technology,Brand Awareness,Dindigul,274988,1864,Discover amazing technology deals! Try Free now!,#Marketing #Viral #Sale,0.7439626780023071,0.5072156895747295,0.6643315046510128,1.0,2577,INR
+FIT02050,Fitness,Conversions,Erode,438506,188,Discover amazing fitness deals! Join Today now!,#Marketing #NewProduct #Trending,0.9453363228955792,0.776003678796938,1.0,1.0,178,INR
+TEC01092,Technology,Leads,Coimbatore,1753019,613,Discover amazing technology deals! Try Free now!,#BrandDeal #Trending,0.5047091482137938,0.4092254158442687,0.7880364086750551,1.0,644,INR
+FIN02012,Finance,Engagement,Thanjavur,318645,283,Discover amazing finance deals! Download App now!,#InstaAd #Ad,0.6507721629157602,0.6837199060975421,0.4150464895917983,1.0,249,INR
+FOO01824,Food,Brand Awareness,Dindigul,281878,1864,Discover amazing food deals! Shop Now now!,#Viral #Marketing #InstaAd,0.5413117002662746,0.5218039463012767,0.5638069047922444,1.0,1717,INR
+FAS01023,Fashion,Leads,Coimbatore,1910775,1891,Discover amazing fashion deals! Join Today now!,#InstaAd #Marketing #Viral,0.7030272769148956,0.7141944831279492,0.8098317850258585,1.0,1632,INR
+BEA01203,Beauty,Conversions,Salem,487710,1893,Discover amazing beauty deals! Join Today now!,#BestChoice #InstaAd,0.6427535277974515,0.6174644355766292,0.545385618287072,1.0,680,INR
+BEA01434,Beauty,Engagement,Kanchipuram,328301,94,Discover amazing beauty deals! Try Free now!,#Viral #Promo #Discount #NewProduct,0.5114351855977974,0.7207279025660905,0.6372042286222892,1.0,50,INR
+BEA02060,Beauty,Conversions,Salem,688439,1852,Discover amazing beauty deals! Get Offer now!,#Launch #Trending #NewProduct,0.4573551250391251,0.3365483680317324,0.9389674486424768,1.0,1480,INR
+AUT01313,Automobile,Engagement,Tirunelveli,360829,795,Discover amazing automobile deals! Learn More now!,#BestChoice #Promo #InstaAd,0.4969052710149843,0.6912080072557595,1.0,1.0,1066,INR
+AUT01656,Automobile,Traffic,Madurai,1058924,1593,Discover amazing automobile deals! Join Today now!,#Launch #Viral,0.3389633554849169,0.873809260759427,0.8647723609472291,1.0,1722,INR
+FAS01381,Fashion,Engagement,Vellore,511169,326,Discover amazing fashion deals! Join Today now!,#LimitedOffer #Promo #Ad,0.8019965147151722,0.4477576296295381,1.0,1.0,270,INR
+FOO01814,Food,Conversions,Kanchipuram,379352,169,Discover amazing food deals! Get Offer now!,#Trending #BestChoice #Sale,0.4801360511691677,0.4593595810323168,0.8341965056808585,1.0,178,INR
+FOO01550,Food,Traffic,Chennai,8810694,735,Discover amazing food deals! Download App now!,#Promo #Discount #BestChoice,0.600139904951588,0.6110780513253566,0.5636155877484612,1.0,605,INR
+AUT01558,Automobile,Leads,Tirunelveli,393283,1164,Discover amazing automobile deals! Try Free now!,#Marketing #Launch,0.6722426268016489,1.0,0.9223560799202988,1.0,1866,INR
+BEA01368,Beauty,Conversions,Tiruchirappalli,848058,194,Discover amazing beauty deals! Join Today now!,#Marketing #Trending,0.652398422178809,0.4440125746178803,0.8375981269322781,1.0,114,INR
+FAS01789,Fashion,Brand Awareness,Chennai,8915015,951,Discover amazing fashion deals! Try Free now!,#LimitedOffer #NewProduct,0.6046595139598397,0.6676465437668662,0.7827167571015877,1.0,891,INR
+FOO01983,Food,Traffic,Kanniyakumari,136979,485,Discover amazing food deals! Get Offer now!,#InstaAd #Ad,0.7059002779680081,0.6536069313164938,0.5702216646584695,1.0,389,INR
+EDU02172,Education,Brand Awareness,Thoothukudi,445596,65,Discover amazing education deals! Shop Now now!,#Promo #Trending #BestChoice #Launch,0.6055057439235365,0.4944970794083936,1.0,1.0,65,INR
+TEC01725,Technology,Leads,Erode,261665,1407,Discover amazing technology deals! Join Today now!,#Trending #LimitedOffer,0.7239238562384,0.9358075565595776,0.1126208884801802,1.0,1110,INR
+FOO01606,Food,Traffic,Kanchipuram,446584,1145,Discover amazing food deals! Shop Now now!,#Launch #LimitedOffer #Viral #Trending,0.6859084763931038,1.0,0.5002037271529891,1.0,1214,INR
+AUT01562,Automobile,Leads,Tiruchirappalli,516953,1906,Discover amazing automobile deals! Get Offer now!,#NewProduct #Launch #BrandDeal #LimitedOffer,0.4247608780434692,0.6541194563982948,0.3643227823073137,1.0,1307,INR
+FOO01648,Food,Conversions,Tiruchirappalli,876072,1730,Discover amazing food deals! Try Free now!,#Marketing #BrandDeal #Trending #NewProduct,0.6041905771970132,0.3070501957272336,0.3759013012412772,1.0,907,INR
+FOO02216,Food,Traffic,Tirunelveli,358448,153,Discover amazing food deals! Try Free now!,#Ad #InstaAd,0.3047262751477947,0.5291353443221397,0.7236319601369622,1.0,72,INR
+BEA02036,Beauty,Engagement,Nagercoil,340121,388,Discover amazing beauty deals! Download App now!,#InstaAd #Viral #Sale #Trending,0.5689901153405815,0.6952333788027026,0.8146524713295588,1.0,348,INR
+AUT02243,Automobile,Engagement,Kanniyakumari,135554,211,Discover amazing automobile deals! Get Offer now!,#Launch #BrandDeal #Promo #InstaAd,0.8690843115615603,0.7538079733184535,0.4939948530034823,1.0,225,INR
+EDU01078,Education,Brand Awareness,Madurai,645271,936,Discover amazing education deals! Join Today now!,#Marketing #NewProduct,0.6933226697558935,0.7930480902234208,0.9163143578469238,1.0,948,INR
+FAS02183,Fashion,Brand Awareness,Kanchipuram,318533,1432,Discover amazing fashion deals! Join Today now!,#Viral #BrandDeal #InstaAd,0.4570834265993299,0.8858738070998603,0.7544310129398177,1.0,1197,INR
+FOO02001,Food,Leads,Nagercoil,312484,1900,Discover amazing food deals! Try Free now!,#NewProduct #BestChoice,0.7264651038658579,0.8423500157845992,0.6522673929183056,1.0,1853,INR
+FOO01090,Food,Traffic,Tirunelveli,273781,545,Discover amazing food deals! Get Offer now!,#Discount #Viral #BrandDeal,0.4078352633138286,0.935763550444128,0.6893691328087347,1.0,376,INR
+FIT01016,Fitness,Leads,Thoothukudi,266262,1666,Discover amazing fitness deals! Sign Up now!,#Viral #BrandDeal #InstaAd #Marketing,0.5238834143066382,0.477670991787382,0.9481847536254212,1.0,1708,INR
+TEC01372,Technology,Conversions,Thanjavur,398496,347,Discover amazing technology deals! Try Free now!,#LimitedOffer #Marketing,0.6003576261235554,0.7292214406236703,0.2658070831734856,1.0,297,INR
+FOO01521,Food,Traffic,Dindigul,196600,1613,Discover amazing food deals! Download App now!,#BestChoice #Trending,0.2386439954946738,0.7524587323180415,0.7037138439152857,1.0,1142,INR
+FOO01627,Food,Engagement,Dindigul,226898,1858,Discover amazing food deals! Try Free now!,#Launch #Promo #BrandDeal #InstaAd,0.4919968866045311,0.8142132728993083,0.649885613954441,1.0,1087,INR
+EDU01860,Education,Engagement,Madurai,955699,77,Discover amazing education deals! Sign Up now!,#BrandDeal #InstaAd,0.7985608406812474,0.6085807247365793,0.8557891353291557,1.0,57,INR
+FOO01872,Food,Leads,Thoothukudi,349369,1807,Discover amazing food deals! Get Offer now!,#LimitedOffer #Viral #BestChoice #Ad,0.3770513997506524,0.8694545689299245,0.9893806109202428,1.0,1535,INR
+EDU02112,Education,Leads,Tirupur,230448,990,Discover amazing education deals! Download App now!,#Promo #Marketing,0.5963212275452983,0.5738959520585302,0.5833874398839872,1.0,858,INR
+EDU01227,Education,Traffic,Madurai,788316,572,Discover amazing education deals! Download App now!,#Marketing #Discount #Launch #Ad,0.3464226872534389,0.629091951714845,0.3963217334547934,1.0,423,INR
+FOO01968,Food,Leads,Kanchipuram,207657,1436,Discover amazing food deals! Try Free now!,#Trending #Marketing #Ad #BrandDeal,0.7484696394198286,0.9389213728129152,0.31594685058088,1.0,1386,INR
+FAS02180,Fashion,Traffic,Kanchipuram,456689,1603,Discover amazing fashion deals! Learn More now!,#Ad #InstaAd #Discount,0.6402282845946115,0.4739749511893515,0.3863767368656882,1.0,699,INR
+AUT01012,Automobile,Conversions,Coimbatore,1944189,737,Discover amazing automobile deals! Sign Up now!,#BestChoice #Promo #Trending,0.2993161359258393,0.6703551323151025,0.9561913376626792,1.0,616,INR
+EDU01735,Education,Engagement,Nagercoil,212855,1231,Discover amazing education deals! Download App now!,#BestChoice #Launch,0.790205540359273,0.7362685494783222,1.0,1.0,988,INR
+FIT01318,Fitness,Traffic,Tirupur,355650,1395,Discover amazing fitness deals! Shop Now now!,#Launch #BestChoice,0.4536171684818216,0.8366201395132038,1.0,1.0,976,INR
+AUT02214,Automobile,Brand Awareness,Dindigul,309903,785,Discover amazing automobile deals! Download App now!,#Ad #Trending,0.4625974304275757,0.7855897683295661,0.7838705062097916,1.0,1227,INR
+EDU02203,Education,Engagement,Tiruchirappalli,407906,217,Discover amazing education deals! Learn More now!,#Promo #BestChoice #Discount #Trending,0.3522550107043831,0.2771097681763873,1.0,1.0,185,INR
+FIN01358,Finance,Leads,Nagercoil,161413,1129,Discover amazing finance deals! Shop Now now!,#Sale #Launch #BestChoice,0.6544032576434234,0.8726262462306407,1.0,1.0,1905,INR
+FIT01320,Fitness,Engagement,Vellore,354028,866,Discover amazing fitness deals! Try Free now!,#Viral #InstaAd #Launch,0.5806897433169147,0.9627332035375988,0.2540810192208225,1.0,590,INR
+EDU01035,Education,Brand Awareness,Kanchipuram,469431,1289,Discover amazing education deals! Get Offer now!,#Launch #Viral,0.4236845401368811,1.0,0.4149699969274368,1.0,1229,INR
+BEA02010,Beauty,Conversions,Kanniyakumari,113660,694,Discover amazing beauty deals! Sign Up now!,#Trending #NewProduct #Marketing #InstaAd,0.5553987682326715,0.6541001232436799,0.4703183412486384,1.0,467,INR
+BEA01989,Beauty,Engagement,Erode,390792,1814,Discover amazing beauty deals! Download App now!,#Marketing #BestChoice #Viral #Ad,0.8534194346998112,0.4432451087486018,0.8054558215435623,1.0,1015,INR
+FOO02021,Food,Traffic,Thoothukudi,302979,1346,Discover amazing food deals! Sign Up now!,#LimitedOffer #Sale #Discount,0.4776057580312043,0.8966392147409813,0.3800341251498986,1.0,889,INR
+FAS01782,Fashion,Traffic,Chennai,8034701,313,Discover amazing fashion deals! Download App now!,#Launch #Marketing #BrandDeal,0.6916606357665855,0.5467067137960424,0.4667202278284645,1.0,167,INR
+FAS01932,Fashion,Leads,Madurai,583300,1236,Discover amazing fashion deals! Join Today now!,#Marketing #BrandDeal #Trending,0.5049009805115229,0.6280063157151751,0.3849568298364517,1.0,617,INR
+FOO02202,Food,Brand Awareness,Kanchipuram,441249,1421,Discover amazing food deals! Get Offer now!,#NewProduct #Launch #BestChoice #Sale,0.7405165073021314,0.4711411426838713,0.4449090439399967,1.0,796,INR
+BEA02162,Beauty,Traffic,Nagercoil,248746,875,Discover amazing beauty deals! Sign Up now!,#Sale #Ad #Viral #Marketing,0.6504256998467459,0.8404228278353504,0.7593594143295651,1.0,721,INR
+FIN01747,Finance,Conversions,Tirupur,283560,1297,Discover amazing finance deals! Sign Up now!,#NewProduct #BrandDeal,0.622567590149406,0.5719201512801668,0.915169806938702,1.0,1690,INR
+AUT01365,Automobile,Traffic,Erode,442615,997,Discover amazing automobile deals! Download App now!,#BestChoice #InstaAd #LimitedOffer,0.5978606888798369,0.7550158464669693,0.1543247358054055,1.0,801,INR
+FAS02156,Fashion,Leads,Kanniyakumari,103874,1157,Discover amazing fashion deals! Join Today now!,#BestChoice #Discount #Promo,0.6691173611571624,0.92662339042855,0.6760501129969172,1.0,824,INR
+EDU01607,Education,Conversions,Nagercoil,143642,927,Discover amazing education deals! Download App now!,#Discount #BrandDeal #Marketing,0.8241933339318108,0.492604627785423,0.6466962801132196,1.0,1020,INR
+FOO01805,Food,Conversions,Chennai,10614235,367,Discover amazing food deals! Join Today now!,#Sale #LimitedOffer #Trending #Discount,0.6929835940244186,0.4874793584968198,0.3982789042313503,1.0,262,INR
+TEC02129,Technology,Leads,Erode,479746,1939,Discover amazing technology deals! Sign Up now!,#NewProduct #BrandDeal #Sale,0.566812184126461,0.4830111790468955,0.261670882060381,1.0,1557,INR
+FIT01809,Fitness,Brand Awareness,Vellore,388801,245,Discover amazing fitness deals! Get Offer now!,#Trending #InstaAd #Viral #Sale,0.6736274266197875,1.0,0.6045696758492122,1.0,242,INR
+AUT01211,Automobile,Engagement,Chennai,9142953,1676,Discover amazing automobile deals! Learn More now!,#Sale #Launch #InstaAd #Trending,0.3786215644605855,0.8984001456890072,0.890664974313043,1.0,1824,INR
+BEA01452,Beauty,Leads,Tirunelveli,491336,879,Discover amazing beauty deals! Try Free now!,#LimitedOffer #Ad,0.6042298613580352,0.8490990675153648,0.1151920248982817,1.0,423,INR
+BEA02242,Beauty,Traffic,Salem,608686,1954,Discover amazing beauty deals! Shop Now now!,#Sale #BestChoice,0.6699108596146088,1.0,0.4678899796194374,1.0,1623,INR
+FIT02206,Fitness,Conversions,Tirunelveli,281121,1751,Discover amazing fitness deals! Get Offer now!,#Viral #BestChoice #Sale,0.4709117062290502,1.0,0.4155660534496195,1.0,2364,INR
+EDU01776,Education,Brand Awareness,Dindigul,175559,56,Discover amazing education deals! Learn More now!,#Promo #Viral,0.591652776374398,0.7256701140876386,0.3520653448308941,1.0,31,INR
+FAS01286,Fashion,Brand Awareness,Nagercoil,205595,1885,Discover amazing fashion deals! Join Today now!,#Viral #Discount,0.6792776826592388,0.9562785097965674,0.910209689841664,1.0,1015,INR
+BEA01358,Beauty,Traffic,Kanchipuram,233742,850,Discover amazing beauty deals! Learn More now!,#Launch #InstaAd #Discount,0.4911498595675468,0.6925564282672452,0.5306594428195577,1.0,455,INR
+FIN01381,Finance,Leads,Kanchipuram,352826,335,Discover amazing finance deals! Sign Up now!,#Trending #BrandDeal #InstaAd #Promo,0.966885510383992,0.7975854493459815,0.6210618967872092,1.0,518,INR
+EDU01778,Education,Leads,Kanchipuram,335044,1423,Discover amazing education deals! Get Offer now!,#Ad #BrandDeal #InstaAd #Launch,0.5164881758255738,0.6756502859776874,0.6007004141120117,1.0,1599,INR
+FIN02065,Finance,Leads,Kanniyakumari,150831,1302,Discover amazing finance deals! Get Offer now!,#Ad #InstaAd #Discount,0.7648846784297728,0.727143700158004,0.764937125333292,1.0,1808,INR
+BEA02002,Beauty,Brand Awareness,Salem,412217,907,Discover amazing beauty deals! Try Free now!,#Ad #Discount #Promo #Sale,0.5419834824357097,0.3207445957203826,0.7354702663681295,1.0,522,INR
+FIN02165,Finance,Brand Awareness,Tirunelveli,241873,1528,Discover amazing finance deals! Download App now!,#Trending #Promo,0.5626037277957366,0.7535832824532678,0.945167066936566,1.0,2659,INR
+EDU01865,Education,Leads,Salem,787877,1689,Discover amazing education deals! Shop Now now!,#NewProduct #Sale #Launch,0.7936549379688328,0.3698947529882583,0.6587603972556059,1.0,1322,INR
+BEA01641,Beauty,Engagement,Thanjavur,256532,1240,Discover amazing beauty deals! Join Today now!,#Promo #Discount,0.6246957797174607,0.7948083913123316,0.3427858465266412,1.0,959,INR
+FOO01062,Food,Brand Awareness,Nagercoil,226267,519,Discover amazing food deals! Sign Up now!,#Trending #Discount,0.7443757809688916,0.5896169303581847,1.0,1.0,532,INR
+FOO02120,Food,Leads,Salem,703119,1728,Discover amazing food deals! Sign Up now!,#NewProduct #BrandDeal #Sale #Marketing,0.6698337508074869,0.5506410791507876,0.6983636855555949,1.0,1245,INR
+FAS01563,Fashion,Brand Awareness,Tiruchirappalli,534092,857,Discover amazing fashion deals! Join Today now!,#LimitedOffer #Launch #Promo,0.6409194936797691,0.8587981019002131,0.7940649640142967,1.0,790,INR
+FAS01291,Fashion,Traffic,Madurai,586988,1922,Discover amazing fashion deals! Get Offer now!,#LimitedOffer #BestChoice,0.5318178421884834,0.6562693445129928,0.6771501106227213,1.0,911,INR
+TEC01966,Technology,Engagement,Madurai,1069936,1688,Discover amazing technology deals! Join Today now!,#Trending #NewProduct #LimitedOffer,0.7045763302018571,0.6678949678907091,0.6272503744227608,1.0,1921,INR
+EDU01208,Education,Brand Awareness,Tiruchirappalli,896753,132,Discover amazing education deals! Learn More now!,#Viral #Promo #Launch #BrandDeal,0.2736682512727697,0.6589469768505775,0.7193691901563483,1.0,99,INR
+FIN01099,Finance,Engagement,Erode,325991,1485,Discover amazing finance deals! Download App now!,#Viral #Ad #Trending #Discount,0.5024353865956109,0.791242006807434,0.2560802540285198,1.0,1113,INR
+FAS01169,Fashion,Brand Awareness,Coimbatore,1402732,62,Discover amazing fashion deals! Learn More now!,#BrandDeal #BestChoice #Viral #Trending,0.6671099019700188,0.548899333080049,0.4245845211551494,1.0,44,INR
+FAS01267,Fashion,Leads,Kanniyakumari,192863,1314,Discover amazing fashion deals! Try Free now!,#Marketing #Ad #InstaAd,0.8102143503399112,0.4716656356521218,0.6058248925241085,1.0,987,INR
+TEC01888,Technology,Engagement,Erode,202396,1787,Discover amazing technology deals! Sign Up now!,#Viral #BrandDeal #LimitedOffer #Sale,0.7153210394202233,0.8372305007268457,0.4988735752178904,1.0,1181,INR
+FIN01827,Finance,Engagement,Chennai,9132658,240,Discover amazing finance deals! Learn More now!,#Discount #LimitedOffer,0.5248726240690116,0.6320632647582773,0.6368671233877092,1.0,318,INR
+FIT01855,Fitness,Brand Awareness,Tirupur,350201,907,Discover amazing fitness deals! Try Free now!,#Viral #BrandDeal #Ad,0.6910467468966349,0.6035668908514404,0.6137409531563557,1.0,466,INR
+EDU01779,Education,Conversions,Kanniyakumari,81591,536,Discover amazing education deals! Join Today now!,#BrandDeal #BestChoice,0.7043277812241378,0.3863184630158414,0.7651018339537307,1.0,667,INR
+FAS01315,Fashion,Brand Awareness,Kanniyakumari,91303,650,Discover amazing fashion deals! Get Offer now!,#Sale #Marketing #Viral,0.7181852102591488,0.414967360787547,0.6765799845154088,1.0,390,INR
+FIN01478,Finance,Conversions,Chennai,9210209,1373,Discover amazing finance deals! Try Free now!,#BrandDeal #InstaAd #Trending,0.4312957895938704,0.7072923874638294,0.4654291417091102,1.0,1531,INR
+AUT01745,Automobile,Brand Awareness,Salem,633863,738,Discover amazing automobile deals! Try Free now!,#Sale #LimitedOffer #BrandDeal,0.5963037190178568,0.5547647867879983,0.7353853224274363,1.0,836,INR
+TEC01317,Technology,Engagement,Tirunelveli,449690,1860,Discover amazing technology deals! Learn More now!,#Viral #BrandDeal,0.5931179360634377,0.8275128140838534,0.6171035147962018,1.0,1645,INR
+FAS01245,Fashion,Conversions,Tirunelveli,459820,805,Discover amazing fashion deals! Sign Up now!,#BrandDeal #BestChoice,0.6758106410146496,0.739169049402137,0.8737551737720558,1.0,542,INR
+FAS01252,Fashion,Conversions,Madurai,599616,113,Discover amazing fashion deals! Shop Now now!,#LimitedOffer #Ad,0.5138179535799181,0.6160273077827361,0.3237810017927183,1.0,73,INR
+FAS02111,Fashion,Traffic,Thoothukudi,286231,1510,Discover amazing fashion deals! Learn More now!,#BestChoice #Ad,0.7463198265064794,0.8383869918037716,1.0,1.0,1206,INR
+TEC02051,Technology,Engagement,Erode,469458,337,Discover amazing technology deals! Download App now!,#LimitedOffer #BrandDeal #Discount #Promo,0.7023062274069949,0.549649379174381,0.8244357842502457,1.0,477,INR
+BEA01463,Beauty,Conversions,Thanjavur,398143,1368,Discover amazing beauty deals! Get Offer now!,#NewProduct #BestChoice #Promo #Discount,0.4692211169477889,0.8081736890423831,0.0589432692087938,1.0,458,INR
+FAS01050,Fashion,Traffic,Nagercoil,119623,1096,Discover amazing fashion deals! Learn More now!,#LimitedOffer #InstaAd,0.8078854981936648,0.9017205899697672,0.2919454801428702,1.0,618,INR
+BEA01585,Beauty,Conversions,Dindigul,348747,738,Discover amazing beauty deals! Get Offer now!,#NewProduct #Viral #BrandDeal #LimitedOffer,0.7382536947214154,0.6557734416767157,0.85197008327994,1.0,396,INR
+EDU01396,Education,Conversions,Vellore,405228,194,Discover amazing education deals! Try Free now!,#Trending #Ad #InstaAd #Viral,0.5052550549882937,0.7721952608012707,0.5595200839081012,1.0,155,INR
+FIT01883,Fitness,Brand Awareness,Tirunelveli,382828,578,Discover amazing fitness deals! Learn More now!,#Trending #NewProduct #Launch #BestChoice,0.8288762041231158,0.6200084790977571,0.703520646174102,1.0,615,INR
+FIN01160,Finance,Leads,Nagercoil,197624,883,Discover amazing finance deals! Sign Up now!,#LimitedOffer #Sale #Marketing,0.7635954735749806,0.6418682170739325,1.0,1.0,1038,INR
+TEC01563,Technology,Brand Awareness,Vellore,457364,133,Discover amazing technology deals! Learn More now!,#BrandDeal #Viral,0.516883153755006,0.7078495612908141,1.0,1.0,180,INR
+FAS01872,Fashion,Conversions,Nagercoil,211785,755,Discover amazing fashion deals! Get Offer now!,#Launch #LimitedOffer #BrandDeal #Trending,0.7379686986075008,0.4808416201866179,0.5114901882643087,1.0,279,INR
+BEA01004,Beauty,Engagement,Salem,648350,809,Discover amazing beauty deals! Get Offer now!,#LimitedOffer #Sale,0.470282454198187,0.5108021107387514,0.5780128377009377,1.0,378,INR
+AUT01131,Automobile,Traffic,Vellore,369274,1189,Discover amazing automobile deals! Sign Up now!,#Discount #LimitedOffer #NewProduct,0.5274579442869365,0.4444184562374001,0.4740461095010984,1.0,1517,INR
+FOO01851,Food,Conversions,Dindigul,283541,214,Discover amazing food deals! Download App now!,#LimitedOffer #Promo #InstaAd,0.7385901636424197,0.4506320370160079,0.6571906630832246,1.0,219,INR
+FOO01702,Food,Leads,Nagercoil,153947,682,Discover amazing food deals! Learn More now!,#LimitedOffer #Launch,0.4693670395814989,0.6755344559240373,0.3626522813631252,1.0,410,INR
+EDU01603,Education,Leads,Tiruchirappalli,553606,1938,Discover amazing education deals! Download App now!,#BrandDeal #InstaAd,0.4547891484210388,1.0,0.624580781537687,1.0,1844,INR
+BEA01848,Beauty,Brand Awareness,Dindigul,344692,377,Discover amazing beauty deals! Shop Now now!,#Sale #Discount #Launch,0.7965568272397656,0.917816325472068,0.6721850913911898,1.0,261,INR
+FOO01128,Food,Engagement,Vellore,348874,1403,Discover amazing food deals! Try Free now!,#Sale #LimitedOffer,0.6112194209675866,0.6562274464197072,0.4886879814464555,1.0,1055,INR
+FAS01248,Fashion,Traffic,Dindigul,199708,1831,Discover amazing fashion deals! Get Offer now!,#Launch #InstaAd #Ad,0.4576625218762744,1.0,0.933047891065096,1.0,1705,INR
+FIN01311,Finance,Conversions,Nagercoil,174553,1717,Discover amazing finance deals! Join Today now!,#InstaAd #Sale,0.4599400190064708,0.7632819077292331,0.7555867557906739,1.0,1956,INR
+BEA01089,Beauty,Leads,Coimbatore,1592632,626,Discover amazing beauty deals! Shop Now now!,#BrandDeal #Marketing,0.3566960432568698,0.7090431434195018,0.3348393250805453,1.0,263,INR
+FIN01767,Finance,Brand Awareness,Nagercoil,149138,219,Discover amazing finance deals! Try Free now!,#BestChoice #Sale #Discount #Promo,0.7152148191254828,0.8088074570517612,0.6539177950001649,1.0,309,INR
+BEA01860,Beauty,Conversions,Nagercoil,285374,1434,Discover amazing beauty deals! Get Offer now!,#BrandDeal #Ad,0.3406536599692818,0.4402370283471083,0.4047835150497973,1.0,643,INR
+BEA01319,Beauty,Leads,Salem,347638,1486,Discover amazing beauty deals! Download App now!,#BestChoice #LimitedOffer,0.5852332028734877,0.9686016167472262,0.918528520454465,1.0,989,INR
+BEA01476,Beauty,Brand Awareness,Erode,278249,321,Discover amazing beauty deals! Try Free now!,#Trending #Ad #NewProduct #Marketing,0.3626875444589992,0.597264675130114,1.0,1.0,203,INR
+EDU01884,Education,Traffic,Tiruchirappalli,768009,371,Discover amazing education deals! Get Offer now!,#BrandDeal #Marketing,0.7281806278408612,0.9680645814120004,0.7598948506925721,1.0,329,INR
+FIN01690,Finance,Leads,Thanjavur,152719,704,Discover amazing finance deals! Try Free now!,#Viral #Ad,0.6321562080014612,0.9415529005487564,0.620896753118297,1.0,583,INR
+TEC01645,Technology,Leads,Tirunelveli,353962,1397,Discover amazing technology deals! Download App now!,#Discount #LimitedOffer #NewProduct #Viral,0.6645757627100898,0.8643793154622581,1.0,1.0,1581,INR
+BEA02170,Beauty,Leads,Kanniyakumari,157236,1398,Discover amazing beauty deals! Learn More now!,#InstaAd #BestChoice #Launch,0.6484305027079852,0.472319696259745,0.5284954685304092,1.0,822,INR
+FIT01545,Fitness,Engagement,Chennai,9478301,912,Discover amazing fitness deals! Shop Now now!,#Launch #BrandDeal,0.488074959598419,0.5784443737352322,1.0,1.0,1118,INR
+FOO01503,Food,Engagement,Erode,242534,1537,Discover amazing food deals! Shop Now now!,#Ad #Viral,0.4893604049421465,1.0,1.0,1.0,1825,INR
+FIT02203,Fitness,Leads,Chennai,10592670,548,Discover amazing fitness deals! Join Today now!,#BestChoice #Trending #BrandDeal,0.4127895191827585,0.6308607573100802,0.8533123288112646,1.0,439,INR
+EDU01691,Education,Engagement,Salem,392241,620,Discover amazing education deals! Try Free now!,#NewProduct #Discount #BestChoice,0.5186030319762448,0.5921450356998731,0.5825331086267715,1.0,723,INR
+FOO01331,Food,Engagement,Tiruchirappalli,812003,691,Discover amazing food deals! Download App now!,#Sale #BestChoice,0.4632165447387087,0.8188709188577832,0.884448437499013,1.0,736,INR
+AUT02058,Automobile,Traffic,Kanchipuram,326209,1529,Discover amazing automobile deals! Learn More now!,#BestChoice #NewProduct #Discount,0.6919984695076373,0.452068183115763,0.1677499111200293,1.0,1381,INR
+FAS01447,Fashion,Brand Awareness,Nagercoil,279917,1379,Discover amazing fashion deals! Try Free now!,#BrandDeal #Launch,0.5277808835200967,0.4193426806693775,0.7923241191074999,1.0,751,INR
+EDU01394,Education,Conversions,Kanchipuram,389004,526,Discover amazing education deals! Learn More now!,#Marketing #Launch,0.3907037072370746,0.4166472518032532,0.9369910389786216,1.0,380,INR
+EDU02228,Education,Leads,Kanchipuram,292124,758,Discover amazing education deals! Learn More now!,#Launch #Sale #BrandDeal,0.4882065738692018,0.7807929616911735,0.7969061411727515,1.0,827,INR
+EDU01328,Education,Conversions,Tirupur,291659,1806,Discover amazing education deals! Shop Now now!,#NewProduct #Launch #LimitedOffer #Promo,0.612553225940661,0.9181847433697916,0.6681381492074221,1.0,2493,INR
+BEA01518,Beauty,Brand Awareness,Madurai,664134,1084,Discover amazing beauty deals! Shop Now now!,#Marketing #Ad,0.4398552441323087,0.906700396120406,0.3415762193523467,1.0,682,INR
+FIN01558,Finance,Brand Awareness,Kanchipuram,275713,1034,Discover amazing finance deals! Sign Up now!,#LimitedOffer #Sale,0.2271519321648104,0.708644344900194,0.6865295510679997,1.0,1062,INR
+TEC01954,Technology,Brand Awareness,Tirunelveli,418335,802,Discover amazing technology deals! Learn More now!,#BrandDeal #BestChoice #NewProduct #InstaAd,0.7150275187223156,0.8320884916913556,0.5625695679072564,1.0,735,INR
+TEC01119,Technology,Conversions,Coimbatore,1488972,1585,Discover amazing technology deals! Get Offer now!,#NewProduct #Promo,0.34757405930287,1.0,1.0,1.0,1319,INR
+BEA01405,Beauty,Brand Awareness,Madurai,575418,393,Discover amazing beauty deals! Get Offer now!,#Discount #Promo,0.779249743385626,0.7939099104855595,0.9206782652902096,1.0,327,INR
+FIT01687,Fitness,Engagement,Salem,759888,1750,Discover amazing fitness deals! Download App now!,#Marketing #Launch,0.3682274873319766,0.6797039057563826,0.3305388671390259,1.0,1021,INR
+FAS01683,Fashion,Leads,Kanniyakumari,114832,1050,Discover amazing fashion deals! Sign Up now!,#BrandDeal #InstaAd,0.5206625431343017,0.8555192123584544,0.3353104018673266,1.0,594,INR
+TEC01420,Technology,Traffic,Erode,363038,1521,Discover amazing technology deals! Learn More now!,#Launch #Discount #NewProduct,0.471208560349502,0.5125061409598468,0.7384498813021177,1.0,1286,INR
+TEC01727,Technology,Traffic,Coimbatore,1990049,1575,Discover amazing technology deals! Try Free now!,#NewProduct #Discount,0.4715426007043269,0.894356133395327,0.9683588639901156,1.0,2395,INR
+FAS01461,Fashion,Engagement,Dindigul,294059,584,Discover amazing fashion deals! Shop Now now!,#Ad #Promo #InstaAd,0.3975340395928153,1.0,0.7799912977862907,1.0,375,INR
+FOO01764,Food,Engagement,Vellore,468383,1666,Discover amazing food deals! Download App now!,#Marketing #LimitedOffer #BrandDeal #BestChoice,0.7257067883252677,0.8247844147442989,0.5031436315967319,1.0,1163,INR
+EDU01022,Education,Brand Awareness,Tirupur,231575,1334,Discover amazing education deals! Shop Now now!,#Launch #Marketing #Ad #Trending,0.7079867070983709,0.7067864658631432,0.7904780224491985,1.0,1644,INR
+TEC01752,Technology,Leads,Coimbatore,1258722,854,Discover amazing technology deals! Sign Up now!,#Trending #Marketing #Launch,0.5610977174010223,0.7142659837350863,0.5748927177605574,1.0,993,INR
+AUT01959,Automobile,Leads,Thanjavur,282079,751,Discover amazing automobile deals! Get Offer now!,#Discount #LimitedOffer #Viral #Trending,0.3635063380577567,0.5359769692884798,0.74041289278866,1.0,871,INR
+FAS01318,Fashion,Engagement,Kanchipuram,402053,487,Discover amazing fashion deals! Get Offer now!,#Viral #Sale #Launch,0.7688539224025374,0.4601725531303459,0.4540515205772945,1.0,269,INR
+FAS02145,Fashion,Brand Awareness,Salem,376242,1628,Discover amazing fashion deals! Download App now!,#Viral #Ad #Sale,0.4977972590347185,0.5681880618970918,0.8498946569534382,1.0,859,INR
+FOO01094,Food,Leads,Thoothukudi,378589,1809,Discover amazing food deals! Sign Up now!,#Sale #Discount #LimitedOffer,0.7982363307215518,0.6331966718175054,0.5684924974464014,1.0,1120,INR
+BEA01143,Beauty,Brand Awareness,Vellore,329257,188,Discover amazing beauty deals! Learn More now!,#LimitedOffer #BrandDeal,0.6187549307444242,0.89722174141625,0.5975483613495193,1.0,150,INR
+FIN01373,Finance,Traffic,Chennai,10577640,863,Discover amazing finance deals! Download App now!,#NewProduct #LimitedOffer #Viral,0.8280160770517295,0.6716280205518713,1.0,1.0,1653,INR
+BEA01251,Beauty,Engagement,Tirunelveli,344353,1441,Discover amazing beauty deals! Download App now!,#NewProduct #Ad #Discount #Promo,0.7059424714715622,0.7808799041856326,0.4995802408330539,1.0,592,INR
+FIN01158,Finance,Traffic,Chennai,8323390,1721,Discover amazing finance deals! Shop Now now!,#Discount #LimitedOffer,0.713182483270716,0.7781980345767379,0.8071951241329962,1.0,2129,INR
+FAS01376,Fashion,Conversions,Coimbatore,1263579,1685,Discover amazing fashion deals! Get Offer now!,#Marketing #Discount,0.727511899862633,0.78353615044788,0.7268610935852231,1.0,994,INR
+FAS01410,Fashion,Conversions,Kanniyakumari,178875,837,Discover amazing fashion deals! Shop Now now!,#Promo #NewProduct #Ad #BestChoice,0.5876030297960039,1.0,0.8372429792653667,1.0,486,INR
+BEA01410,Beauty,Leads,Chennai,9664221,1109,Discover amazing beauty deals! Learn More now!,#Sale #BestChoice,0.4088922557566993,0.4457497861460422,0.8764027132679194,1.0,491,INR
+FIT01651,Fitness,Conversions,Thanjavur,307732,714,Discover amazing fitness deals! Shop Now now!,#Ad #Discount #NewProduct #BrandDeal,0.4197167850724224,0.5905344974085989,0.919379536994661,1.0,865,INR
+BEA01373,Beauty,Engagement,Salem,698300,1235,Discover amazing beauty deals! Learn More now!,#Marketing #Trending #BestChoice #Launch,0.6575842049766611,0.4822024776255612,0.2150285052985098,1.0,717,INR
+FOO01609,Food,Leads,Dindigul,363269,231,Discover amazing food deals! Get Offer now!,#Promo #Marketing #Trending,0.4632129505792046,1.0,0.456442512535092,1.0,137,INR
+EDU02032,Education,Traffic,Kanniyakumari,93507,1882,Discover amazing education deals! Try Free now!,#Promo #Discount #Launch,0.6303456039782869,0.672782552488774,1.0,1.0,2528,INR
+FOO01802,Food,Traffic,Erode,403667,642,Discover amazing food deals! Join Today now!,#NewProduct #InstaAd,0.6738443273765027,0.3163441029320699,0.9427303989361862,1.0,530,INR
+FOO01306,Food,Traffic,Tirunelveli,283807,1041,Discover amazing food deals! Join Today now!,#BestChoice #Viral,0.6628820089359566,0.462738973057606,0.8474028727164716,1.0,1069,INR
+FIN01836,Finance,Brand Awareness,Thanjavur,326611,897,Discover amazing finance deals! Get Offer now!,#Discount #Viral #LimitedOffer #Launch,0.6554938106528105,0.668384971009302,0.9677329654238196,1.0,944,INR
+AUT01147,Automobile,Conversions,Thanjavur,265953,1098,Discover amazing automobile deals! Try Free now!,#BestChoice #BrandDeal,0.7446790327960349,0.6735953223151866,0.6430045531088013,1.0,1730,INR
+FIN02238,Finance,Conversions,Chennai,8138563,1298,Discover amazing finance deals! Sign Up now!,#Launch #Viral #Trending,0.7526850400575792,0.2346510735929343,0.7310230008799055,1.0,1897,INR
+AUT01865,Automobile,Traffic,Kanchipuram,458778,1269,Discover amazing automobile deals! Get Offer now!,#InstaAd #LimitedOffer,0.6614916222406041,0.7507505237234146,0.7839598596644461,1.0,1736,INR
+AUT01467,Automobile,Leads,Chennai,9554623,1991,Discover amazing automobile deals! Join Today now!,#Launch #Promo #NewProduct,0.7559775660912025,0.987200605824778,0.661017812860013,1.0,2380,INR
+BEA01422,Beauty,Engagement,Coimbatore,1705552,722,Discover amazing beauty deals! Download App now!,#Trending #Sale,0.5150469727952569,0.9423801547710547,0.807342595969488,1.0,609,INR
+BEA02108,Beauty,Conversions,Erode,273609,1503,Discover amazing beauty deals! Shop Now now!,#Launch #Marketing #LimitedOffer #Trending,0.7061649684932925,0.9659463580998744,0.851830609219116,1.0,1202,INR
+EDU01967,Education,Conversions,Madurai,753973,1900,Discover amazing education deals! Shop Now now!,#Promo #BestChoice,0.5646943770008662,1.0,1.0,1.0,2840,INR
+FAS01274,Fashion,Conversions,Kanniyakumari,100953,545,Discover amazing fashion deals! Get Offer now!,#Promo #InstaAd #Ad #NewProduct,0.6303433584579433,0.6517594500399708,0.6815385182088627,1.0,380,INR
+BEA02223,Beauty,Conversions,Chennai,10042999,1465,Discover amazing beauty deals! Get Offer now!,#Discount #Promo #BrandDeal,0.4813759949745204,0.7340116285141193,1.0,1.0,967,INR
+FOO01489,Food,Traffic,Salem,676826,1612,Discover amazing food deals! Try Free now!,#Sale #Viral,0.6386857194025117,0.7129525317049296,0.0406604902503616,1.0,1420,INR
+TEC02021,Technology,Conversions,Thoothukudi,354893,1136,Discover amazing technology deals! Sign Up now!,#Ad #Promo #BestChoice #LimitedOffer,0.5520409508603176,1.0,0.8442982432880777,1.0,1365,INR
+BEA01857,Beauty,Leads,Tirunelveli,315374,1436,Discover amazing beauty deals! Sign Up now!,#NewProduct #InstaAd #Sale #Promo,0.6089368684995249,0.7674298769015533,0.8473869657455396,1.0,772,INR
+EDU01000,Education,Conversions,Nagercoil,124860,568,Discover amazing education deals! Shop Now now!,#Sale #Launch #BrandDeal #InstaAd,0.5601033266530809,0.7296234462118343,0.8260779810035672,1.0,608,INR
+TEC01664,Technology,Engagement,Chennai,10773707,62,Discover amazing technology deals! Learn More now!,#Viral #Trending,0.6739526876479915,0.8191604241965994,0.7025472127440033,1.0,59,INR
+EDU01638,Education,Brand Awareness,Salem,377475,1713,Discover amazing education deals! Join Today now!,#Trending #BrandDeal #Launch #InstaAd,0.6936203638936288,0.6763443119923848,0.8567982239166216,1.0,1483,INR
+EDU02160,Education,Brand Awareness,Kanniyakumari,170874,619,Discover amazing education deals! Join Today now!,#Launch #LimitedOffer #Trending #NewProduct,1.0,0.8988126807886156,0.8669097807435746,1.0,740,INR
+EDU01739,Education,Leads,Salem,649410,529,Discover amazing education deals! Learn More now!,#Viral #Promo,0.4648694457963395,0.9124509018845984,0.3879933019596259,1.0,559,INR
+BEA02167,Beauty,Leads,Tirunelveli,352499,1775,Discover amazing beauty deals! Get Offer now!,#Trending #Promo,0.6230866289733022,0.7029662009696854,0.6030664278084541,1.0,1260,INR
+AUT01021,Automobile,Leads,Madurai,789227,580,Discover amazing automobile deals! Download App now!,#InstaAd #Launch #Discount #NewProduct,0.6571403059333255,0.5041984635641963,0.7548407270186079,1.0,678,INR
+BEA01986,Beauty,Traffic,Salem,518118,692,Discover amazing beauty deals! Sign Up now!,#NewProduct #Viral,0.5796766587972756,0.5169278476312797,1.0,1.0,593,INR
+TEC01017,Technology,Leads,Thoothukudi,323786,680,Discover amazing technology deals! Try Free now!,#Ad #Sale,0.4277949878996344,0.6767059186766319,0.6961009701737617,1.0,862,INR
+AUT02041,Automobile,Brand Awareness,Salem,737280,182,Discover amazing automobile deals! Get Offer now!,#Promo #Marketing,0.4458338874285077,1.0,0.6631587993271386,1.0,225,INR
+AUT02239,Automobile,Leads,Salem,307813,673,Discover amazing automobile deals! Try Free now!,#LimitedOffer #BrandDeal,0.6684724398849343,0.7181733715935961,0.7068631417540172,1.0,815,INR
+AUT02215,Automobile,Traffic,Salem,331598,1351,Discover amazing automobile deals! Learn More now!,#Ad #Viral,0.6878140956388453,0.7690031085286204,0.5324686651717596,1.0,1767,INR
+FIN02073,Finance,Conversions,Dindigul,393790,334,Discover amazing finance deals! Get Offer now!,#InstaAd #Launch #Sale,0.9666323499708788,0.3757130600196001,0.6744192872439331,1.0,411,INR
+BEA01133,Beauty,Engagement,Dindigul,243106,1878,Discover amazing beauty deals! Learn More now!,#LimitedOffer #NewProduct,0.7250444389560629,0.7680922513959186,0.7319300934348448,1.0,1800,INR
+FIT01601,Fitness,Leads,Madurai,789226,1697,Discover amazing fitness deals! Download App now!,#InstaAd #Promo #NewProduct,0.8733148738121025,0.6577745036543882,0.5199593401059873,1.0,1297,INR
+TEC01171,Technology,Traffic,Chennai,10912825,1211,Discover amazing technology deals! Shop Now now!,#Discount #Launch,0.7246864727693141,0.8659751704000291,0.6592546219568123,1.0,1351,INR
+FIN01435,Finance,Conversions,Salem,527286,1896,Discover amazing finance deals! Shop Now now!,#InstaAd #Trending,0.7383588918981849,0.8634405517802566,0.8071687843239345,1.0,2066,INR
+FIT01694,Fitness,Traffic,Tirupur,375641,1176,Discover amazing fitness deals! Get Offer now!,#Marketing #Viral #NewProduct,0.7071465494399691,0.5239475496346706,0.4590775685954639,1.0,768,INR
+BEA01691,Beauty,Brand Awareness,Erode,211745,1019,Discover amazing beauty deals! Join Today now!,#NewProduct #Trending #InstaAd #Discount,0.5513768494115888,0.5735004907749719,0.9457990928136252,1.0,914,INR
+EDU01213,Education,Brand Awareness,Tirupur,226029,438,Discover amazing education deals! Sign Up now!,#Viral #NewProduct #Discount #InstaAd,0.3715346591508216,0.0340389105513354,0.6777359850537835,1.0,319,INR
